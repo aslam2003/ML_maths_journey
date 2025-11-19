@@ -1,0 +1,1652 @@
+year,type,discipline,event,as,athlete_id,noc,team,place,tied,medal,First_Name,Last_Name
+1992.0,Summer,Badminton,"Singles, Women (Olympic)",Madhumita Bisht,270,IND,,17.0,True,,Madhumita,Bisht
+1924.0,Summer,Tennis,"Singles, Women (Olympic)",Nora Polley,271,IND,,9.0,True,,Nora,Polley
+1924.0,Summer,Tennis,"Doubles, Mixed (Olympic)",Nora Polley,271,IND,Sydney Jacob,9.0,True,,Nora,Polley
+1996.0,Summer,Table Tennis,"Singles, Women (Olympic)",Ambika Radhika,272,IND,,49.0,True,,Ambika,Radhika
+1988.0,Summer,Table Tennis,"Singles, Women (Olympic)",Niyati Roy,273,IND,,41.0,True,,Niyati,Roy
+1992.0,Summer,Table Tennis,"Singles, Women (Olympic)",Niyati Roy-Shah,273,IND,,33.0,True,,Niyati,Roy-Shah
+1988.0,Summer,Tennis,"Singles, Men (Olympic)",Zeeshan Ali,274,IND,,17.0,True,,Zeeshan,Ali
+1988.0,Summer,Tennis,"Doubles, Men (Olympic)",Anand Amritraj,275,IND,Vijay Amritraj,9.0,True,,Anand,Amritraj
+1988.0,Summer,Tennis,"Singles, Men (Olympic)",Vijay Amritraj,276,IND,,33.0,True,,Vijay,Amritraj
+1988.0,Summer,Tennis,"Doubles, Men (Olympic)",Vijay Amritraj,276,IND,Anand Amritraj,9.0,True,,Vijay,Amritraj
+1992.0,Summer,Table Tennis,"Singles, Men (Olympic)",Chetan Baboor,277,IND,,49.0,True,,Chetan,Baboor
+1996.0,Summer,Table Tennis,"Singles, Men (Olympic)",Chetan Baboor,277,IND,,49.0,True,,Chetan,Baboor
+2000.0,Summer,Table Tennis,"Singles, Men (Olympic)",Chetan Baboor,277,IND,,33.0,True,,Chetan,Baboor
+2000.0,Summer,Table Tennis,"Doubles, Men (Olympic)",Chetan Baboor,277,IND,Raman Subramanyan,25.0,True,,Chetan,Baboor
+1992.0,Summer,Badminton,"Singles, Men (Olympic)",Deepankar Bhattacharya,278,IND,,9.0,True,,Deepankar,Bhattacharya
+1992.0,Summer,Badminton,"Doubles, Men (Olympic)",Deepankar Bhattacharya,278,IND,Vimal Kumar,17.0,True,,Deepankar,Bhattacharya
+1996.0,Summer,Badminton,"Singles, Men (Olympic)",Deepankar Bhattacharya,278,IND,,17.0,True,,Deepankar,Bhattacharya
+1996.0,Summer,Tennis,"Doubles, Men (Olympic)",Mahesh Bhupathi,279,IND,Leander Paes,9.0,True,,Mahesh,Bhupathi
+2000.0,Summer,Tennis,"Doubles, Men (Olympic)",Mahesh Bhupathi,279,IND,Leander Paes,9.0,True,,Mahesh,Bhupathi
+2004.0,Summer,Tennis,"Doubles, Men (Olympic)",Mahesh Bhupathi,279,IND,Leander Paes,4.0,False,,Mahesh,Bhupathi
+2008.0,Summer,Tennis,"Doubles, Men (Olympic)",Mahesh Bhupathi,279,IND,Leander Paes,5.0,True,,Mahesh,Bhupathi
+2012.0,Summer,Tennis,"Doubles, Men (Olympic)",Mahesh Bhupathi,279,IND,Rohan Bopanna,9.0,True,,Mahesh,Bhupathi
+1924.0,Summer,Tennis,"Singles, Men (Olympic)",Ali Athar Fyzee,280,IND,,33.0,True,,Ali,Athar
+1988.0,Summer,Table Tennis,"Singles, Men (Olympic)",Sujay Ghorpade,281,IND,,49.0,True,,Sujay,Ghorpade
+1988.0,Summer,Table Tennis,"Doubles, Men (Olympic)",Sujay Ghorpade,281,IND,Kamlesh Mehta,21.0,True,,Sujay,Ghorpade
+1992.0,Summer,Table Tennis,"Doubles, Men (Olympic)",Sujay Ghorpade,281,IND,Kamlesh Mehta,25.0,True,,Sujay,Ghorpade
+1924.0,Summer,Tennis,"Singles, Men (Olympic)",S. M. Hadi,282,IND,,33.0,True,,S.,M.
+1924.0,Summer,Tennis,"Doubles, Men (Olympic)",S. M. Hadi,282,IND,Donald Rutnam,5.0,True,,S.,M.
+1924.0,Summer,Tennis,"Singles, Men (Olympic)",Sydney Jacob,283,IND,,5.0,True,,Sydney,Jacob
+1924.0,Summer,Tennis,"Doubles, Mixed (Olympic)",Sydney Jacob,283,IND,Nora Polley,9.0,True,,Sydney,Jacob
+1924.0,Summer,Tennis,"Doubles, Men (Olympic)",Sydney Jacob,283,IND,Mohammed Sleem,29.0,True,,Sydney,Jacob
+1992.0,Summer,Tennis,"Singles, Men (Olympic)",Ramesh Krishnan,284,IND,,33.0,True,,Ramesh,Krishnan
+1992.0,Summer,Tennis,"Doubles, Men (Olympic)",Ramesh Krishnan,284,IND,Leander Paes,5.0,True,,Ramesh,Krishnan
+1992.0,Summer,Badminton,"Singles, Men (Olympic)",Vimal Kumar,285,IND,,33.0,True,,Vimal,Kumar
+1992.0,Summer,Badminton,"Doubles, Men (Olympic)",Vimal Kumar,285,IND,Deepankar Bhattacharya,17.0,True,,Vimal,Kumar
+1988.0,Summer,Table Tennis,"Singles, Men (Olympic)",Kamlesh Mehta,286,IND,,25.0,True,,Kamlesh,Mehta
+1988.0,Summer,Table Tennis,"Doubles, Men (Olympic)",Kamlesh Mehta,286,IND,Sujay Ghorpade,21.0,True,,Kamlesh,Mehta
+1992.0,Summer,Table Tennis,"Singles, Men (Olympic)",Kamlesh Mehta,286,IND,,17.0,True,,Kamlesh,Mehta
+1992.0,Summer,Table Tennis,"Doubles, Men (Olympic)",Kamlesh Mehta,286,IND,Sujay Ghorpade,25.0,True,,Kamlesh,Mehta
+1992.0,Summer,Tennis,"Singles, Men (Olympic)",Leander Paes,287,IND,,33.0,True,,Leander,Paes
+1992.0,Summer,Tennis,"Doubles, Men (Olympic)",Leander Paes,287,IND,Ramesh Krishnan,5.0,True,,Leander,Paes
+1996.0,Summer,Tennis,"Singles, Men (Olympic)",Leander Paes,287,IND,,3.0,False,Bronze,Leander,Paes
+1996.0,Summer,Tennis,"Doubles, Men (Olympic)",Leander Paes,287,IND,Mahesh Bhupathi,9.0,True,,Leander,Paes
+2000.0,Summer,Tennis,"Singles, Men (Olympic)",Leander Paes,287,IND,,33.0,True,,Leander,Paes
+2000.0,Summer,Tennis,"Doubles, Men (Olympic)",Leander Paes,287,IND,Mahesh Bhupathi,9.0,True,,Leander,Paes
+2004.0,Summer,Tennis,"Doubles, Men (Olympic)",Leander Paes,287,IND,Mahesh Bhupathi,4.0,False,,Leander,Paes
+2008.0,Summer,Tennis,"Doubles, Men (Olympic)",Leander Paes,287,IND,Mahesh Bhupathi,5.0,True,,Leander,Paes
+2012.0,Summer,Tennis,"Doubles, Mixed (Olympic)",Leander Paes,287,IND,Sania Mirza,5.0,True,,Leander,Paes
+2012.0,Summer,Tennis,"Doubles, Men (Olympic)",Leander Paes,287,IND,Jagadeesan Vishnuvardhan,9.0,True,,Leander,Paes
+2016.0,Summer,Tennis,"Doubles, Men (Olympic)",Leander Paes,287,IND,Rohan Bopanna,17.0,True,,Leander,Paes
+1924.0,Summer,Tennis,"Doubles, Men (Olympic)",Donald Rutnam,288,IND,S. M. Hadi,5.0,True,,Donald,Rutnam
+1924.0,Summer,Tennis,"Singles, Men (Olympic)",Mohammed Sleem,289,IND,,17.0,True,,Mohammed,Sleem
+1924.0,Summer,Tennis,"Doubles, Men (Olympic)",Mohammed Sleem,289,IND,Sydney Jacob,29.0,True,,Mohammed,Sleem
+1992.0,Summer,Archery,"Individual, Men (Olympic)",Dhulchand Damor,1898,IND,,66.0,False,,Dhulchand,Damor
+1992.0,Summer,Archery,"Team, Men (Olympic)",Dhulchand Damor,1898,IND,India,16.0,False,,Dhulchand,Damor
+1996.0,Summer,Archery,"Individual, Men (Olympic)",Skalzang Dorje,1899,IND,,47.0,False,,Skalzang,Dorje
+1996.0,Summer,Archery,"Team, Men (Olympic)",Skalzang Dorje,1899,IND,India,14.0,False,,Skalzang,Dorje
+1992.0,Summer,Archery,"Individual, Men (Olympic)",Changte Lalremsaga,1900,IND,,53.0,False,,Changte,Lalremsaga
+1992.0,Summer,Archery,"Team, Men (Olympic)",Changte Lalremsaga,1900,IND,India,16.0,False,,Changte,Lalremsaga
+1996.0,Summer,Archery,"Individual, Men (Olympic)",Changte Lalremsaga,1900,IND,,25.0,False,,Changte,Lalremsaga
+1996.0,Summer,Archery,"Team, Men (Olympic)",Changte Lalremsaga,1900,IND,India,14.0,False,,Changte,Lalremsaga
+1988.0,Summer,Archery,"Individual, Men (Olympic)",Limba Ram,1901,IND,,39.0,False,,Limba,Ram
+1988.0,Summer,Archery,"Team, Men (Olympic)",Limba Ram,1901,IND,India,20.0,False,,Limba,Ram
+1992.0,Summer,Archery,"Individual, Men (Olympic)",Limba Ram,1901,IND,,23.0,False,,Limba,Ram
+1992.0,Summer,Archery,"Team, Men (Olympic)",Limba Ram,1901,IND,India,16.0,False,,Limba,Ram
+1996.0,Summer,Archery,"Individual, Men (Olympic)",Limba Ram,1901,IND,,63.0,False,,Limba,Ram
+1996.0,Summer,Archery,"Team, Men (Olympic)",Limba Ram,1901,IND,India,14.0,False,,Limba,Ram
+1988.0,Summer,Archery,"Individual, Men (Olympic)",Shyam Lal Meena,1902,IND,,71.0,False,,Shyam,Lal
+1988.0,Summer,Archery,"Team, Men (Olympic)",Shyam Lal Meena,1902,IND,India,20.0,False,,Shyam,Lal
+1988.0,Summer,Archery,"Individual, Men (Olympic)",Sanjeev Singh,1903,IND,,36.0,False,,Sanjeev,Singh
+1988.0,Summer,Archery,"Team, Men (Olympic)",Sanjeev Singh,1903,IND,India,20.0,False,,Sanjeev,Singh
+1996.0,Summer,Badminton,"Singles, Women (Olympic)",Varalakshimi Pandimukkala Venkata,2264,IND,,17.0,True,,Varalakshimi,Pandimukkala
+1948.0,Summer,Boxing,"Flyweight, Men (Olympic)",Rabin Bhatta,3868,IND,,9.0,True,,Rabin,Bhatta
+1988.0,Summer,Boxing,"Bantamweight, Men (Olympic)",Shahuraj Birajdar,3869,IND,,9.0,True,,Shahuraj,Birajdar
+1992.0,Summer,Boxing,"Featherweight, Men (Olympic)",Narendar Bisth Singh,3870,IND,,17.0,True,,Narendar,Bisth
+1948.0,Summer,Boxing,"Lightweight, Men (Olympic)",Robert Cranston,3871,IND,,,False,,Robert,Cranston
+1948.0,Summer,Boxing,"Welterweight, Men (Olympic)",Robert Cranston,3871,IND,,17.0,True,,Robert,Cranston
+1980.0,Summer,Boxing,"Flyweight, Men (Olympic)",Amal Das,3872,IND,,17.0,True,,Amal,Das
+1996.0,Summer,Boxing,"Light-Flyweight, Men (Olympic)",Debendra Thapa,3873,IND,,17.0,True,,Debendra,Thapa
+1988.0,Summer,Boxing,"Featherweight, Men (Olympic)",John Francis,3874,IND,,17.0,True,,John,Francis
+1992.0,Summer,Boxing,"Light-Welterweight, Men (Olympic)",Sandeep Gollen,3875,IND,,17.0,True,,Sandeep,Gollen
+1948.0,Summer,Boxing,"Light-Heavyweight, Men (Olympic)",Mac Joachim,3876,IND,,17.0,True,,Mac,Joachim
+1948.0,Summer,Boxing,"Featherweight, Men (Olympic)",Benoy Bose,3877,IND,,17.0,True,,Benoy,Bose
+1952.0,Summer,Boxing,"Featherweight, Men (Olympic)",Benoy Bose,3877,IND,,17.0,True,,Benoy,Bose
+1948.0,Summer,Boxing,"Bantamweight, Men (Olympic)",Bob Lall,3878,IND,,9.0,True,,Bob,Lall
+1976.0,Summer,Boxing,"Light-Welterweight, Men (Olympic)",C. C. Machiah,3879,IND,,25.0,True,,C.,C.
+1952.0,Summer,Boxing,"Flyweight, Men (Olympic)",Sakti Mazumdar,3880,IND,,9.0,True,,Sakti,Mazumdar
+1980.0,Summer,Boxing,"Bantamweight, Men (Olympic)",Ganapathy Manoharan,3881,IND,,9.0,True,,Ganapathy,Manoharan
+1972.0,Summer,Boxing,"Light-Heavyweight, Men (Olympic)",Mehtab Singh,3882,IND,,17.0,True,,Mehtab,Singh
+1972.0,Summer,Boxing,"Flyweight, Men (Olympic)",Chander Narayanan,3883,IND,,17.0,True,,Chander,Narayanan
+1952.0,Summer,Boxing,"Light-Welterweight, Men (Olympic)",Ron Norris,3884,IND,,,False,,Ron,Norris
+1952.0,Summer,Boxing,"Welterweight, Men (Olympic)",Ron Norris,3884,IND,,5.0,True,,Ron,Norris
+1948.0,Summer,Boxing,"Welterweight, Men (Olympic)",Johnny Nuttall,3885,IND,,,False,,Johnny,Nuttall
+1948.0,Summer,Boxing,"Middleweight, Men (Olympic)",Johnny Nuttall,3885,IND,,9.0,True,,Johnny,Nuttall
+1988.0,Summer,Boxing,"Flyweight, Men (Olympic)",Manoj Pingale,3886,IND,,9.0,True,,Manoj,Pingale
+1984.0,Summer,Boxing,"Light-Welterweight, Men (Olympic)",Jaslal Pradhan,3887,IND,,33.0,True,,Jaslal,Pradhan
+1992.0,Summer,Boxing,"Light-Flyweight, Men (Olympic)",Rajendra Prasad,3888,IND,,9.0,True,,Rajendra,Prasad
+1976.0,Summer,Boxing,"Featherweight, Men (Olympic)",S. K. Rai,3889,IND,,17.0,True,,S.,K.
+1948.0,Summer,Boxing,"Featherweight, Men (Olympic)",Gene Raymond,3890,IND,,,False,,Gene,Raymond
+1948.0,Summer,Boxing,"Lightweight, Men (Olympic)",Gene Raymond,3890,IND,,17.0,True,,Gene,Raymond
+1996.0,Summer,Boxing,"Light-Heavyweight, Men (Olympic)",Gurcharan Singh,3891,IND,,17.0,True,,Gurcharan,Singh
+2000.0,Summer,Boxing,"Light-Heavyweight, Men (Olympic)",Gurcharan Singh,3891,IND,,8.0,False,,Gurcharan,Singh
+1984.0,Summer,Boxing,"Heavyweight, Men (Olympic)",Kaur Singh,3892,IND,,9.0,True,,Kaur,Singh
+1996.0,Summer,Boxing,"Heavyweight, Men (Olympic)",Lakha Singh,3893,IND,,17.0,True,,Lakha,Singh
+1980.0,Summer,Boxing,"Light-Flyweight, Men (Olympic)",Birender Singh Thapa,3894,IND,,17.0,True,,Birender,Singh
+1992.0,Summer,Boxing,"Bantamweight, Men (Olympic)",Devarajan Venkatesan,3895,IND,,17.0,True,,Devarajan,Venkatesan
+1972.0,Summer,Boxing,"Lightweight, Men (Olympic)",Muniswamy Venu,3896,IND,,9.0,True,,Muniswamy,Venu
+1952.0,Summer,Boxing,"Light-Heavyweight, Men (Olympic)",Oscar Ward,3897,IND,,17.0,True,,Oscar,Ward
+1992.0,Summer,Boxing,"Flyweight, Men (Olympic)",Dharmendra Yadav,3898,IND,,17.0,True,,Dharmendra,Yadav
+1980.0,Summer,Basketball (Basketball),"Basketball, Men (Olympic)",Parvez Diniar,6009,IND,India,12.0,False,,Parvez,Diniar
+1980.0,Summer,Basketball (Basketball),"Basketball, Men (Olympic)",Dilip Gurumurthy,6232,IND,India,12.0,False,,Dilip,Gurumurthy
+1980.0,Summer,Basketball (Basketball),"Basketball, Men (Olympic)",Amarnath Nagarajan,6724,IND,India,12.0,False,,Amarnath,Nagarajan
+1980.0,Summer,Basketball (Basketball),"Basketball, Men (Olympic)",Radhey Shyam,6913,IND,India,12.0,False,,Radhey,Shyam
+1980.0,Summer,Basketball (Basketball),"Basketball, Men (Olympic)",Baldev Singh,7120,IND,India,12.0,False,,Baldev,Singh
+1980.0,Summer,Basketball (Basketball),"Basketball, Men (Olympic)",Ajmer Singh,7121,IND,India,12.0,False,,Ajmer,Singh
+1980.0,Summer,Basketball (Basketball),"Basketball, Men (Olympic)",Harbhajan Singh,7122,IND,India,12.0,False,,Harbhajan,Singh
+1980.0,Summer,Basketball (Basketball),"Basketball, Men (Olympic)",Jorawar Singh,7123,IND,India,12.0,False,,Jorawar,Singh
+1980.0,Summer,Basketball (Basketball),"Basketball, Men (Olympic)",Pramdiph Singh,7124,IND,India,12.0,False,,Pramdiph,Singh
+1980.0,Summer,Basketball (Basketball),"Basketball, Men (Olympic)",Paramjit Singh,7125,IND,India,12.0,False,,Paramjit,Singh
+1980.0,Summer,Basketball (Basketball),"Basketball, Men (Olympic)",Hanuman Singh,7126,IND,India,12.0,False,,Hanuman,Singh
+1980.0,Summer,Basketball (Basketball),"Basketball, Men (Olympic)",Tarlok Singh Sandhu,7127,IND,India,12.0,False,,Tarlok,Singh
+1980.0,Summer,Equestrian Eventing (Equestrian),"Individual, Open (Olympic)",Jitendarjit Singh Ahluwalia,11520,IND,Shiwalik,,False,,Jitendarjit,Singh
+1980.0,Summer,Equestrian Eventing (Equestrian),"Team, Open (Olympic)",Jitendarjit Singh Ahluwalia,11520,IND,Shiwalik / India,,False,,Jitendarjit,Singh
+1980.0,Summer,Equestrian Eventing (Equestrian),"Individual, Open (Olympic)",Hussain Khan,12222,IND,Rajdoot,,False,,Hussain,Khan
+1980.0,Summer,Equestrian Eventing (Equestrian),"Team, Open (Olympic)",Hussain Khan,12222,IND,Rajdoot / India,,False,,Hussain,Khan
+1980.0,Summer,Equestrian Eventing (Equestrian),"Individual, Open (Olympic)",Muhammad Khan,12223,IND,I-Am-It,,False,,Muhammad,Khan
+1980.0,Summer,Equestrian Eventing (Equestrian),"Team, Open (Olympic)",Muhammad Khan,12223,IND,I-Am-It / India,,False,,Muhammad,Khan
+1996.0,Summer,Equestrian Eventing (Equestrian),"Individual, Open (Olympic)",Indrajit Lamba,12279,IND,Karishma,,False,,Indrajit,Lamba
+1980.0,Summer,Equestrian Eventing (Equestrian),"Individual, Open (Olympic)",Darya Singh,12746,IND,Bobby,,False,,Darya,Singh
+1980.0,Summer,Equestrian Eventing (Equestrian),"Team, Open (Olympic)",Darya Singh,12746,IND,Bobby / India,,False,,Darya,Singh
+1948.0,Summer,Cycling Track (Cycling),"Team Pursuit, 4,000 metres, Men (Olympic)",Jehangoo Amin,13377,IND,India,2.0,False,,Jehangoo,Amin
+1952.0,Summer,Cycling Road (Cycling),"Road Race, Individual, Men (Olympic)",Pradip Bose,13645,IND,,,False,,Pradip,Bose
+1952.0,Summer,Cycling Road (Cycling),"Road Race, Team, Men (Olympic)",Pradip Bose,13645,IND,India,,False,,Pradip,Bose
+1952.0,Summer,Cycling Road (Cycling),"Road Race, Individual, Men (Olympic)",Netai Bysack,13786,IND,,,False,,Netai,Bysack
+1952.0,Summer,Cycling Road (Cycling),"Road Race, Team, Men (Olympic)",Netai Bysack,13786,IND,India,,False,,Netai,Bysack
+1952.0,Summer,Cycling Road (Cycling),Cycling Track (Cycling),Netai Bysack,13786,IND,IND,,True,,Netai,Bysack
+1952.0,Summer,Cycling Road (Cycling),"Sprint, Men (Olympic)",Netai Bysack,13786,IND,,3.0,False,,Netai,Bysack
+1952.0,Summer,Cycling Road (Cycling),"Team Pursuit, 4,000 metres, Men (Olympic)",Netai Bysack,13786,IND,India,22.0,False,,Netai,Bysack
+1952.0,Summer,Cycling Road (Cycling),"Road Race, Individual, Men (Olympic)",Suprovat Chakravarty,13876,IND,,,False,,Suprovat,Chakravarty
+1952.0,Summer,Cycling Road (Cycling),"Road Race, Team, Men (Olympic)",Suprovat Chakravarty,13876,IND,India,,False,,Suprovat,Chakravarty
+1952.0,Summer,Cycling Road (Cycling),Cycling Track (Cycling),Suprovat Chakravarty,13876,IND,IND,,True,,Suprovat,Chakravarty
+1952.0,Summer,Cycling Road (Cycling),"1,000 metres Time Trial, Men (Olympic)",Suprovat Chakravarty,13876,IND,,27.0,False,,Suprovat,Chakravarty
+1952.0,Summer,Cycling Road (Cycling),"Team Pursuit, 4,000 metres, Men (Olympic)",Suprovat Chakravarty,13876,IND,India,22.0,False,,Suprovat,Chakravarty
+1948.0,Summer,Cycling Road (Cycling),"Road Race, Individual, Men (Olympic)",Bapoo Malcolm,14691,IND,,,False,,Bapoo,Malcolm
+1948.0,Summer,Cycling Road (Cycling),"Road Race, Team, Men (Olympic)",Bapoo Malcolm,14691,IND,India,,False,,Bapoo,Malcolm
+1948.0,Summer,Cycling Track (Cycling),"Team Pursuit, 4,000 metres, Men (Olympic)",Adi Havewala,14692,IND,India,2.0,False,,Adi,Havewala
+1948.0,Summer,Cycling Road (Cycling),"Road Race, Individual, Men (Olympic)",Raj Kumar Mehra,15602,IND,,,False,,Raj,Kumar
+1948.0,Summer,Cycling Road (Cycling),"Road Race, Team, Men (Olympic)",Raj Kumar Mehra,15602,IND,India,,False,,Raj,Kumar
+1952.0,Summer,Cycling Road (Cycling),"Road Race, Individual, Men (Olympic)",Raj Kumar Mehra,15602,IND,,,False,,Raj,Kumar
+1952.0,Summer,Cycling Road (Cycling),"Road Race, Team, Men (Olympic)",Raj Kumar Mehra,15602,IND,India,,False,,Raj,Kumar
+1952.0,Summer,Cycling Road (Cycling),Cycling Track (Cycling),Raj Kumar Mehra,15602,IND,IND,,True,,Raj,Kumar
+1952.0,Summer,Cycling Road (Cycling),"Team Pursuit, 4,000 metres, Men (Olympic)",Raj Kumar Mehra,15602,IND,India,22.0,False,,Raj,Kumar
+1948.0,Summer,Cycling Road (Cycling),"Road Race, Individual, Men (Olympic)",Eruch Mistry,15686,IND,,,False,,Eruch,Mistry
+1948.0,Summer,Cycling Road (Cycling),"Road Race, Team, Men (Olympic)",Eruch Mistry,15686,IND,India,,False,,Eruch,Mistry
+1948.0,Summer,Cycling Track (Cycling),"Sprint, Men (Olympic)",Rusi Mulla Feroze,15780,IND,,2.0,False,,Rusi,Mulla
+1948.0,Summer,Cycling Track (Cycling),"1,000 metres Time Trial, Men (Olympic)",R. R. Noble,15895,IND,,19.0,False,,R.,R.
+1948.0,Summer,Cycling Track (Cycling),"Team Pursuit, 4,000 metres, Men (Olympic)",R. R. Noble,15895,IND,India,2.0,False,,R.,R.
+1948.0,Summer,Cycling Road (Cycling),"Road Race, Individual, Men (Olympic)",Homi Pavri,16037,IND,,,False,,Homi,Pavri
+1948.0,Summer,Cycling Road (Cycling),"Road Race, Team, Men (Olympic)",Homi Pavri,16037,IND,India,,False,,Homi,Pavri
+1948.0,Summer,Cycling Track (Cycling),"Team Pursuit, 4,000 metres, Men (Olympic)",Piloo Sarkari,16455,IND,India,2.0,False,,Piloo,Sarkari
+1952.0,Summer,Cycling Track (Cycling),"Team Pursuit, 4,000 metres, Men (Olympic)",Tarit Kumar Sett,16547,IND,India,22.0,False,,Tarit,Kumar
+1964.0,Summer,Cycling Track (Cycling),"Sprint, Men (Olympic)",Suchha Singh,16589,IND,,2.0,False,,Suchha,Singh
+1964.0,Summer,Cycling Road (Cycling),"100 kilometres Team Time Trial, Men (Olympic)",Amar Singh Billing,16590,IND,India,,False,,Amar,Singh
+1964.0,Summer,Cycling Road (Cycling),Cycling Track (Cycling),Amar Singh Billing,16590,IND,IND,,True,,Amar,Singh
+1964.0,Summer,Cycling Road (Cycling),"Sprint, Men (Olympic)",Amar Singh Billing,16590,IND,,3.0,False,,Amar,Singh
+1964.0,Summer,Cycling Road (Cycling),"Team Pursuit, 4,000 metres, Men (Olympic)",Amar Singh Billing,16590,IND,India,2.0,False,,Amar,Singh
+1964.0,Summer,Cycling Road (Cycling),"100 kilometres Team Time Trial, Men (Olympic)",Dalbir Singh Gill,16591,IND,India,,False,,Dalbir,Singh
+1964.0,Summer,Cycling Road (Cycling),Cycling Track (Cycling),Dalbir Singh Gill,16591,IND,IND,,True,,Dalbir,Singh
+1964.0,Summer,Cycling Road (Cycling),"1,000 metres Time Trial, Men (Olympic)",Dalbir Singh Gill,16591,IND,,26.0,False,,Dalbir,Singh
+1964.0,Summer,Cycling Road (Cycling),"Team Pursuit, 4,000 metres, Men (Olympic)",Dalbir Singh Gill,16591,IND,India,2.0,False,,Dalbir,Singh
+1964.0,Summer,Cycling Road (Cycling),"100 kilometres Team Time Trial, Men (Olympic)",Chetan Singh Hari,16592,IND,India,,False,,Chetan,Singh
+1964.0,Summer,Cycling Road (Cycling),Cycling Track (Cycling),Chetan Singh Hari,16592,IND,IND,,True,,Chetan,Singh
+1964.0,Summer,Cycling Road (Cycling),"Team Pursuit, 4,000 metres, Men (Olympic)",Chetan Singh Hari,16592,IND,India,2.0,False,,Chetan,Singh
+1964.0,Summer,Cycling Road (Cycling),"100 kilometres Team Time Trial, Men (Olympic)",Amar Singh Sokhi,16593,IND,India,,False,,Amar,Singh
+1964.0,Summer,Cycling Road (Cycling),Cycling Track (Cycling),Amar Singh Sokhi,16593,IND,IND,,True,,Amar,Singh
+1964.0,Summer,Cycling Road (Cycling),"Individual Pursuit, 4,000 metres, Men (Olympic)",Amar Singh Sokhi,16593,IND,,18.0,False,,Amar,Singh
+1964.0,Summer,Cycling Road (Cycling),"Team Pursuit, 4,000 metres, Men (Olympic)",Amar Singh Sokhi,16593,IND,India,2.0,False,,Amar,Singh
+1980.0,Summer,Hockey,"Hockey, Women (Olympic)",Gangotri Bhandari,19127,IND,India,4.0,False,,Gangotri,Bhandari
+1980.0,Summer,Hockey,"Hockey, Women (Olympic)",Balwinder Kaur Bhatia,19128,IND,India,4.0,False,,Balwinder,Kaur
+1980.0,Summer,Hockey,"Hockey, Women (Olympic)",Sudha Chaudhry,19129,IND,India,4.0,False,,Sudha,Chaudhry
+1980.0,Summer,Hockey,"Hockey, Women (Olympic)",Selma D'Silva,19130,IND,India,4.0,False,,Selma,D'Silva
+1980.0,Summer,Hockey,"Hockey, Women (Olympic)",Lorraine Fernandes,19131,IND,India,4.0,False,,Lorraine,Fernandes
+1980.0,Summer,Hockey,"Hockey, Women (Olympic)",Harpreet Gill,19132,IND,India,4.0,False,,Harpreet,Gill
+1980.0,Summer,Hockey,"Hockey, Women (Olympic)",Nazleen Madraswalla,19133,IND,India,4.0,False,,Nazleen,Madraswalla
+1980.0,Summer,Hockey,"Hockey, Women (Olympic)",Rekha Mundphan,19134,IND,India,4.0,False,,Rekha,Mundphan
+1980.0,Summer,Hockey,"Hockey, Women (Olympic)",Eliza Nelson,19135,IND,India,4.0,False,,Eliza,Nelson
+1980.0,Summer,Hockey,"Hockey, Women (Olympic)",Rupa Kumari Saini,19136,IND,India,4.0,False,,Rupa,Kumari
+1980.0,Summer,Hockey,"Hockey, Women (Olympic)",Nisha Sharma,19137,IND,India,4.0,False,,Nisha,Sharma
+1980.0,Summer,Hockey,"Hockey, Women (Olympic)",Varsha Soni,19138,IND,India,4.0,False,,Varsha,Soni
+1980.0,Summer,Hockey,"Hockey, Women (Olympic)",Prema Maya Sonir,19139,IND,India,4.0,False,,Prema,Maya
+1980.0,Summer,Hockey,"Hockey, Women (Olympic)",Margaret Toscano,19140,IND,India,4.0,False,,Margaret,Toscano
+1992.0,Summer,Hockey,"Hockey, Men (Olympic)",Shakeel Ahmed,19141,IND,India,7.0,False,,Shakeel,Ahmed
+1992.0,Summer,Hockey,"Hockey, Men (Olympic)",Ajit Lakra,19142,IND,India,7.0,False,,Ajit,Lakra
+1996.0,Summer,Hockey,"Hockey, Men (Olympic)",Anil Alexander Aldrin,19143,IND,India,8.0,False,,Anil,Alexander
+1976.0,Summer,Hockey,"Hockey, Men (Olympic)",Syed Ali,19144,IND,India,7.0,False,,Syed,Ali
+1928.0,Summer,Hockey,"Hockey, Men (Olympic)",Richard Allen,19145,IND,British India,1.0,False,Gold,Richard,Allen
+1932.0,Summer,Hockey,"Hockey, Men (Olympic)",Richard Allen,19145,IND,British India,1.0,False,Gold,Richard,Allen
+1936.0,Summer,Hockey,"Hockey, Men (Olympic)",Richard Allen,19145,IND,British India,1.0,False,Gold,Richard,Allen
+1992.0,Summer,Hockey,"Hockey, Men (Olympic)",Subbaiah Anjaparavanda,19146,IND,India,,False,,Subbaiah,Anjaparavanda
+1996.0,Summer,Hockey,"Hockey, Men (Olympic)",Subbaiah Anjaparavanda,19146,IND,India,8.0,False,,Subbaiah,Anjaparavanda
+1960.0,Summer,Hockey,"Hockey, Men (Olympic)",Joe Antic,19147,IND,India,2.0,False,Silver,Joe,Antic
+1928.0,Summer,Hockey,"Hockey, Men (Olympic)",Dhyan Chand,19148,IND,British India,1.0,False,Gold,Dhyan,Chand
+1932.0,Summer,Hockey,"Hockey, Men (Olympic)",Dhyan Chand,19148,IND,British India,1.0,False,Gold,Dhyan,Chand
+1936.0,Summer,Hockey,"Hockey, Men (Olympic)",Dhyan Chand,19148,IND,British India,1.0,False,Gold,Dhyan,Chand
+1932.0,Summer,Hockey,"Hockey, Men (Olympic)",Roop Singh,19149,IND,British India,1.0,False,Gold,Roop,Singh
+1936.0,Summer,Hockey,"Hockey, Men (Olympic)",Roop Singh,19149,IND,British India,1.0,False,Gold,Roop,Singh
+1988.0,Summer,Hockey,"Hockey, Men (Olympic)",Subramani Balada Kalaiah,19150,IND,India,6.0,False,,Subramani,Balada
+1992.0,Summer,Hockey,"Hockey, Men (Olympic)",Ashish Kumar Ballal,19151,IND,India,7.0,False,,Ashish,Kumar
+1976.0,Summer,Hockey,"Hockey, Men (Olympic)",Vasudevan Bhaskaran,19152,IND,India,7.0,False,,Vasudevan,Bhaskaran
+1980.0,Summer,Hockey,"Hockey, Men (Olympic)",Vasudevan Bhaskaran,19152,IND,India,1.0,False,Gold,Vasudevan,Bhaskaran
+1932.0,Summer,Hockey,"Hockey, Men (Olympic)",Lal Shah Bokhari,19153,IND,British India,1.0,False,Gold,Lal,Shah
+1932.0,Summer,Athletics,"4 × 100 metres Relay, Men (Olympic)",Dickie Carr,19154,IND,British India,5.0,False,,Dickie,Carr
+1932.0,Summer,Athletics,Hockey,Dickie Carr,19154,IND,IND,,True,,Dickie,Carr
+1932.0,Summer,Athletics,"Hockey, Men (Olympic)",Dickie Carr,19154,IND,British India,1.0,False,Gold,Dickie,Carr
+1984.0,Summer,Hockey,"Hockey, Men (Olympic)",Joaquim Carvalho,19155,IND,India,5.0,False,,Joaquim,Carvalho
+1972.0,Summer,Hockey,"Hockey, Men (Olympic)",Charles Cornelius,19156,IND,India,3.0,False,Bronze,Charles,Cornelius
+1976.0,Summer,Hockey,"Hockey, Men (Olympic)",Bir Bahadur Chettri,19157,IND,India,7.0,False,,Bir,Bahadur
+1980.0,Summer,Hockey,"Hockey, Men (Olympic)",Bir Bahadur Chettri,19157,IND,India,1.0,False,Gold,Bir,Bahadur
+1964.0,Summer,Hockey,"Hockey, Men (Olympic)",Rajendra Christy,19158,IND,India,,False,,Rajendra,Christy
+1968.0,Summer,Hockey,"Hockey, Men (Olympic)",Rajendra Christy,19158,IND,India,3.0,False,Bronze,Rajendra,Christy
+1948.0,Summer,Hockey,"Hockey, Men (Olympic)",Leslie Claudius,19159,IND,India,1.0,False,Gold,Leslie,Claudius
+1952.0,Summer,Hockey,"Hockey, Men (Olympic)",Leslie Claudius,19159,IND,India,1.0,False,Gold,Leslie,Claudius
+1956.0,Summer,Hockey,"Hockey, Men (Olympic)",Leslie Claudius,19159,IND,India,1.0,False,Gold,Leslie,Claudius
+1960.0,Summer,Hockey,"Hockey, Men (Olympic)",Leslie Claudius,19159,IND,India,2.0,False,Silver,Leslie,Claudius
+1936.0,Summer,Hockey,"Hockey, Men (Olympic)",Ernie Goodsir-Cullen,19160,IND,British India,1.0,False,Gold,Ernie,Goodsir-Cullen
+1928.0,Summer,Hockey,"Hockey, Men (Olympic)",Willie Goodsir-Cullen,19161,IND,British India,1.0,False,Gold,Willie,Goodsir-Cullen
+1952.0,Summer,Hockey,"Hockey, Men (Olympic)",Meldric daLuz,19162,IND,India,1.0,False,Gold,Meldric,daLuz
+1936.0,Summer,Hockey,"Hockey, Men (Olympic)",Ali Dara,19163,IND,British India,1.0,False,Gold,Ali,Dara
+1952.0,Summer,Hockey,"Hockey, Men (Olympic)",Chinnadorai Desamuthu,19164,IND,India,1.0,False,Gold,Chinnadorai,Desamuthu
+1960.0,Summer,Hockey,"Hockey, Men (Olympic)",Chinnadorai Desamuthu,19164,IND,India,,False,,Chinnadorai,Desamuthu
+1996.0,Summer,Hockey,"Hockey, Men (Olympic)",Baljit Singh Dhillon,19166,IND,India,8.0,False,,Baljit,Singh
+2000.0,Summer,Hockey,"Hockey, Men (Olympic)",Baljit Singh Dhillon,19166,IND,India,7.0,False,,Baljit,Singh
+2004.0,Summer,Hockey,"Hockey, Men (Olympic)",Baljit Singh Dhillon,19166,IND,India,7.0,False,,Baljit,Singh
+1976.0,Summer,Hockey,"Hockey, Men (Olympic)",Ashok Diwan,19167,IND,India,7.0,False,,Ashok,Diwan
+1992.0,Summer,Hockey,"Hockey, Men (Olympic)",Darryl D'Souza,19168,IND,India,7.0,False,,Darryl,D'Souza
+1948.0,Summer,Hockey,"Hockey, Men (Olympic)",Walter de Sousa,19169,IND,India,1.0,False,Gold,Walter,de
+1980.0,Summer,Hockey,"Hockey, Men (Olympic)",Dung Dung Sylvanus,19170,IND,India,1.0,False,Gold,Dung,Dung
+1948.0,Summer,Hockey,"Hockey, Men (Olympic)",Keshav Dutt,19171,IND,India,1.0,False,Gold,Keshav,Dutt
+1952.0,Summer,Hockey,"Hockey, Men (Olympic)",Keshav Dutt,19171,IND,India,1.0,False,Gold,Keshav,Dutt
+1996.0,Summer,Hockey,"Hockey, Men (Olympic)",Alloysius Edwards,19172,IND,India,8.0,False,,Alloysius,Edwards
+1936.0,Summer,Hockey,"Hockey, Men (Olympic)",Lionel Emmett,19173,IND,British India,1.0,False,Gold,Lionel,Emmett
+1948.0,Summer,Hockey,"Hockey, Men (Olympic)",Lawrie Fernandes,19174,IND,India,1.0,False,Gold,Lawrie,Fernandes
+1936.0,Summer,Hockey,"Hockey, Men (Olympic)",Peter Paul Fernandes,19175,IND,British India,1.0,False,Gold,Peter,Paul
+1980.0,Summer,Hockey,"Hockey, Men (Olympic)",Merwyn Fernandis,19176,IND,India,1.0,False,Gold,Merwyn,Fernandis
+1984.0,Summer,Hockey,"Hockey, Men (Olympic)",Merwyn Fernandis,19176,IND,India,5.0,False,,Merwyn,Fernandis
+1988.0,Summer,Hockey,"Hockey, Men (Olympic)",Merwyn Fernandis,19176,IND,India,6.0,False,,Merwyn,Fernandis
+1996.0,Summer,Hockey,"Hockey, Men (Olympic)",Gavin Ferreira,19177,IND,India,8.0,False,,Gavin,Ferreira
+1948.0,Summer,Hockey,"Hockey, Men (Olympic)",Ranganathan Francis,19178,IND,India,1.0,False,Gold,Ranganathan,Francis
+1952.0,Summer,Hockey,"Hockey, Men (Olympic)",Ranganathan Francis,19178,IND,India,1.0,False,Gold,Ranganathan,Francis
+1956.0,Summer,Hockey,"Hockey, Men (Olympic)",Ranganathan Francis,19178,IND,India,1.0,False,Gold,Ranganathan,Francis
+1972.0,Summer,Hockey,"Hockey, Men (Olympic)",Manuel Frederick,19179,IND,India,3.0,False,Bronze,Manuel,Frederick
+1936.0,Summer,Hockey,"Hockey, Men (Olympic)",Joe Galibardy,19180,IND,British India,1.0,False,Gold,Joe,Galibardy
+1928.0,Summer,Hockey,"Hockey, Men (Olympic)",Michael Gateley,19181,IND,British India,1.0,False,Gold,Michael,Gateley
+1948.0,Summer,Hockey,"Hockey, Men (Olympic)",Gerry Glackan,19182,IND,India,1.0,False,Gold,Gerry,Glackan
+1984.0,Summer,Hockey,"Hockey, Men (Olympic)",Marcellus Gomes,19183,IND,India,5.0,False,,Marcellus,Gomes
+1972.0,Summer,Hockey,"Hockey, Men (Olympic)",B. P. Govinda,19184,IND,India,3.0,False,Bronze,B.,P.
+1976.0,Summer,Hockey,"Hockey, Men (Olympic)",B. P. Govinda,19184,IND,India,7.0,False,,B.,P.
+1984.0,Summer,Hockey,"Hockey, Men (Olympic)",Iqbaljit Singh Grewal,19185,IND,India,5.0,False,,Iqbaljit,Singh
+1928.0,Summer,Hockey,"Hockey, Men (Olympic)",Leslie Hammond,19186,IND,British India,1.0,False,Gold,Leslie,Hammond
+1932.0,Summer,Hockey,"Hockey, Men (Olympic)",Leslie Hammond,19186,IND,British India,1.0,False,Gold,Leslie,Hammond
+1932.0,Summer,Hockey,"Hockey, Men (Olympic)",Arthur Hind,19187,IND,British India,1.0,False,Gold,Arthur,Hind
+1936.0,Summer,Hockey,"Hockey, Men (Olympic)",Sayed Muhammad Hussain,19188,IND,British India,1.0,False,Gold,Sayed,Muhammad
+1932.0,Summer,Hockey,"Hockey, Men (Olympic)",Sayed Jaffar,19189,IND,British India,1.0,False,Gold,Sayed,Jaffar
+1936.0,Summer,Hockey,"Hockey, Men (Olympic)",Sayed Jaffar,19189,IND,British India,1.0,False,Gold,Sayed,Jaffar
+1984.0,Summer,Hockey,"Hockey, Men (Olympic)",Romeo James,19190,IND,India,5.0,False,,Romeo,James
+1948.0,Summer,Hockey,"Hockey, Men (Olympic)",Pat Jansen,19191,IND,India,1.0,False,Gold,Pat,Jansen
+1988.0,Summer,Hockey,"Hockey, Men (Olympic)",Jude Sebastian,19192,IND,India,6.0,False,,Jude,Sebastian
+1992.0,Summer,Hockey,"Hockey, Men (Olympic)",Jude Sebastian,19192,IND,India,7.0,False,,Jude,Sebastian
+1980.0,Summer,Hockey,"Hockey, Men (Olympic)",Maharaj Krishon Kaushik,19193,IND,India,1.0,False,Gold,Maharaj,Krishon
+1956.0,Summer,Hockey,"Hockey, Men (Olympic)",Hari Pal Kaushik,19194,IND,India,1.0,False,Gold,Hari,Pal
+1960.0,Summer,Hockey,"Hockey, Men (Olympic)",Hari Pal Kaushik,19194,IND,India,,False,,Hari,Pal
+1964.0,Summer,Hockey,"Hockey, Men (Olympic)",Hari Pal Kaushik,19194,IND,India,1.0,False,Gold,Hari,Pal
+1936.0,Summer,Hockey,"Hockey, Men (Olympic)",Ahmed Sher Khan,19195,IND,British India,1.0,False,Gold,Ahmed,Sher
+1936.0,Summer,Hockey,"Hockey, Men (Olympic)",Ahsan Muhammad Khan,19196,IND,British India,1.0,False,Gold,Ahsan,Muhammad
+1972.0,Summer,Hockey,"Hockey, Men (Olympic)",Aslam Sher Khan,19197,IND,India,,False,,Aslam,Sher
+1976.0,Summer,Hockey,"Hockey, Men (Olympic)",Aslam Sher Khan,19197,IND,India,7.0,False,,Aslam,Sher
+1928.0,Summer,Hockey,"Hockey, Men (Olympic)",Feroze Khan,19198,IND,British India,1.0,False,Gold,Feroze,Khan
+1972.0,Summer,Hockey,"Hockey, Men (Olympic)",Michael Kindo,19199,IND,India,3.0,False,Bronze,Michael,Kindo
+1948.0,Summer,Hockey,"Hockey, Men (Olympic)",Amir Kumar,19200,IND,India,1.0,False,Gold,Amir,Kumar
+1956.0,Summer,Hockey,"Hockey, Men (Olympic)",Amir Kumar,19200,IND,India,1.0,False,Gold,Amir,Kumar
+1972.0,Summer,Hockey,"Hockey, Men (Olympic)",Ashok Kumar,19201,IND,India,3.0,False,Bronze,Ashok,Kumar
+1976.0,Summer,Hockey,"Hockey, Men (Olympic)",Ashok Kumar,19201,IND,India,7.0,False,,Ashok,Kumar
+1988.0,Summer,Hockey,"Hockey, Men (Olympic)",Ashok Kumar,19202,IND,India,6.0,False,,Ashok,Kumar
+1980.0,Summer,Hockey,"Hockey, Men (Olympic)",Charanjit Kumar,19203,IND,India,1.0,False,Gold,Charanjit,Kumar
+1984.0,Summer,Hockey,"Hockey, Men (Olympic)",Charanjit Kumar,19203,IND,India,5.0,False,,Charanjit,Kumar
+1988.0,Summer,Hockey,"Hockey, Men (Olympic)",Gundeep Kumar,19204,IND,India,6.0,False,,Gundeep,Kumar
+1996.0,Summer,Hockey,"Hockey, Men (Olympic)",Sanjeev Kumar,19205,IND,India,8.0,False,,Sanjeev,Kumar
+1988.0,Summer,Hockey,"Hockey, Men (Olympic)",Sujit Kumar,19206,IND,India,6.0,False,,Sujit,Kumar
+1948.0,Summer,Hockey,"Hockey, Men (Olympic)",Kishan Lal,19207,IND,India,1.0,False,Gold,Kishan,Lal
+1960.0,Summer,Hockey,"Hockey, Men (Olympic)",Mohinder Lal,19208,IND,India,2.0,False,Silver,Mohinder,Lal
+1964.0,Summer,Hockey,"Hockey, Men (Olympic)",Mohinder Lal,19208,IND,India,1.0,False,Gold,Mohinder,Lal
+1960.0,Summer,Hockey,"Hockey, Men (Olympic)",Jaman Lal Sharma,19209,IND,India,2.0,False,Silver,Jaman,Lal
+1952.0,Summer,Hockey,"Hockey, Men (Olympic)",Raghbir Lal,19210,IND,India,1.0,False,Gold,Raghbir,Lal
+1956.0,Summer,Hockey,"Hockey, Men (Olympic)",Raghbir Lal,19210,IND,India,1.0,False,Gold,Raghbir,Lal
+1956.0,Summer,Hockey,"Hockey, Men (Olympic)",Shankar Laxman,19211,IND,India,1.0,False,Gold,Shankar,Laxman
+1960.0,Summer,Hockey,"Hockey, Men (Olympic)",Shankar Laxman,19211,IND,India,2.0,False,Silver,Shankar,Laxman
+1964.0,Summer,Hockey,"Hockey, Men (Olympic)",Shankar Laxman,19211,IND,India,1.0,False,Gold,Shankar,Laxman
+1980.0,Summer,Hockey,"Hockey, Men (Olympic)",Maneyapanda Muthanna Somaya,19212,IND,India,1.0,False,Gold,Maneyapanda,Muthanna
+1984.0,Summer,Hockey,"Hockey, Men (Olympic)",Maneyapanda Muthanna Somaya,19212,IND,India,5.0,False,,Maneyapanda,Muthanna
+1988.0,Summer,Hockey,"Hockey, Men (Olympic)",Maneyapanda Muthanna Somaya,19212,IND,India,6.0,False,,Maneyapanda,Muthanna
+1928.0,Summer,Hockey,"Hockey, Men (Olympic)",George Marthins,19213,IND,British India,1.0,False,Gold,George,Marthins
+1936.0,Summer,Hockey,"Hockey, Men (Olympic)",Mirza Nasir-ud-Din Masood,19214,IND,British India,1.0,False,Gold,Mirza,Nasir-ud-Din
+1936.0,Summer,Hockey,"Hockey, Men (Olympic)",Cyril Michie,19215,IND,British India,1.0,False,Gold,Cyril,Michie
+1932.0,Summer,Hockey,"Hockey, Men (Olympic)",Masude Minhas,19216,IND,British India,1.0,False,Gold,Masude,Minhas
+1980.0,Summer,Hockey,"Hockey, Men (Olympic)",Muhammad Shahid,19217,IND,India,1.0,False,Gold,Muhammad,Shahid
+1984.0,Summer,Hockey,"Hockey, Men (Olympic)",Muhammad Shahid,19217,IND,India,5.0,False,,Muhammad,Shahid
+1988.0,Summer,Hockey,"Hockey, Men (Olympic)",Muhammad Shahid,19217,IND,India,6.0,False,,Muhammad,Shahid
+1972.0,Summer,Hockey,"Hockey, Men (Olympic)",M. P. Ganesh,19218,IND,India,3.0,False,Bronze,M.,P.
+1992.0,Summer,Hockey,"Hockey, Men (Olympic)",Mukesh Kumar Nandanoori,19219,IND,India,7.0,False,,Mukesh,Kumar
+1996.0,Summer,Hockey,"Hockey, Men (Olympic)",Mukesh Kumar Nandanoori,19219,IND,India,8.0,False,,Mukesh,Kumar
+2000.0,Summer,Hockey,"Hockey, Men (Olympic)",Mukesh Kumar Nandanoori,19219,IND,India,7.0,False,,Mukesh,Kumar
+1992.0,Summer,Hockey,"Hockey, Men (Olympic)",Ravi Nayakar,19220,IND,India,7.0,False,,Ravi,Nayakar
+1936.0,Summer,Hockey,"Hockey, Men (Olympic)",Baboo Nimal,19221,IND,British India,1.0,False,Gold,Baboo,Nimal
+1928.0,Summer,Hockey,"Hockey, Men (Olympic)",Rex Norris,19222,IND,British India,1.0,False,Gold,Rex,Norris
+1960.0,Summer,Hockey,"Hockey, Men (Olympic)",Bandu Patil,19223,IND,India,,False,,Bandu,Patil
+1964.0,Summer,Hockey,"Hockey, Men (Olympic)",Bandu Patil,19223,IND,India,1.0,False,Gold,Bandu,Patil
+1988.0,Summer,Hockey,"Hockey, Men (Olympic)",Mark Patterson,19224,IND,India,6.0,False,,Mark,Patterson
+1952.0,Summer,Hockey,"Hockey, Men (Olympic)",Govind Perumal,19225,IND,India,1.0,False,Gold,Govind,Perumal
+1956.0,Summer,Hockey,"Hockey, Men (Olympic)",Govind Perumal,19225,IND,India,1.0,False,Gold,Govind,Perumal
+1968.0,Summer,Hockey,"Hockey, Men (Olympic)",Krishnamurty Perumal,19226,IND,India,3.0,False,Bronze,Krishnamurty,Perumal
+1972.0,Summer,Hockey,"Hockey, Men (Olympic)",Krishnamurty Perumal,19226,IND,India,3.0,False,Bronze,Krishnamurty,Perumal
+1960.0,Summer,Hockey,"Hockey, Men (Olympic)",V. J. Peter,19227,IND,India,2.0,False,Silver,V.,J.
+1964.0,Summer,Hockey,"Hockey, Men (Olympic)",V. J. Peter,19227,IND,India,1.0,False,Gold,V.,J.
+1968.0,Summer,Hockey,"Hockey, Men (Olympic)",V. J. Peter,19227,IND,India,3.0,False,Bronze,V.,J.
+1936.0,Summer,Hockey,"Hockey, Men (Olympic)",Joe Phillips,19228,IND,British India,1.0,False,Gold,Joe,Phillips
+1972.0,Summer,Hockey,"Hockey, Men (Olympic)",V. J. Phillips,19229,IND,India,,False,,V.,J.
+1976.0,Summer,Hockey,"Hockey, Men (Olympic)",V. J. Phillips,19229,IND,India,7.0,False,,V.,J.
+1992.0,Summer,Hockey,"Hockey, Men (Olympic)",Dhanraj Pillay,19230,IND,India,7.0,False,,Dhanraj,Pillay
+1996.0,Summer,Hockey,"Hockey, Men (Olympic)",Dhanraj Pillay,19230,IND,India,8.0,False,,Dhanraj,Pillay
+2000.0,Summer,Hockey,"Hockey, Men (Olympic)",Dhanraj Pillay,19230,IND,India,7.0,False,,Dhanraj,Pillay
+2004.0,Summer,Hockey,"Hockey, Men (Olympic)",Dhanraj Pillay,19230,IND,India,7.0,False,,Dhanraj,Pillay
+1928.0,Summer,Hockey,"Hockey, Men (Olympic)",Eric Pinniger,19231,IND,British India,1.0,False,Gold,Eric,Pinniger
+1932.0,Summer,Hockey,"Hockey, Men (Olympic)",Eric Pinniger,19231,IND,British India,1.0,False,Gold,Eric,Pinniger
+1936.0,Summer,Hockey,"Hockey, Men (Olympic)",Eric Pinniger,19231,IND,British India,,False,,Eric,Pinniger
+1948.0,Summer,Hockey,"Hockey, Men (Olympic)",Leo Pinto,19232,IND,India,1.0,False,Gold,Leo,Pinto
+1992.0,Summer,Hockey,"Hockey, Men (Olympic)",Cheppudira Poonacha,19233,IND,India,7.0,False,,Cheppudira,Poonacha
+1952.0,Summer,Hockey,"Hockey, Men (Olympic)",Muniswamy Rajagopal,19234,IND,India,1.0,False,Gold,Muniswamy,Rajagopal
+1988.0,Summer,Hockey,"Hockey, Men (Olympic)",Rajinder Singh Rawat,19235,IND,India,6.0,False,,Rajinder,Singh
+1948.0,Summer,Hockey,"Hockey, Men (Olympic)",Jaswant Rajput,19236,IND,India,1.0,False,Gold,Jaswant,Rajput
+1952.0,Summer,Hockey,"Hockey, Men (Olympic)",Jaswant Rajput,19236,IND,India,,False,,Jaswant,Rajput
+1968.0,Summer,Hockey,"Hockey, Men (Olympic)",Inam-ur Rahman,19237,IND,India,3.0,False,Bronze,Inam-ur,Rahman
+1996.0,Summer,Hockey,"Hockey, Men (Olympic)",Riaz Nabi Muhammad,19238,IND,India,8.0,False,,Riaz,Nabi
+2000.0,Summer,Hockey,"Hockey, Men (Olympic)",Riaz Nabi Muhammad,19238,IND,India,7.0,False,,Riaz,Nabi
+1928.0,Summer,Hockey,"Hockey, Men (Olympic)",Michael Rocque,19239,IND,British India,1.0,False,Gold,Michael,Rocque
+1948.0,Summer,Hockey,"Hockey, Men (Olympic)",Reginald Rodrigues,19240,IND,India,1.0,False,Gold,Reginald,Rodrigues
+1968.0,Summer,Hockey,"Hockey, Men (Olympic)",Munir Sait,19241,IND,India,3.0,False,Bronze,Munir,Sait
+1960.0,Summer,Hockey,"Hockey, Men (Olympic)",Govind Sawant,19242,IND,India,2.0,False,Silver,Govind,Sawant
+1964.0,Summer,Hockey,"Hockey, Men (Olympic)",Syed Mushtaq Ali,19243,IND,India,1.0,False,Gold,Syed,Mushtaq
+1984.0,Summer,Hockey,"Hockey, Men (Olympic)",Jalal-ud-Din Syed Rizvi,19244,IND,India,5.0,False,,Jalal-ud-Din,Syed
+1980.0,Summer,Hockey,"Hockey, Men (Olympic)",Allan Schofield,19245,IND,India,1.0,False,Gold,Allan,Schofield
+1928.0,Summer,Hockey,"Hockey, Men (Olympic)",Frederick Seaman,19246,IND,British India,1.0,False,Gold,Frederick,Seaman
+1936.0,Summer,Hockey,"Hockey, Men (Olympic)",Shabban Shahab-ud-Din,19247,IND,British India,1.0,False,Gold,Shabban,Shahab-ud-Din
+1984.0,Summer,Hockey,"Hockey, Men (Olympic)",Vineet Kumar Sharma,19248,IND,India,5.0,False,,Vineet,Kumar
+1928.0,Summer,Hockey,"Hockey, Men (Olympic)",Shaukat Ali,19249,IND,British India,1.0,False,Gold,Shaukat,Ali
+1972.0,Summer,Hockey,"Hockey, Men (Olympic)",Ajit Singh,19250,IND,India,,False,,Ajit,Singh
+1976.0,Summer,Hockey,"Hockey, Men (Olympic)",Ajit Singh,19250,IND,India,7.0,False,,Ajit,Singh
+1968.0,Summer,Hockey,"Hockey, Men (Olympic)",Ajitpal Singh,19251,IND,India,3.0,False,Bronze,Ajitpal,Singh
+1972.0,Summer,Hockey,"Hockey, Men (Olympic)",Ajitpal Singh,19251,IND,India,3.0,False,Bronze,Ajitpal,Singh
+1976.0,Summer,Hockey,"Hockey, Men (Olympic)",Ajitpal Singh,19251,IND,India,7.0,False,,Ajitpal,Singh
+1980.0,Summer,Hockey,"Hockey, Men (Olympic)",Amarjit Rana,19252,IND,India,1.0,False,Gold,Amarjit,Rana
+1956.0,Summer,Hockey,"Hockey, Men (Olympic)",Bakshish Singh,19254,IND,India,1.0,False,Gold,Bakshish,Singh
+1964.0,Summer,Hockey,"Hockey, Men (Olympic)",Balbir Singh,19255,IND,India,,False,,Balbir,Singh
+1968.0,Summer,Hockey,"Hockey, Men (Olympic)",Balbir Singh,19255,IND,India,3.0,False,Bronze,Balbir,Singh
+1968.0,Summer,Hockey,"Hockey, Men (Olympic)",Balbir Singh,19256,IND,India,3.0,False,Bronze,Balbir,Singh
+1968.0,Summer,Hockey,"Hockey, Men (Olympic)",Balbir Singh,19257,IND,India,3.0,False,Bronze,Balbir,Singh
+1976.0,Summer,Hockey,"Hockey, Men (Olympic)",Baldev Singh,19258,IND,India,7.0,False,,Baldev,Singh
+1996.0,Summer,Hockey,"Hockey, Men (Olympic)",Baljit Singh Saini,19259,IND,India,8.0,False,,Baljit,Singh
+2000.0,Summer,Hockey,"Hockey, Men (Olympic)",Baljit Singh Saini,19259,IND,India,7.0,False,,Baljit,Singh
+1988.0,Summer,Hockey,"Hockey, Men (Olympic)",Balwinder Singh,19260,IND,India,6.0,False,,Balwinder,Singh
+1976.0,Summer,Hockey,"Hockey, Men (Olympic)",Chand Singh,19261,IND,India,7.0,False,,Chand,Singh
+1960.0,Summer,Hockey,"Hockey, Men (Olympic)",Charanjit Singh,19262,IND,India,2.0,False,Silver,Charanjit,Singh
+1964.0,Summer,Hockey,"Hockey, Men (Olympic)",Charanjit Singh,19262,IND,India,1.0,False,Gold,Charanjit,Singh
+1964.0,Summer,Hockey,"Hockey, Men (Olympic)",Darshan Singh,19263,IND,India,1.0,False,Gold,Darshan,Singh
+1980.0,Summer,Hockey,"Hockey, Men (Olympic)",Devinder Singh,19264,IND,India,1.0,False,Gold,Devinder,Singh
+1952.0,Summer,Hockey,"Hockey, Men (Olympic)",Dharam Singh Gill,19265,IND,India,1.0,False,Gold,Dharam,Singh
+1964.0,Summer,Hockey,"Hockey, Men (Olympic)",Dharam Singh,19266,IND,India,1.0,False,Gold,Dharam,Singh
+1968.0,Summer,Hockey,"Hockey, Men (Olympic)",Dharam Singh,19266,IND,India,,False,,Dharam,Singh
+1992.0,Summer,Hockey,"Hockey, Men (Olympic)",Didar Singh,19267,IND,India,7.0,False,,Didar,Singh
+1948.0,Summer,Hockey,"Hockey, Men (Olympic)",G. Nandy Singh,19268,IND,India,1.0,False,Gold,G.,Nandy
+1952.0,Summer,Hockey,"Hockey, Men (Olympic)",G. Nandy Singh,19268,IND,India,1.0,False,Gold,G.,Nandy
+1964.0,Summer,Hockey,"Hockey, Men (Olympic)",Gurbux Singh,19269,IND,India,1.0,False,Gold,Gurbux,Singh
+1968.0,Summer,Hockey,"Hockey, Men (Olympic)",Gurbux Singh,19269,IND,India,3.0,False,Bronze,Gurbux,Singh
+1980.0,Summer,Hockey,"Hockey, Men (Olympic)",Gurmail Singh,19270,IND,India,1.0,False,Gold,Gurmail,Singh
+1964.0,Summer,Hockey,"Hockey, Men (Olympic)",Harbinder Singh,19271,IND,India,1.0,False,Gold,Harbinder,Singh
+1968.0,Summer,Hockey,"Hockey, Men (Olympic)",Harbinder Singh,19271,IND,India,3.0,False,Bronze,Harbinder,Singh
+1972.0,Summer,Hockey,"Hockey, Men (Olympic)",Harbinder Singh,19271,IND,India,3.0,False,Bronze,Harbinder,Singh
+1972.0,Summer,Hockey,"Hockey, Men (Olympic)",Harcharan Singh,19272,IND,India,3.0,False,Bronze,Harcharan,Singh
+1976.0,Summer,Hockey,"Hockey, Men (Olympic)",Harcharan Singh,19272,IND,India,7.0,False,,Harcharan,Singh
+1984.0,Summer,Hockey,"Hockey, Men (Olympic)",Hardeep Singh,19273,IND,India,5.0,False,,Hardeep,Singh
+1968.0,Summer,Hockey,"Hockey, Men (Olympic)",Harmik Singh,19274,IND,India,3.0,False,Bronze,Harmik,Singh
+1972.0,Summer,Hockey,"Hockey, Men (Olympic)",Harmik Singh,19274,IND,India,3.0,False,Bronze,Harmik,Singh
+1992.0,Summer,Hockey,"Hockey, Men (Olympic)",Harpreet Singh,19275,IND,India,7.0,False,,Harpreet,Singh
+1996.0,Summer,Hockey,"Hockey, Men (Olympic)",Harpreet Singh,19275,IND,India,8.0,False,,Harpreet,Singh
+1968.0,Summer,Hockey,"Hockey, Men (Olympic)",Gogi Singh,19276,IND,India,3.0,False,Bronze,Gogi,Singh
+1988.0,Summer,Hockey,"Hockey, Men (Olympic)",Jagbir Singh,19277,IND,India,6.0,False,,Jagbir,Singh
+1992.0,Summer,Hockey,"Hockey, Men (Olympic)",Jagbir Singh,19277,IND,India,7.0,False,,Jagbir,Singh
+1964.0,Summer,Hockey,"Hockey, Men (Olympic)",Jagjit Singh,19278,IND,India,1.0,False,Gold,Jagjit,Singh
+1968.0,Summer,Hockey,"Hockey, Men (Olympic)",Jagjit Singh,19278,IND,India,3.0,False,Bronze,Jagjit,Singh
+1928.0,Summer,Hockey,"Hockey, Men (Olympic)",Jaipal Singh,19279,IND,British India,1.0,False,Gold,Jaipal,Singh
+1960.0,Summer,Hockey,"Hockey, Men (Olympic)",Jaswant Singh,19280,IND,India,2.0,False,Silver,Jaswant,Singh
+1960.0,Summer,Hockey,"Hockey, Men (Olympic)",Gindi Singh,19281,IND,India,2.0,False,Silver,Gindi,Singh
+1964.0,Summer,Hockey,"Hockey, Men (Olympic)",Gindi Singh,19281,IND,India,1.0,False,Gold,Gindi,Singh
+1972.0,Summer,Hockey,"Hockey, Men (Olympic)",Kulwant Singh,19282,IND,India,3.0,False,Bronze,Kulwant,Singh
+1948.0,Summer,Hockey,"Hockey, Men (Olympic)",Kunwar Digvijay Singh,19283,IND,India,1.0,False,Gold,Kunwar,Digvijay
+1952.0,Summer,Hockey,"Hockey, Men (Olympic)",Kunwar Digvijay Singh,19283,IND,India,1.0,False,Gold,Kunwar,Digvijay
+1976.0,Summer,Hockey,"Hockey, Men (Olympic)",Mohinder Singh,19284,IND,India,7.0,False,,Mohinder,Singh
+1988.0,Summer,Hockey,"Hockey, Men (Olympic)",Mohinder Pal Singh,19285,IND,India,6.0,False,,Mohinder,Pal
+1972.0,Summer,Hockey,"Hockey, Men (Olympic)",Mukhbain Singh,19286,IND,India,3.0,False,Bronze,Mukhbain,Singh
+1984.0,Summer,Hockey,"Hockey, Men (Olympic)",Neel Kamal Singh,19287,IND,India,5.0,False,,Neel,Kamal
+1988.0,Summer,Hockey,"Hockey, Men (Olympic)",Pargat Singh,19288,IND,India,6.0,False,,Pargat,Singh
+1992.0,Summer,Hockey,"Hockey, Men (Olympic)",Pargat Singh,19288,IND,India,7.0,False,,Pargat,Singh
+1996.0,Summer,Hockey,"Hockey, Men (Olympic)",Pargat Singh,19288,IND,India,8.0,False,,Pargat,Singh
+1960.0,Summer,Hockey,"Hockey, Men (Olympic)",Prithipal Singh,19289,IND,India,2.0,False,Silver,Prithipal,Singh
+1964.0,Summer,Hockey,"Hockey, Men (Olympic)",Prithipal Singh,19289,IND,India,1.0,False,Gold,Prithipal,Singh
+1968.0,Summer,Hockey,"Hockey, Men (Olympic)",Prithipal Singh,19289,IND,India,3.0,False,Bronze,Prithipal,Singh
+1996.0,Summer,Hockey,"Hockey, Men (Olympic)",Rahul Singh,19290,IND,India,8.0,False,,Rahul,Singh
+1992.0,Summer,Hockey,"Hockey, Men (Olympic)",Jagdev Singh Rai,19291,IND,India,7.0,False,,Jagdev,Singh
+1980.0,Summer,Hockey,"Hockey, Men (Olympic)",Rajinder Singh,19292,IND,India,1.0,False,Gold,Rajinder,Singh
+1996.0,Summer,Hockey,"Hockey, Men (Olympic)",Ramandeep Singh Grewal,19293,IND,India,8.0,False,,Ramandeep,Singh
+2000.0,Summer,Hockey,"Hockey, Men (Olympic)",Ramandeep Singh Grewal,19293,IND,India,7.0,False,,Ramandeep,Singh
+1980.0,Summer,Hockey,"Hockey, Men (Olympic)",Ravinder Pal Singh,19294,IND,India,1.0,False,Gold,Ravinder,Pal
+1984.0,Summer,Hockey,"Hockey, Men (Olympic)",Ravinder Pal Singh,19294,IND,India,5.0,False,,Ravinder,Pal
+1992.0,Summer,Hockey,"Hockey, Men (Olympic)",Sukhjit Singh,19295,IND,India,7.0,False,,Sukhjit,Singh
+1980.0,Summer,Hockey,"Hockey, Men (Olympic)",Surinder Singh Sodhi,19296,IND,India,1.0,False,Gold,Surinder,Singh
+1976.0,Summer,Hockey,"Hockey, Men (Olympic)",Surjit Singh,19297,IND,India,7.0,False,,Surjit,Singh
+1968.0,Summer,Hockey,"Hockey, Men (Olympic)",Tarsem Singh,19298,IND,India,3.0,False,Bronze,Tarsem,Singh
+1988.0,Summer,Hockey,"Hockey, Men (Olympic)",Thoiba Singh,19299,IND,India,6.0,False,,Thoiba,Singh
+1948.0,Summer,Hockey,"Hockey, Men (Olympic)",Tarlochan Singh Bawa,19300,IND,India,1.0,False,Gold,Tarlochan,Singh
+1972.0,Summer,Hockey,"Hockey, Men (Olympic)",Varinder Singh,19301,IND,India,3.0,False,Bronze,Varinder,Singh
+1976.0,Summer,Hockey,"Hockey, Men (Olympic)",Varinder Singh,19301,IND,India,7.0,False,,Varinder,Singh
+1988.0,Summer,Hockey,"Hockey, Men (Olympic)",Vivek Singh,19302,IND,India,6.0,False,,Vivek,Singh
+1956.0,Summer,Hockey,"Hockey, Men (Olympic)",Amit Singh Bakshi,19303,IND,India,1.0,False,Gold,Amit,Singh
+1956.0,Summer,Hockey,"Hockey, Men (Olympic)",Raghbir Singh Bhola,19304,IND,India,1.0,False,Gold,Raghbir,Singh
+1960.0,Summer,Hockey,"Hockey, Men (Olympic)",Raghbir Singh Bhola,19304,IND,India,2.0,False,Silver,Raghbir,Singh
+1948.0,Summer,Hockey,"Hockey, Men (Olympic)","Balbir Singh, Sr.",19305,IND,India,1.0,False,Gold,Balbir,"Singh,"
+1952.0,Summer,Hockey,"Hockey, Men (Olympic)","Balbir Singh, Sr.",19305,IND,India,1.0,False,Gold,Balbir,"Singh,"
+1956.0,Summer,Hockey,"Hockey, Men (Olympic)","Balbir Singh, Sr.",19305,IND,India,1.0,False,Gold,Balbir,"Singh,"
+1956.0,Summer,Hockey,"Hockey, Men (Olympic)",Hardayal Singh,19306,IND,India,1.0,False,Gold,Hardayal,Singh
+1936.0,Summer,Hockey,"Hockey, Men (Olympic)",Gurcharan Singh,19307,IND,British India,1.0,False,Gold,Gurcharan,Singh
+1948.0,Summer,Hockey,"Hockey, Men (Olympic)",Randhir Singh Gentle,19308,IND,India,1.0,False,Gold,Randhir,Singh
+1952.0,Summer,Hockey,"Hockey, Men (Olympic)",Randhir Singh Gentle,19308,IND,India,1.0,False,Gold,Randhir,Singh
+1956.0,Summer,Hockey,"Hockey, Men (Olympic)",Randhir Singh Gentle,19308,IND,India,1.0,False,Gold,Randhir,Singh
+1956.0,Summer,Hockey,"Hockey, Men (Olympic)",Balkrishan Singh,19309,IND,India,1.0,False,Gold,Balkrishan,Singh
+1960.0,Summer,Hockey,"Hockey, Men (Olympic)",Balkrishan Singh,19309,IND,India,,False,,Balkrishan,Singh
+1960.0,Summer,Hockey,Athletics,Balkrishan Singh,19309,IND,IND,,True,,Balkrishan,Singh
+1960.0,Summer,Hockey,"3,000 metres Steeplechase, Men (Olympic)",Balkrishan Singh,19309,IND,,,False,,Balkrishan,Singh
+1956.0,Summer,Hockey,"Hockey, Men (Olympic)",Gurdev Singh,19310,IND,India,1.0,False,Gold,Gurdev,Singh
+1932.0,Summer,Hockey,"Hockey, Men (Olympic)",Gurmit Singh,19311,IND,British India,1.0,False,Gold,Gurmit,Singh
+1952.0,Summer,Hockey,"Hockey, Men (Olympic)",Udham Singh,19312,IND,India,1.0,False,Gold,Udham,Singh
+1956.0,Summer,Hockey,"Hockey, Men (Olympic)",Udham Singh,19312,IND,India,1.0,False,Gold,Udham,Singh
+1960.0,Summer,Hockey,"Hockey, Men (Olympic)",Udham Singh,19312,IND,India,2.0,False,Silver,Udham,Singh
+1964.0,Summer,Hockey,"Hockey, Men (Olympic)",Udham Singh,19312,IND,India,1.0,False,Gold,Udham,Singh
+1956.0,Summer,Hockey,"Hockey, Men (Olympic)",Charles Stephen,19313,IND,India,1.0,False,Gold,Charles,Stephen
+1932.0,Summer,Hockey,"Hockey, Men (Olympic)",Carlyle Tapsell,19314,IND,British India,1.0,False,Gold,Carlyle,Tapsell
+1936.0,Summer,Hockey,"Hockey, Men (Olympic)",Carlyle Tapsell,19314,IND,British India,1.0,False,Gold,Carlyle,Tapsell
+1996.0,Summer,Hockey,"Hockey, Men (Olympic)",Dilip Kumar Tirkey,19315,IND,India,8.0,False,,Dilip,Kumar
+2000.0,Summer,Hockey,"Hockey, Men (Olympic)",Dilip Kumar Tirkey,19315,IND,India,7.0,False,,Dilip,Kumar
+2004.0,Summer,Hockey,"Hockey, Men (Olympic)",Dilip Kumar Tirkey,19315,IND,India,7.0,False,,Dilip,Kumar
+1996.0,Summer,Hockey,"Hockey, Men (Olympic)",Sabu Varkey,19316,IND,India,8.0,False,,Sabu,Varkey
+1984.0,Summer,Hockey,"Hockey, Men (Olympic)",Manohar Topno,19317,IND,India,5.0,False,,Manohar,Topno
+1948.0,Summer,Hockey,"Hockey, Men (Olympic)",Maxie Vaz,19318,IND,India,1.0,False,Gold,Maxie,Vaz
+1928.0,Summer,Hockey,"Hockey, Men (Olympic)",Sayed Yusuf,19319,IND,British India,1.0,False,Gold,Sayed,Yusuf
+1980.0,Summer,Hockey,"Hockey, Men (Olympic)",Zafar Iqbal,19320,IND,India,1.0,False,Gold,Zafar,Iqbal
+1984.0,Summer,Hockey,"Hockey, Men (Olympic)",Zafar Iqbal,19320,IND,India,5.0,False,,Zafar,Iqbal
+1948.0,Summer,Hockey,"Hockey, Men (Olympic)",Akhtar Hussain,19966,IND,India,1.0,False,Gold,Akhtar,Hussain
+1948.0,Summer,Hockey,"Hockey, Men (Olympic)",Latif-ur Rehman,20013,IND,India,1.0,False,Gold,Latif-ur,Rehman
+1948.0,Summer,Football (Football),"Football, Men (Olympic)",Talimeren Ao,25795,IND,India,9.0,True,,Talimeren,Ao
+1952.0,Summer,Football (Football),"Football, Men (Olympic)",Berland Anthony,25796,IND,India,17.0,True,,Berland,Anthony
+1952.0,Summer,Football (Football),"Football, Men (Olympic)",Joseph Anthony,25797,IND,India,17.0,True,,Joseph,Anthony
+1952.0,Summer,Football (Football),"Football, Men (Olympic)",Sayed Khwaja Aziz-ud-Din,25798,IND,India,17.0,True,,Sayed,Khwaja
+1956.0,Summer,Football (Football),"Football, Men (Olympic)",Sayed Khwaja Aziz-ud-Din,25798,IND,India,4.0,False,,Sayed,Khwaja
+1956.0,Summer,Football (Football),"Football, Men (Olympic)",Tulasidas Balaram,25799,IND,India,4.0,False,,Tulasidas,Balaram
+1960.0,Summer,Football (Football),"Football, Men (Olympic)",Tulasidas Balaram,25799,IND,India,13.0,True,,Tulasidas,Balaram
+1956.0,Summer,Football (Football),"Football, Men (Olympic)",PK Banerjee,25800,IND,India,4.0,False,,PK,Banerjee
+1960.0,Summer,Football (Football),"Football, Men (Olympic)",PK Banerjee,25800,IND,India,13.0,True,,PK,Banerjee
+1956.0,Summer,Football (Football),"Football, Men (Olympic)",Samar Banerjee,25801,IND,India,4.0,False,,Samar,Banerjee
+1948.0,Summer,Football (Football),"Football, Men (Olympic)",S. A. Basheer,25802,IND,India,9.0,True,,S.,A.
+1960.0,Summer,Football (Football),"Football, Men (Olympic)",Menon Chandrasekhar,25803,IND,India,13.0,True,,Menon,Chandrasekhar
+1948.0,Summer,Football (Football),"Football, Men (Olympic)",Rabi Das,25804,IND,India,9.0,True,,Rabi,Das
+1956.0,Summer,Football (Football),"Football, Men (Olympic)",Neville D'Souza,25805,IND,India,4.0,False,,Neville,D'Souza
+1960.0,Summer,Football (Football),"Football, Men (Olympic)",Subimal Goswami,25806,IND,India,13.0,True,,Subimal,Goswami
+1956.0,Summer,Football (Football),"Football, Men (Olympic)",Hussain Ahmed,25807,IND,India,4.0,False,,Hussain,Ahmed
+1956.0,Summer,Football (Football),"Football, Men (Olympic)",Muhammad Kannayan,25808,IND,India,4.0,False,,Muhammad,Kannayan
+1960.0,Summer,Football (Football),"Football, Men (Olympic)",Dharmalingam Kannan,25809,IND,India,13.0,True,,Dharmalingam,Kannan
+1956.0,Summer,Football (Football),"Football, Men (Olympic)",Mariappa Kempaiah,25810,IND,India,4.0,False,,Mariappa,Kempaiah
+1960.0,Summer,Football (Football),"Football, Men (Olympic)",Mariappa Kempaiah,25810,IND,India,13.0,True,,Mariappa,Kempaiah
+1948.0,Summer,Football (Football),"Football, Men (Olympic)",Ahmed Khan,25811,IND,India,9.0,True,,Ahmed,Khan
+1952.0,Summer,Football (Football),"Football, Men (Olympic)",Ahmed Khan,25811,IND,India,17.0,True,,Ahmed,Khan
+1960.0,Summer,Football (Football),"Football, Men (Olympic)",Youssef Khan,25812,IND,India,13.0,True,,Youssef,Khan
+1956.0,Summer,Football (Football),"Football, Men (Olympic)",Krishna Kittu,25813,IND,India,4.0,False,,Krishna,Kittu
+1952.0,Summer,Football (Football),"Football, Men (Olympic)",Sheikh Abdul Latif,25814,IND,India,17.0,True,,Sheikh,Abdul
+1956.0,Summer,Football (Football),"Football, Men (Olympic)",Sheikh Abdul Latif,25814,IND,India,4.0,False,,Sheikh,Abdul
+1960.0,Summer,Football (Football),"Football, Men (Olympic)",Sheikh Abdul Latif,25814,IND,India,13.0,True,,Sheikh,Abdul
+1948.0,Summer,Football (Football),"Football, Men (Olympic)",Sailen Manna,25815,IND,India,9.0,True,,Sailen,Manna
+1952.0,Summer,Football (Football),"Football, Men (Olympic)",Sailen Manna,25815,IND,India,17.0,True,,Sailen,Manna
+1948.0,Summer,Football (Football),"Football, Men (Olympic)",Sahu Mewalal,25816,IND,India,9.0,True,,Sahu,Mewalal
+1952.0,Summer,Football (Football),"Football, Men (Olympic)",Sahu Mewalal,25816,IND,India,,False,,Sahu,Mewalal
+1948.0,Summer,Football (Football),"Football, Men (Olympic)",Taj Mohammed,25817,IND,India,9.0,True,,Taj,Mohammed
+1952.0,Summer,Football (Football),"Football, Men (Olympic)",Syed Moinuddin,25818,IND,India,17.0,True,,Syed,Moinuddin
+1956.0,Summer,Football (Football),"Football, Men (Olympic)",Nikhil Nandy,25819,IND,India,4.0,False,,Nikhil,Nandy
+1956.0,Summer,Football (Football),"Football, Men (Olympic)",Subramaniam Narayan,25820,IND,India,4.0,False,,Subramaniam,Narayan
+1960.0,Summer,Football (Football),"Football, Men (Olympic)",Subramaniam Narayan,25820,IND,India,,False,,Subramaniam,Narayan
+1952.0,Summer,Football (Football),"Football, Men (Olympic)",Muhammad Noor,25821,IND,India,,False,,Muhammad,Noor
+1956.0,Summer,Football (Football),"Football, Men (Olympic)",Muhammad Noor,25821,IND,India,4.0,False,,Muhammad,Noor
+1956.0,Summer,Football (Football),"Football, Men (Olympic)",Krishna Pal,25822,IND,India,4.0,False,,Krishna,Pal
+1948.0,Summer,Football (Football),"Football, Men (Olympic)",Ramchandra Parab,25823,IND,India,9.0,True,,Ramchandra,Parab
+1948.0,Summer,Football (Football),"Football, Men (Olympic)",Mahabir Prasad,25824,IND,India,9.0,True,,Mahabir,Prasad
+1960.0,Summer,Football (Football),"Football, Men (Olympic)",Bahadur Chettri Ram,25825,IND,India,13.0,True,,Bahadur,Chettri
+1948.0,Summer,Football (Football),"Football, Men (Olympic)",Sarangapani Raman,25826,IND,India,9.0,True,,Sarangapani,Raman
+1956.0,Summer,Football (Football),"Football, Men (Olympic)",Abdul Rehman,25827,IND,India,4.0,False,,Abdul,Rehman
+1956.0,Summer,Football (Football),"Football, Men (Olympic)",Muhammad Salaam,25828,IND,India,4.0,False,,Muhammad,Salaam
+1952.0,Summer,Football (Football),"Football, Men (Olympic)",Mohammad Sattar,25829,IND,India,17.0,True,,Mohammad,Sattar
+1952.0,Summer,Football (Football),"Football, Men (Olympic)",Thulukhanam Shanmugam,25830,IND,India,17.0,True,,Thulukhanam,Shanmugam
+1960.0,Summer,Football (Football),"Football, Men (Olympic)",Dhillon Singh Jarnail,25831,IND,India,13.0,True,,Dhillon,Singh
+1952.0,Summer,Football (Football),"Football, Men (Olympic)",Chandan Singh Rawat,25832,IND,India,17.0,True,,Chandan,Singh
+1960.0,Summer,Football (Football),"Football, Men (Olympic)",Simon Sunder Raj,25833,IND,India,13.0,True,,Simon,Sunder
+1956.0,Summer,Football (Football),"Football, Men (Olympic)",Peter Thangaraj,25834,IND,India,4.0,False,,Peter,Thangaraj
+1960.0,Summer,Football (Football),"Football, Men (Olympic)",Peter Thangaraj,25834,IND,India,13.0,True,,Peter,Thangaraj
+1952.0,Summer,Football (Football),"Football, Men (Olympic)",P. Venkatesh,25835,IND,India,17.0,True,,P.,Venkatesh
+1948.0,Summer,Football (Football),"Football, Men (Olympic)",KV Varadaraj,25836,IND,India,9.0,True,,KV,Varadaraj
+1952.0,Summer,Football (Football),"Football, Men (Olympic)",KV Varadaraj,25836,IND,India,,False,,KV,Varadaraj
+1964.0,Summer,Artistic Gymnastics (Gymnastics),"Individual All-Around, Men (Olympic)",Bandu Bhosle,30432,IND,,122.0,False,,Bandu,Bhosle
+1964.0,Summer,Artistic Gymnastics (Gymnastics),"Team All-Around, Men (Olympic)",Bandu Bhosle,30432,IND,India,18.0,False,,Bandu,Bhosle
+1964.0,Summer,Artistic Gymnastics (Gymnastics),"Floor Exercise, Men (Olympic)",Bandu Bhosle,30432,IND,,108.0,True,,Bandu,Bhosle
+1964.0,Summer,Artistic Gymnastics (Gymnastics),"Horse Vault, Men (Olympic)",Bandu Bhosle,30432,IND,,126.0,False,,Bandu,Bhosle
+1964.0,Summer,Artistic Gymnastics (Gymnastics),"Parallel Bars, Men (Olympic)",Bandu Bhosle,30432,IND,,122.0,False,,Bandu,Bhosle
+1964.0,Summer,Artistic Gymnastics (Gymnastics),"Horizontal Bar, Men (Olympic)",Bandu Bhosle,30432,IND,,123.0,False,,Bandu,Bhosle
+1964.0,Summer,Artistic Gymnastics (Gymnastics),"Rings, Men (Olympic)",Bandu Bhosle,30432,IND,,125.0,False,,Bandu,Bhosle
+1964.0,Summer,Artistic Gymnastics (Gymnastics),"Pommelled Horse, Men (Olympic)",Bandu Bhosle,30432,IND,,118.0,False,,Bandu,Bhosle
+1964.0,Summer,Artistic Gymnastics (Gymnastics),"Individual All-Around, Men (Olympic)",Vithal Karande,30433,IND,,123.0,False,,Vithal,Karande
+1964.0,Summer,Artistic Gymnastics (Gymnastics),"Team All-Around, Men (Olympic)",Vithal Karande,30433,IND,India,18.0,False,,Vithal,Karande
+1964.0,Summer,Artistic Gymnastics (Gymnastics),"Floor Exercise, Men (Olympic)",Vithal Karande,30433,IND,,116.0,False,,Vithal,Karande
+1964.0,Summer,Artistic Gymnastics (Gymnastics),"Horse Vault, Men (Olympic)",Vithal Karande,30433,IND,,124.0,False,,Vithal,Karande
+1964.0,Summer,Artistic Gymnastics (Gymnastics),"Parallel Bars, Men (Olympic)",Vithal Karande,30433,IND,,125.0,False,,Vithal,Karande
+1964.0,Summer,Artistic Gymnastics (Gymnastics),"Horizontal Bar, Men (Olympic)",Vithal Karande,30433,IND,,121.0,False,,Vithal,Karande
+1964.0,Summer,Artistic Gymnastics (Gymnastics),"Rings, Men (Olympic)",Vithal Karande,30433,IND,,122.0,False,,Vithal,Karande
+1964.0,Summer,Artistic Gymnastics (Gymnastics),"Pommelled Horse, Men (Olympic)",Vithal Karande,30433,IND,,122.0,False,,Vithal,Karande
+1956.0,Summer,Artistic Gymnastics (Gymnastics),"Individual All-Around, Men (Olympic)",Sham Lal,30434,IND,,62.0,False,,Sham,Lal
+1956.0,Summer,Artistic Gymnastics (Gymnastics),"Floor Exercise, Men (Olympic)",Sham Lal,30434,IND,,61.0,False,,Sham,Lal
+1956.0,Summer,Artistic Gymnastics (Gymnastics),"Horse Vault, Men (Olympic)",Sham Lal,30434,IND,,60.0,False,,Sham,Lal
+1956.0,Summer,Artistic Gymnastics (Gymnastics),"Parallel Bars, Men (Olympic)",Sham Lal,30434,IND,,62.0,False,,Sham,Lal
+1956.0,Summer,Artistic Gymnastics (Gymnastics),"Horizontal Bar, Men (Olympic)",Sham Lal,30434,IND,,60.0,False,,Sham,Lal
+1956.0,Summer,Artistic Gymnastics (Gymnastics),"Rings, Men (Olympic)",Sham Lal,30434,IND,,61.0,False,,Sham,Lal
+1956.0,Summer,Artistic Gymnastics (Gymnastics),"Pommelled Horse, Men (Olympic)",Sham Lal,30434,IND,,61.0,False,,Sham,Lal
+1964.0,Summer,Artistic Gymnastics (Gymnastics),"Individual All-Around, Men (Olympic)",Darshan Mondal,30435,IND,,128.0,False,,Darshan,Mondal
+1964.0,Summer,Artistic Gymnastics (Gymnastics),"Team All-Around, Men (Olympic)",Darshan Mondal,30435,IND,India,18.0,False,,Darshan,Mondal
+1964.0,Summer,Artistic Gymnastics (Gymnastics),"Floor Exercise, Men (Olympic)",Darshan Mondal,30435,IND,,129.0,False,,Darshan,Mondal
+1964.0,Summer,Artistic Gymnastics (Gymnastics),"Horse Vault, Men (Olympic)",Darshan Mondal,30435,IND,,114.0,True,,Darshan,Mondal
+1964.0,Summer,Artistic Gymnastics (Gymnastics),"Parallel Bars, Men (Olympic)",Darshan Mondal,30435,IND,,128.0,False,,Darshan,Mondal
+1964.0,Summer,Artistic Gymnastics (Gymnastics),"Horizontal Bar, Men (Olympic)",Darshan Mondal,30435,IND,,126.0,False,,Darshan,Mondal
+1964.0,Summer,Artistic Gymnastics (Gymnastics),"Rings, Men (Olympic)",Darshan Mondal,30435,IND,,128.0,False,,Darshan,Mondal
+1964.0,Summer,Artistic Gymnastics (Gymnastics),"Pommelled Horse, Men (Olympic)",Darshan Mondal,30435,IND,,127.0,False,,Darshan,Mondal
+1964.0,Summer,Artistic Gymnastics (Gymnastics),"Individual All-Around, Men (Olympic)",Jagmal More,30436,IND,,125.0,False,,Jagmal,More
+1964.0,Summer,Artistic Gymnastics (Gymnastics),"Team All-Around, Men (Olympic)",Jagmal More,30436,IND,India,18.0,False,,Jagmal,More
+1964.0,Summer,Artistic Gymnastics (Gymnastics),"Floor Exercise, Men (Olympic)",Jagmal More,30436,IND,,124.0,False,,Jagmal,More
+1964.0,Summer,Artistic Gymnastics (Gymnastics),"Horse Vault, Men (Olympic)",Jagmal More,30436,IND,,125.0,False,,Jagmal,More
+1964.0,Summer,Artistic Gymnastics (Gymnastics),"Parallel Bars, Men (Olympic)",Jagmal More,30436,IND,,126.0,False,,Jagmal,More
+1964.0,Summer,Artistic Gymnastics (Gymnastics),"Horizontal Bar, Men (Olympic)",Jagmal More,30436,IND,,127.0,False,,Jagmal,More
+1964.0,Summer,Artistic Gymnastics (Gymnastics),"Rings, Men (Olympic)",Jagmal More,30436,IND,,123.0,False,,Jagmal,More
+1964.0,Summer,Artistic Gymnastics (Gymnastics),"Pommelled Horse, Men (Olympic)",Jagmal More,30436,IND,,121.0,False,,Jagmal,More
+1956.0,Summer,Artistic Gymnastics (Gymnastics),"Individual All-Around, Men (Olympic)",Anant Ram,30437,IND,,63.0,False,,Anant,Ram
+1956.0,Summer,Artistic Gymnastics (Gymnastics),"Floor Exercise, Men (Olympic)",Anant Ram,30437,IND,,62.0,False,,Anant,Ram
+1956.0,Summer,Artistic Gymnastics (Gymnastics),"Horse Vault, Men (Olympic)",Anant Ram,30437,IND,,63.0,False,,Anant,Ram
+1956.0,Summer,Artistic Gymnastics (Gymnastics),"Parallel Bars, Men (Olympic)",Anant Ram,30437,IND,,63.0,False,,Anant,Ram
+1956.0,Summer,Artistic Gymnastics (Gymnastics),"Horizontal Bar, Men (Olympic)",Anant Ram,30437,IND,,61.0,False,,Anant,Ram
+1956.0,Summer,Artistic Gymnastics (Gymnastics),"Rings, Men (Olympic)",Anant Ram,30437,IND,,63.0,False,,Anant,Ram
+1956.0,Summer,Artistic Gymnastics (Gymnastics),"Pommelled Horse, Men (Olympic)",Anant Ram,30437,IND,,63.0,False,,Anant,Ram
+1964.0,Summer,Artistic Gymnastics (Gymnastics),"Individual All-Around, Men (Olympic)",Anant Ram,30437,IND,,126.0,False,,Anant,Ram
+1964.0,Summer,Artistic Gymnastics (Gymnastics),"Team All-Around, Men (Olympic)",Anant Ram,30437,IND,India,18.0,False,,Anant,Ram
+1964.0,Summer,Artistic Gymnastics (Gymnastics),"Floor Exercise, Men (Olympic)",Anant Ram,30437,IND,,120.0,False,,Anant,Ram
+1964.0,Summer,Artistic Gymnastics (Gymnastics),"Horse Vault, Men (Olympic)",Anant Ram,30437,IND,,130.0,False,,Anant,Ram
+1964.0,Summer,Artistic Gymnastics (Gymnastics),"Parallel Bars, Men (Olympic)",Anant Ram,30437,IND,,124.0,False,,Anant,Ram
+1964.0,Summer,Artistic Gymnastics (Gymnastics),"Horizontal Bar, Men (Olympic)",Anant Ram,30437,IND,,124.0,False,,Anant,Ram
+1964.0,Summer,Artistic Gymnastics (Gymnastics),"Rings, Men (Olympic)",Anant Ram,30437,IND,,126.0,False,,Anant,Ram
+1964.0,Summer,Artistic Gymnastics (Gymnastics),"Pommelled Horse, Men (Olympic)",Anant Ram,30437,IND,,115.0,False,,Anant,Ram
+1952.0,Summer,Artistic Gymnastics (Gymnastics),"Individual All-Around, Men (Olympic)",Khushi Ram,30438,IND,,185.0,False,,Khushi,Ram
+1952.0,Summer,Artistic Gymnastics (Gymnastics),"Floor Exercise, Men (Olympic)",Khushi Ram,30438,IND,,184.0,False,,Khushi,Ram
+1952.0,Summer,Artistic Gymnastics (Gymnastics),"Horse Vault, Men (Olympic)",Khushi Ram,30438,IND,,185.0,False,,Khushi,Ram
+1952.0,Summer,Artistic Gymnastics (Gymnastics),"Parallel Bars, Men (Olympic)",Khushi Ram,30438,IND,,185.0,False,,Khushi,Ram
+1952.0,Summer,Artistic Gymnastics (Gymnastics),"Horizontal Bar, Men (Olympic)",Khushi Ram,30438,IND,,183.0,False,,Khushi,Ram
+1952.0,Summer,Artistic Gymnastics (Gymnastics),"Rings, Men (Olympic)",Khushi Ram,30438,IND,,185.0,False,,Khushi,Ram
+1952.0,Summer,Artistic Gymnastics (Gymnastics),"Pommelled Horse, Men (Olympic)",Khushi Ram,30438,IND,,185.0,False,,Khushi,Ram
+1956.0,Summer,Artistic Gymnastics (Gymnastics),"Individual All-Around, Men (Olympic)",Pritam Singh,30439,IND,,61.0,False,,Pritam,Singh
+1956.0,Summer,Artistic Gymnastics (Gymnastics),"Floor Exercise, Men (Olympic)",Pritam Singh,30439,IND,,59.0,False,,Pritam,Singh
+1956.0,Summer,Artistic Gymnastics (Gymnastics),"Horse Vault, Men (Olympic)",Pritam Singh,30439,IND,,62.0,False,,Pritam,Singh
+1956.0,Summer,Artistic Gymnastics (Gymnastics),"Parallel Bars, Men (Olympic)",Pritam Singh,30439,IND,,61.0,False,,Pritam,Singh
+1956.0,Summer,Artistic Gymnastics (Gymnastics),"Horizontal Bar, Men (Olympic)",Pritam Singh,30439,IND,,59.0,False,,Pritam,Singh
+1956.0,Summer,Artistic Gymnastics (Gymnastics),"Rings, Men (Olympic)",Pritam Singh,30439,IND,,62.0,False,,Pritam,Singh
+1956.0,Summer,Artistic Gymnastics (Gymnastics),"Pommelled Horse, Men (Olympic)",Pritam Singh,30439,IND,,60.0,False,,Pritam,Singh
+1964.0,Summer,Artistic Gymnastics (Gymnastics),"Individual All-Around, Men (Olympic)",Trilok Singh,30440,IND,,124.0,False,,Trilok,Singh
+1964.0,Summer,Artistic Gymnastics (Gymnastics),"Team All-Around, Men (Olympic)",Trilok Singh,30440,IND,India,18.0,False,,Trilok,Singh
+1964.0,Summer,Artistic Gymnastics (Gymnastics),"Floor Exercise, Men (Olympic)",Trilok Singh,30440,IND,,117.0,False,,Trilok,Singh
+1964.0,Summer,Artistic Gymnastics (Gymnastics),"Horse Vault, Men (Olympic)",Trilok Singh,30440,IND,,119.0,False,,Trilok,Singh
+1964.0,Summer,Artistic Gymnastics (Gymnastics),"Parallel Bars, Men (Olympic)",Trilok Singh,30440,IND,,123.0,False,,Trilok,Singh
+1964.0,Summer,Artistic Gymnastics (Gymnastics),"Horizontal Bar, Men (Olympic)",Trilok Singh,30440,IND,,128.0,False,,Trilok,Singh
+1964.0,Summer,Artistic Gymnastics (Gymnastics),"Rings, Men (Olympic)",Trilok Singh,30440,IND,,124.0,False,,Trilok,Singh
+1964.0,Summer,Artistic Gymnastics (Gymnastics),"Pommelled Horse, Men (Olympic)",Trilok Singh,30440,IND,,123.0,False,,Trilok,Singh
+1952.0,Summer,Artistic Gymnastics (Gymnastics),"Individual All-Around, Men (Olympic)",Vir Singh,30441,IND,,184.0,False,,Vir,Singh
+1952.0,Summer,Artistic Gymnastics (Gymnastics),"Floor Exercise, Men (Olympic)",Vir Singh,30441,IND,,178.0,False,,Vir,Singh
+1952.0,Summer,Artistic Gymnastics (Gymnastics),"Horse Vault, Men (Olympic)",Vir Singh,30441,IND,,175.0,False,,Vir,Singh
+1952.0,Summer,Artistic Gymnastics (Gymnastics),"Parallel Bars, Men (Olympic)",Vir Singh,30441,IND,,184.0,False,,Vir,Singh
+1952.0,Summer,Artistic Gymnastics (Gymnastics),"Horizontal Bar, Men (Olympic)",Vir Singh,30441,IND,,179.0,False,,Vir,Singh
+1952.0,Summer,Artistic Gymnastics (Gymnastics),"Rings, Men (Olympic)",Vir Singh,30441,IND,,184.0,False,,Vir,Singh
+1952.0,Summer,Artistic Gymnastics (Gymnastics),"Pommelled Horse, Men (Olympic)",Vir Singh,30441,IND,,184.0,False,,Vir,Singh
+1996.0,Summer,Judo,"Heavyweight, Women (Olympic)",Shah Kohli,33221,IND,,13.0,False,,Shah,Kohli
+1992.0,Summer,Judo,"Heavyweight, Women (Olympic)",Sangita Mehta,33255,IND,,16.0,True,,Sangita,Mehta
+1996.0,Summer,Judo,"Half-Lightweight, Women (Olympic)",Sunith Thakur,33331,IND,,14.0,True,,Sunith,Thakur
+1996.0,Summer,Judo,"Half-Lightweight, Men (Olympic)",Najib Aga,33383,IND,,13.0,True,,Najib,Aga
+1992.0,Summer,Judo,"Heavyweight, Men (Olympic)",Cawas Billimoria,33489,IND,,21.0,True,,Cawas,Billimoria
+1992.0,Summer,Judo,"Half-Lightweight, Men (Olympic)",Sandeep Byala,33536,IND,,20.0,True,,Sandeep,Byala
+1992.0,Summer,Judo,"Middleweight, Men (Olympic)",Rajinder Kumar Dhanger,33654,IND,,21.0,True,,Rajinder,Kumar
+1992.0,Summer,Judo,"Extra-Lightweight, Men (Olympic)",Narinder Singh,34370,IND,,35.0,True,,Narinder,Singh
+1996.0,Summer,Judo,"Extra-Lightweight, Men (Olympic)",Narinder Singh,34370,IND,,21.0,True,,Narinder,Singh
+1992.0,Summer,Shooting,"Air Pistol, 10 metres, Women (Olympic)",Abha Dhillan,42836,IND,,45.0,True,,Abha,Dhillan
+1984.0,Summer,Shooting,"Air Rifle, 10 metres, Women (Olympic)",Soma Dutta,42837,IND,,22.0,False,,Soma,Dutta
+1984.0,Summer,Shooting,"Small-Bore Rifle, Three Positions, 50 metres, Women (Olympic)",Soma Dutta,42837,IND,,17.0,True,,Soma,Dutta
+1988.0,Summer,Shooting,"Air Rifle, 10 metres, Women (Olympic)",Soma Dutta,42837,IND,,30.0,True,,Soma,Dutta
+1988.0,Summer,Shooting,"Small-Bore Rifle, Three Positions, 50 metres, Women (Olympic)",Soma Dutta,42837,IND,,23.0,True,,Soma,Dutta
+1992.0,Summer,Shooting,"Air Rifle, 10 metres, Women (Olympic)",Soma Dutta,42837,IND,,35.0,True,,Soma,Dutta
+1992.0,Summer,Shooting,"Small-Bore Rifle, Three Positions, 50 metres, Women (Olympic)",Soma Dutta,42837,IND,,22.0,True,,Soma,Dutta
+1952.0,Summer,Shooting,"Free Rifle, Three Positions, 300 metres, Men (Olympic)",Harihar Banerjee,42838,IND,,24.0,False,,Harihar,Banerjee
+1952.0,Summer,Shooting,"Small-Bore Rifle, Three Positions, 50 metres, Men (Olympic)",Harihar Banerjee,42838,IND,,36.0,False,,Harihar,Banerjee
+1952.0,Summer,Shooting,"Small-Bore Rifle, Prone, 50 metres, Men (Olympic)",Harihar Banerjee,42838,IND,,29.0,False,,Harihar,Banerjee
+1956.0,Summer,Shooting,"Small-Bore Rifle, Three Positions, 50 metres, Men (Olympic)",Harihar Banerjee,42838,IND,,35.0,False,,Harihar,Banerjee
+1980.0,Summer,Shooting,"Small-Bore Rifle, Prone, 50 metres, Open (Olympic)",Gian Chand,42839,IND,,38.0,True,,Gian,Chand
+1972.0,Summer,Shooting,"Small-Bore Rifle, Prone, 50 metres, Open (Olympic)",Prithipal Chatterjee,42840,IND,,95.0,False,,Prithipal,Chatterjee
+1960.0,Summer,Shooting,"Rapid-Fire Pistol, 25 metres, Men (Olympic)",P. S. Cheema,42841,IND,,57.0,False,,P.,S.
+1972.0,Summer,Shooting,"Small-Bore Rifle, Prone, 50 metres, Open (Olympic)",Roy Choudhury,42842,IND,,99.0,False,,Roy,Choudhury
+1980.0,Summer,Shooting,"Small-Bore Rifle, Prone, 50 metres, Open (Olympic)",Roy Choudhury,42842,IND,,44.0,True,,Roy,Choudhury
+1952.0,Summer,Shooting,"Small-Bore Rifle, Prone, 50 metres, Men (Olympic)",Souren Chowdhury,42843,IND,,39.0,False,,Souren,Chowdhury
+1984.0,Summer,Shooting,"Skeet, Open (Olympic)",Harisimran Singh Sandhu,42844,IND,,64.0,True,,Harisimran,Singh
+1960.0,Summer,Shooting,"Trap, Men (Olympic)",Keshav Sen,42845,IND,,1.0,False,,Keshav,Sen
+1984.0,Summer,Shooting,"Rapid-Fire Pistol, 25 metres, Men (Olympic)",Mohinder Lal,42846,IND,,34.0,True,,Mohinder,Lal
+1996.0,Summer,Shooting,"Air Pistol, 10 metres, Men (Olympic)",Jaspal Rana,42847,IND,,29.0,True,,Jaspal,Rana
+1996.0,Summer,Shooting,"Free Pistol, 50 metres, Men (Olympic)",Jaspal Rana,42847,IND,,45.0,False,,Jaspal,Rana
+1984.0,Summer,Shooting,"Air Rifle, 10 metres, Men (Olympic)",Bhagirath Samai,42848,IND,,39.0,True,,Bhagirath,Samai
+1984.0,Summer,Shooting,"Small-Bore Rifle, Prone, 50 metres, Men (Olympic)",Bhagirath Samai,42848,IND,,45.0,True,,Bhagirath,Samai
+1956.0,Summer,Shooting,"Small-Bore Rifle, Three Positions, 50 metres, Men (Olympic)",Haricharan Shaw,42849,IND,,38.0,False,,Haricharan,Shaw
+1964.0,Summer,Shooting,"Trap, Men (Olympic)",Devi Singh,42850,IND,,49.0,False,,Devi,Singh
+1960.0,Summer,Shooting,"Trap, Men (Olympic)",Karni Singh,42851,IND,,8.0,True,,Karni,Singh
+1964.0,Summer,Shooting,"Trap, Men (Olympic)",Karni Singh,42851,IND,,26.0,False,,Karni,Singh
+1968.0,Summer,Shooting,"Trap, Open (Olympic)",Karni Singh,42851,IND,,10.0,False,,Karni,Singh
+1968.0,Summer,Shooting,"Skeet, Open (Olympic)",Karni Singh,42851,IND,,28.0,False,,Karni,Singh
+1972.0,Summer,Shooting,"Trap, Open (Olympic)",Karni Singh,42851,IND,,34.0,False,,Karni,Singh
+1972.0,Summer,Shooting,"Skeet, Open (Olympic)",Karni Singh,42851,IND,,36.0,False,,Karni,Singh
+1980.0,Summer,Shooting,"Trap, Open (Olympic)",Karni Singh,42851,IND,,14.0,True,,Karni,Singh
+1984.0,Summer,Shooting,"Trap, Open (Olympic)",Mansher Singh,42852,IND,,35.0,True,,Mansher,Singh
+1996.0,Summer,Shooting,"Trap, Men (Olympic)",Mansher Singh,42852,IND,,31.0,True,,Mansher,Singh
+2004.0,Summer,Shooting,"Trap, Men (Olympic)",Mansher Singh,42852,IND,,21.0,True,,Mansher,Singh
+2008.0,Summer,Shooting,"Trap, Men (Olympic)",Mansher Singh,42852,IND,,8.0,False,,Mansher,Singh
+1968.0,Summer,Shooting,"Trap, Open (Olympic)",Randhir Singh,42853,IND,,17.0,False,,Randhir,Singh
+1972.0,Summer,Shooting,"Trap, Open (Olympic)",Randhir Singh,42853,IND,,44.0,False,,Randhir,Singh
+1976.0,Summer,Shooting,"Trap, Open (Olympic)",Randhir Singh,42853,IND,,21.0,True,,Randhir,Singh
+1980.0,Summer,Shooting,"Trap, Open (Olympic)",Randhir Singh,42853,IND,,21.0,False,,Randhir,Singh
+1984.0,Summer,Shooting,"Trap, Open (Olympic)",Randhir Singh,42853,IND,,35.0,True,,Randhir,Singh
+1976.0,Summer,Shooting,"Skeet, Open (Olympic)",Bhim Singh Bahadur,42854,IND,,67.0,False,,Bhim,Singh
+1976.0,Summer,Shooting,"Skeet, Open (Olympic)",Gurbir Singh Sandhu,42855,IND,,56.0,True,,Gurbir,Singh
+1984.0,Summer,Shooting,"Free Pistol, 50 metres, Men (Olympic)",Baljit Singh Kharab,42856,IND,,31.0,True,,Baljit,Singh
+1984.0,Summer,Shooting,"Rapid-Fire Pistol, 25 metres, Men (Olympic)",Rajinder Kumar Vij,42857,IND,,32.0,True,,Rajinder,Kumar
+1952.0,Summer,Swimming (Aquatics),"100 metres Freestyle, Women (Olympic)",Dolly Nazir,48273,IND,,41.0,False,,Dolly,Nazir
+1952.0,Summer,Swimming (Aquatics),"100 metres Backstroke, Women (Olympic)",Dolly Nazir,48273,IND,,,False,,Dolly,Nazir
+1952.0,Summer,Swimming (Aquatics),"200 metres Breaststroke, Women (Olympic)",Dolly Nazir,48273,IND,,32.0,False,,Dolly,Nazir
+1996.0,Summer,Swimming (Aquatics),"50 metres Freestyle, Women (Olympic)",Sangeeta Puri,48274,IND,,48.0,False,,Sangeeta,Puri
+1952.0,Summer,Swimming (Aquatics),"400 metres Freestyle, Women (Olympic)",Arati Saha,48275,IND,,,False,,Arati,Saha
+1952.0,Summer,Swimming (Aquatics),"200 metres Breaststroke, Women (Olympic)",Arati Saha,48275,IND,,33.0,False,,Arati,Saha
+1956.0,Summer,Swimming (Aquatics),"100 metres Freestyle, Men (Olympic)",Shrichand Bajaj,48276,IND,,34.0,False,,Shrichand,Bajaj
+1956.0,Summer,Swimming (Aquatics),"400 metres Freestyle, Men (Olympic)",Shrichand Bajaj,48276,IND,,,False,,Shrichand,Bajaj
+1952.0,Summer,Swimming (Aquatics),"100 metres Backstroke, Men (Olympic)",Bijoy Barman,48277,IND,,38.0,False,,Bijoy,Barman
+1952.0,Summer,Swimming (Aquatics),Water Polo (Aquatics),Bijoy Barman,48277,IND,IND,,True,,Bijoy,Barman
+1952.0,Summer,Swimming (Aquatics),"Water Polo, Men (Olympic)",Bijoy Barman,48277,IND,India,17.0,True,,Bijoy,Barman
+1948.0,Summer,Swimming (Aquatics),"400 metres Freestyle, Men (Olympic)",Bimal Chandra,48278,IND,,7.0,False,,Bimal,Chandra
+1948.0,Summer,Swimming (Aquatics),"1,500 metres Freestyle, Men (Olympic)",Bimal Chandra,48278,IND,,6.0,False,,Bimal,Chandra
+1932.0,Summer,Swimming (Aquatics),"400 metres Freestyle, Men (Olympic)",Nalin Malik,48279,IND,,4.0,False,,Nalin,Malik
+1932.0,Summer,Swimming (Aquatics),"1,500 metres Freestyle, Men (Olympic)",Nalin Malik,48279,IND,,4.0,False,,Nalin,Malik
+1956.0,Summer,Swimming (Aquatics),"200 metres Breaststroke, Men (Olympic)",Shamsher Khan,48280,IND,,15.0,False,,Shamsher,Khan
+1956.0,Summer,Swimming (Aquatics),"200 metres Butterfly, Men (Olympic)",Shamsher Khan,48280,IND,,19.0,False,,Shamsher,Khan
+1988.0,Summer,Swimming (Aquatics),"200 metres Butterfly, Men (Olympic)",Khazan Singh Tokas,48281,IND,,28.0,False,,Khazan,Singh
+1948.0,Summer,Swimming (Aquatics),"100 metres Freestyle, Men (Olympic)",Isaac Mansoor,48282,IND,,7.0,False,,Isaac,Mansoor
+1948.0,Summer,Swimming (Aquatics),Water Polo (Aquatics),Isaac Mansoor,48282,IND,IND,,True,,Isaac,Mansoor
+1948.0,Summer,Swimming (Aquatics),"Water Polo, Men (Olympic)",Isaac Mansoor,48282,IND,India,9.0,True,,Isaac,Mansoor
+1952.0,Summer,Swimming (Aquatics),"100 metres Freestyle, Men (Olympic)",Isaac Mansoor,48282,IND,,60.0,False,,Isaac,Mansoor
+1952.0,Summer,Swimming (Aquatics),Water Polo (Aquatics),Isaac Mansoor,48282,IND,IND,,True,,Isaac,Mansoor
+1952.0,Summer,Swimming (Aquatics),"Water Polo, Men (Olympic)",Isaac Mansoor,48282,IND,India,17.0,True,,Isaac,Mansoor
+1948.0,Summer,Swimming (Aquatics),"200 metres Breaststroke, Men (Olympic)",Prafulla Mullick,48283,IND,,8.0,False,,Prafulla,Mullick
+1964.0,Summer,Diving (Aquatics),"Springboard, Men (Olympic)",Ansuya Prasad,48284,IND,,25.0,False,,Ansuya,Prasad
+1964.0,Summer,Diving (Aquatics),"Platform, Men (Olympic)",Sohan Singh,48285,IND,,30.0,False,,Sohan,Singh
+1996.0,Summer,Swimming (Aquatics),"50 metres Freestyle, Men (Olympic)",Sebastian Xavier,48286,IND,,49.0,False,,Sebastian,Xavier
+1952.0,Summer,Water Polo (Aquatics),"Water Polo, Men (Olympic)",Birendra Basak,54225,IND,India,17.0,True,,Birendra,Basak
+1948.0,Summer,Water Polo (Aquatics),"Water Polo, Men (Olympic)",Samarandra Chatterjee,54226,IND,India,9.0,True,,Samarandra,Chatterjee
+1948.0,Summer,Swimming (Aquatics),"100 metres Freestyle, Men (Olympic)",Dilip Mitra,54227,IND,,8.0,False,,Dilip,Mitra
+1948.0,Summer,Swimming (Aquatics),Water Polo (Aquatics),Dilip Mitra,54227,IND,IND,,True,,Dilip,Mitra
+1948.0,Summer,Swimming (Aquatics),"Water Polo, Men (Olympic)",Dilip Mitra,54227,IND,India,,False,,Dilip,Mitra
+1948.0,Summer,Swimming (Aquatics),"100 metres Backstroke, Men (Olympic)",Prahtip Mitra,54228,IND,,7.0,False,,Prahtip,Mitra
+1948.0,Summer,Swimming (Aquatics),"100 metres Freestyle, Men (Olympic)",Sachin Nag,54229,IND,,6.0,False,,Sachin,Nag
+1948.0,Summer,Swimming (Aquatics),"400 metres Freestyle, Men (Olympic)",Sachin Nag,54229,IND,,,False,,Sachin,Nag
+1948.0,Summer,Swimming (Aquatics),Water Polo (Aquatics),Sachin Nag,54229,IND,IND,,True,,Sachin,Nag
+1948.0,Summer,Swimming (Aquatics),"Water Polo, Men (Olympic)",Sachin Nag,54229,IND,India,9.0,True,,Sachin,Nag
+1952.0,Summer,Water Polo (Aquatics),"Water Polo, Men (Olympic)",Sachin Nag,54229,IND,India,17.0,True,,Sachin,Nag
+1952.0,Summer,Water Polo (Aquatics),Swimming (Aquatics),Sachin Nag,54229,IND,IND,,True,,Sachin,Nag
+1952.0,Summer,Water Polo (Aquatics),"100 metres Freestyle, Men (Olympic)",Sachin Nag,54229,IND,,,False,,Sachin,Nag
+1952.0,Summer,Water Polo (Aquatics),"Water Polo, Men (Olympic)",Sambhu Saha,54230,IND,India,17.0,True,,Sambhu,Saha
+1948.0,Summer,Swimming (Aquatics),"100 metres Backstroke, Men (Olympic)",Kanti Shah,54231,IND,,7.0,False,,Kanti,Shah
+1952.0,Summer,Swimming (Aquatics),"100 metres Backstroke, Men (Olympic)",Kanti Shah,54231,IND,,37.0,False,,Kanti,Shah
+1952.0,Summer,Swimming (Aquatics),Water Polo (Aquatics),Kanti Shah,54231,IND,IND,,True,,Kanti,Shah
+1952.0,Summer,Swimming (Aquatics),"Water Polo, Men (Olympic)",Kanti Shah,54231,IND,India,17.0,True,,Kanti,Shah
+1952.0,Summer,Water Polo (Aquatics),"Water Polo, Men (Olympic)",Kedar Shah,54232,IND,India,17.0,True,,Kedar,Shah
+1952.0,Summer,Water Polo (Aquatics),"Water Polo, Men (Olympic)",David Sopher,54233,IND,India,17.0,True,,David,Sopher
+2000.0,Summer,Athletics,"4 × 100 metres Relay, Men (Olympic)",Anil Kumar Prakash,55086,IND,India,7.0,False,,Anil,Kumar
+1992.0,Summer,Weightlifting,"Flyweight, Men (Olympic)",Badathala Adisekhar,56007,IND,,10.0,False,,Badathala,Adisekhar
+1996.0,Summer,Weightlifting,"Flyweight, Men (Olympic)",Badathala Adisekhar,56007,IND,,18.0,False,,Badathala,Adisekhar
+1988.0,Summer,Weightlifting,"Flyweight, Men (Olympic)",Raghavan Chanderasekaran,56008,IND,,19.0,False,,Raghavan,Chanderasekaran
+1996.0,Summer,Weightlifting,"Bantamweight, Men (Olympic)",Raghavan Chanderasekaran,56008,IND,,11.0,False,,Raghavan,Chanderasekaran
+1960.0,Summer,Weightlifting,"Featherweight, Men (Olympic)",Laxmi Kanta Das,56009,IND,,12.0,False,,Laxmi,Kanta
+1964.0,Summer,Weightlifting,"Featherweight, Men (Olympic)",Laxmi Kanta Das,56009,IND,,13.0,False,,Laxmi,Kanta
+1980.0,Summer,Weightlifting,"Flyweight, Men (Olympic)",Karunagaran Ekambaram,56010,IND,,,False,,Karunagaran,Ekambaram
+1964.0,Summer,Weightlifting,"Bantamweight, Men (Olympic)",Mohon Lal Ghosh,56011,IND,,14.0,False,,Mohon,Lal
+1968.0,Summer,Weightlifting,"Featherweight, Men (Olympic)",Mohon Lal Ghosh,56011,IND,,15.0,True,,Mohon,Lal
+1984.0,Summer,Weightlifting,"Bantamweight, Men (Olympic)",Deven Govindasami,56012,IND,,10.0,False,,Deven,Govindasami
+1996.0,Summer,Weightlifting,"Lightweight, Men (Olympic)",Samsudeen Kabeer,56013,IND,,23.0,False,,Samsudeen,Kabeer
+1984.0,Summer,Weightlifting,"Flyweight, Men (Olympic)",Mahendran Kannan,56014,IND,,10.0,False,,Mahendran,Kannan
+1996.0,Summer,Weightlifting,"Featherweight, Men (Olympic)",Sandeep Kumar,56015,IND,,33.0,False,,Sandeep,Kumar
+1984.0,Summer,Weightlifting,"Flyweight, Men (Olympic)",Manikyalu Malla Venkata,56016,IND,,,False,,Manikyalu,Malla
+1948.0,Summer,Weightlifting,"Featherweight, Men (Olympic)",Daniel Pon Mony,56017,IND,,16.0,False,,Daniel,Pon
+1952.0,Summer,Weightlifting,"Featherweight, Men (Olympic)",Daniel Pon Mony,56017,IND,,12.0,False,,Daniel,Pon
+1972.0,Summer,Weightlifting,"Flyweight, Men (Olympic)",Anil Mondal,56018,IND,,11.0,False,,Anil,Mondal
+1976.0,Summer,Weightlifting,"Flyweight, Men (Olympic)",Anil Mondal,56018,IND,,,False,,Anil,Mondal
+1956.0,Summer,Weightlifting,"Bantamweight, Men (Olympic)",Valli Asari Mookan,56019,IND,,12.0,False,,Valli,Asari
+1980.0,Summer,Weightlifting,"Bantamweight, Men (Olympic)",Tamil Selwan Muniswamy,56020,IND,,,False,,Tamil,Selwan
+1988.0,Summer,Weightlifting,"Flyweight, Men (Olympic)",Gurunathan Muthuswamy,56021,IND,,11.0,False,,Gurunathan,Muthuswamy
+1992.0,Summer,Weightlifting,"Featherweight, Men (Olympic)",Sivaraj Naalamuthu Pillai,56022,IND,,22.0,False,,Sivaraj,Naalamuthu
+1996.0,Summer,Weightlifting,"Middleweight, Men (Olympic)",Satheesha Rai,56023,IND,,15.0,False,,Satheesha,Rai
+1948.0,Summer,Weightlifting,"Heavyweight, Men (Olympic)",Dandamudi Rajagopal,56024,IND,,16.0,False,,Dandamudi,Rajagopal
+1956.0,Summer,Weightlifting,"Heavyweight, Men (Olympic)",Dandamudi Rajagopal,56024,IND,,9.0,False,,Dandamudi,Rajagopal
+1992.0,Summer,Weightlifting,"Bantamweight, Men (Olympic)",Ponnuswamy Rangaswamy,56025,IND,,18.0,False,,Ponnuswamy,Rangaswamy
+1952.0,Summer,Weightlifting,"Middle-Heavyweight, Men (Olympic)",Kamineni Eswara Rao,56026,IND,,,False,,Kamineni,Eswara
+1956.0,Summer,Weightlifting,"Middle-Heavyweight, Men (Olympic)",Kamineni Eswara Rao,56026,IND,,11.0,False,,Kamineni,Eswara
+1984.0,Summer,Weightlifting,"Featherweight, Men (Olympic)",Kamalakanta Santra,56027,IND,,15.0,False,,Kamalakanta,Santra
+1936.0,Summer,Weightlifting,"Middleweight, Men (Olympic)",U Zaw Weik,56028,IND,,15.0,False,,U,Zaw
+1964.0,Summer,Wrestling,"Middleweight, Greco-Roman, Men (Olympic)",Ganpat Andhalkar,58683,IND,,,False,,Ganpat,Andhalkar
+1964.0,Summer,Wrestling,"Heavyweight, Freestyle, Men (Olympic)",Ganpat Andhalkar,58683,IND,,,False,,Ganpat,Andhalkar
+1980.0,Summer,Wrestling,"Flyweight, Freestyle, Men (Olympic)",Ashok Kumar,58684,IND,,,False,,Ashok,Kumar
+1948.0,Summer,Wrestling,"Welterweight, Freestyle, Men (Olympic)",Anant Bhargava,58685,IND,,,False,,Anant,Bhargava
+1948.0,Summer,Wrestling,"Bantamweight, Freestyle, Men (Olympic)",Nirmal Bhose,58686,IND,,,False,,Nirmal,Bhose
+1960.0,Summer,Wrestling,"Welterweight, Freestyle, Men (Olympic)",Udey Chand,58687,IND,,14.0,True,,Udey,Chand
+1964.0,Summer,Wrestling,"Lightweight, Freestyle, Men (Olympic)",Udey Chand,58687,IND,,,False,,Udey,Chand
+1968.0,Summer,Wrestling,"Lightweight, Freestyle, Men (Olympic)",Udey Chand,58687,IND,,6.0,False,,Udey,Chand
+1992.0,Summer,Wrestling,"Featherweight, Freestyle, Men (Olympic)",Dharan Singh Dahiya,58688,IND,,,False,,Dharan,Singh
+1952.0,Summer,Wrestling,"Flyweight, Freestyle, Men (Olympic)",Niranjan Das,58689,IND,,,False,,Niranjan,Das
+1956.0,Summer,Wrestling,"Flyweight, Freestyle, Men (Olympic)",Baban Daware,58690,IND,,,False,,Baban,Daware
+1984.0,Summer,Wrestling,"Light-Flyweight, Freestyle, Men (Olympic)",Sunil Dutt,58691,IND,,7.0,False,,Sunil,Dutt
+1960.0,Summer,Wrestling,"Lightweight, Freestyle, Men (Olympic)",Parkash Gian,58692,IND,,15.0,False,,Parkash,Gian
+1972.0,Summer,Wrestling,"Middleweight, Freestyle, Men (Olympic)",Harishchandra Birajdar,58693,IND,,,False,,Harishchandra,Birajdar
+1948.0,Summer,Wrestling,"Flyweight, Freestyle, Men (Olympic)",Khashaba Jadhav,58694,IND,,6.0,False,,Khashaba,Jadhav
+1952.0,Summer,Wrestling,"Bantamweight, Freestyle, Men (Olympic)",Khashaba Jadhav,58694,IND,,3.0,False,Bronze,Khashaba,Jadhav
+1992.0,Summer,Wrestling,"Light-Flyweight, Greco-Roman, Men (Olympic)",Pappu Jadav,58695,IND,,8.0,False,,Pappu,Jadav
+1996.0,Summer,Wrestling,"Flyweight, Greco-Roman, Men (Olympic)",Pappu Jadav,58695,IND,,17.0,True,,Pappu,Jadav
+1952.0,Summer,Wrestling,"Light-Heavyweight, Freestyle, Men (Olympic)",Shrirang Jadhav,58696,IND,,,False,,Shrirang,Jadhav
+1936.0,Summer,Wrestling,"Middleweight, Freestyle, Men (Olympic)",Karam Rasul,58697,IND,,,False,,Karam,Rasul
+1992.0,Summer,Wrestling,"Flyweight, Freestyle, Men (Olympic)",Anil Kumar,58698,IND,,,False,,Anil,Kumar
+1992.0,Summer,Wrestling,"Bantamweight, Freestyle, Men (Olympic)",Ashok Kumar,58699,IND,,,False,,Ashok,Kumar
+1988.0,Summer,Wrestling,"Welterweight, Freestyle, Men (Olympic)",Naresh Kumar,58700,IND,,,False,,Naresh,Kumar
+1988.0,Summer,Wrestling,"Light-Flyweight, Freestyle, Men (Olympic)",Rajesh Kumar,58701,IND,,,False,,Rajesh,Kumar
+1968.0,Summer,Wrestling,"Flyweight, Greco-Roman, Men (Olympic)",Sudesh Kumar,58702,IND,,,False,,Sudesh,Kumar
+1968.0,Summer,Wrestling,"Flyweight, Freestyle, Men (Olympic)",Sudesh Kumar,58702,IND,,6.0,False,,Sudesh,Kumar
+1972.0,Summer,Wrestling,"Flyweight, Freestyle, Men (Olympic)",Sudesh Kumar,58702,IND,,4.0,False,,Sudesh,Kumar
+1988.0,Summer,Wrestling,"Bantamweight, Freestyle, Men (Olympic)",Vinod Kumar,58703,IND,,,False,,Vinod,Kumar
+1964.0,Summer,Wrestling,"Light-Heavyweight, Greco-Roman, Men (Olympic)",Maruti Mane,58704,IND,,,False,,Maruti,Mane
+1964.0,Summer,Wrestling,"Light-Heavyweight, Freestyle, Men (Olympic)",Maruti Mane,58704,IND,,,False,,Maruti,Mane
+1952.0,Summer,Wrestling,"Featherweight, Freestyle, Men (Olympic)",Keshav Mangave,58705,IND,,4.0,False,,Keshav,Mangave
+1972.0,Summer,Wrestling,"Light-Flyweight, Freestyle, Men (Olympic)",Adkar Maruti,58706,IND,,,False,,Adkar,Maruti
+1936.0,Summer,Wrestling,"Welterweight, Freestyle, Men (Olympic)",Rashid Anwar,58707,IND,,,False,,Rashid,Anwar
+1920.0,Summer,Wrestling,"Middleweight, Freestyle, Men (Olympic)",Kumar Navale,58708,IND,,9.0,True,,Kumar,Navale
+1956.0,Summer,Wrestling,"Lightweight, Freestyle, Men (Olympic)",Lakhshmi Kant Pandey,58709,IND,,,False,,Lakhshmi,Kant
+1956.0,Summer,Wrestling,"Bantamweight, Freestyle, Men (Olympic)",Tarashkeswar Pandey,58710,IND,,,False,,Tarashkeswar,Pandey
+1964.0,Summer,Wrestling,"Featherweight, Greco-Roman, Men (Olympic)",Bandu Patil,58711,IND,,,False,,Bandu,Patil
+1964.0,Summer,Wrestling,"Featherweight, Freestyle, Men (Olympic)",Bandu Patil,58711,IND,,,False,,Bandu,Patil
+1992.0,Summer,Wrestling,"Featherweight, Greco-Roman, Men (Olympic)",M. R. Patil,58712,IND,,,False,,M.,R.
+1984.0,Summer,Wrestling,"Light-Heavyweight, Freestyle, Men (Olympic)",Jai Prakash,58713,IND,,,False,,Jai,Prakash
+1972.0,Summer,Wrestling,"Bantamweight, Freestyle, Men (Olympic)",Prem Nath,58714,IND,,4.0,False,,Prem,Nath
+1972.0,Summer,Wrestling,"Light-Heavyweight, Freestyle, Men (Olympic)",Chandgi Ram,58715,IND,,,False,,Chandgi,Ram
+1956.0,Summer,Wrestling,"Heavyweight, Freestyle, Men (Olympic)",Lila Ram,58716,IND,,,False,,Lila,Ram
+1956.0,Summer,Wrestling,"Featherweight, Freestyle, Men (Olympic)",Ram Sarup,58717,IND,,,False,,Ram,Sarup
+1948.0,Summer,Wrestling,"Middleweight, Freestyle, Men (Olympic)",Keshav Roy,58718,IND,,,False,,Keshav,Roy
+1972.0,Summer,Wrestling,"Featherweight, Freestyle, Men (Olympic)",Satpal Singh,58719,IND,,,False,,Satpal,Singh
+1980.0,Summer,Wrestling,"Heavyweight, Freestyle, Men (Olympic)",Satpal Singh,58719,IND,,,False,,Satpal,Singh
+1988.0,Summer,Wrestling,"Lightweight, Freestyle, Men (Olympic)",Satyawan,58720,IND,,,False,,Satyawan,
+1960.0,Summer,Wrestling,"Featherweight, Freestyle, Men (Olympic)",Sundar Shyam,58721,IND,,25.0,False,,Sundar,Shyam
+1920.0,Summer,Wrestling,"Featherweight, Freestyle, Men (Olympic)",Dinkkarao Shinde,58722,IND,,4.0,False,,Dinkkarao,Shinde
+1956.0,Summer,Wrestling,"Middleweight, Freestyle, Men (Olympic)",Bakshish Singh,58723,IND,,,False,,Bakshish,Singh
+1948.0,Summer,Wrestling,"Lightweight, Freestyle, Men (Olympic)",Banta Singh,58724,IND,,,False,,Banta,Singh
+1964.0,Summer,Wrestling,"Bantamweight, Greco-Roman, Men (Olympic)",Bishambar Singh,58725,IND,,,False,,Bishambar,Singh
+1964.0,Summer,Wrestling,"Bantamweight, Freestyle, Men (Olympic)",Bishambar Singh,58725,IND,,6.0,False,,Bishambar,Singh
+1968.0,Summer,Wrestling,"Bantamweight, Freestyle, Men (Olympic)",Bishambar Singh,58725,IND,,,False,,Bishambar,Singh
+1956.0,Summer,Wrestling,"Welterweight, Freestyle, Men (Olympic)",Devi Singh,58726,IND,,,False,,Devi,Singh
+1984.0,Summer,Wrestling,"Featherweight, Freestyle, Men (Olympic)",Gian Singh,58727,IND,,,False,,Gian,Singh
+1980.0,Summer,Wrestling,"Lightweight, Freestyle, Men (Olympic)",Jagmander Singh,58728,IND,,4.0,False,,Jagmander,Singh
+1984.0,Summer,Wrestling,"Lightweight, Freestyle, Men (Olympic)",Jagmander Singh,58728,IND,,,False,,Jagmander,Singh
+1972.0,Summer,Wrestling,"Lightweight, Freestyle, Men (Olympic)",Jagrup Singh,58729,IND,,,False,,Jagrup,Singh
+1964.0,Summer,Wrestling,"Middleweight, Freestyle, Men (Olympic)",Jit Singh,58731,IND,,,False,,Jit,Singh
+1980.0,Summer,Wrestling,"Light-Heavyweight, Freestyle, Men (Olympic)",Kartar Dhillon Singh,58732,IND,,,False,,Kartar,Dhillon
+1984.0,Summer,Wrestling,"Heavyweight, Freestyle, Men (Olympic)",Kartar Dhillon Singh,58732,IND,,7.0,False,,Kartar,Dhillon
+1988.0,Summer,Wrestling,"Heavyweight, Freestyle, Men (Olympic)",Kartar Dhillon Singh,58732,IND,,,False,,Kartar,Dhillon
+1988.0,Summer,Wrestling,"Flyweight, Freestyle, Men (Olympic)",Kuldeep Singh,58733,IND,,,False,,Kuldeep,Singh
+1960.0,Summer,Wrestling,"Middleweight, Freestyle, Men (Olympic)",Madho Singh,58734,IND,,5.0,True,,Madho,Singh
+1964.0,Summer,Wrestling,"Welterweight, Freestyle, Men (Olympic)",Madho Singh,58734,IND,,,False,,Madho,Singh
+1980.0,Summer,Wrestling,"Light-Flyweight, Freestyle, Men (Olympic)",Mahabir Singh,58735,IND,,5.0,False,,Mahabir,Singh
+1984.0,Summer,Wrestling,"Flyweight, Freestyle, Men (Olympic)",Mahabir Singh,58735,IND,,6.0,False,,Mahabir,Singh
+1964.0,Summer,Wrestling,"Flyweight, Greco-Roman, Men (Olympic)",Malwa Singh,58736,IND,,,False,,Malwa,Singh
+1964.0,Summer,Wrestling,"Flyweight, Freestyle, Men (Olympic)",Malwa Singh,58736,IND,,,False,,Malwa,Singh
+1968.0,Summer,Wrestling,"Welterweight, Freestyle, Men (Olympic)",Mukhtiar Singh,58737,IND,,,False,,Mukhtiar,Singh
+1972.0,Summer,Wrestling,"Welterweight, Freestyle, Men (Olympic)",Mukhtiar Singh,58737,IND,,,False,,Mukhtiar,Singh
+1980.0,Summer,Wrestling,"Welterweight, Freestyle, Men (Olympic)",Rajinder Singh,58738,IND,,6.0,False,,Rajinder,Singh
+1984.0,Summer,Wrestling,"Welterweight, Freestyle, Men (Olympic)",Rajinder Singh,58738,IND,,4.0,False,,Rajinder,Singh
+1984.0,Summer,Wrestling,"Bantamweight, Freestyle, Men (Olympic)",Rohtas Singh,58739,IND,,5.0,False,,Rohtas,Singh
+1960.0,Summer,Wrestling,"Light-Heavyweight, Freestyle, Men (Olympic)",Sajan Singh,58740,IND,,7.0,False,,Sajan,Singh
+1948.0,Summer,Wrestling,"Featherweight, Freestyle, Men (Olympic)",Sarjarao Suryavanshi,58742,IND,,,False,,Sarjarao,Suryavanshi
+1936.0,Summer,Wrestling,"Bantamweight, Freestyle, Men (Olympic)",Shankarrao Thorat,58743,IND,,,False,,Shankarrao,Thorat
+1988.0,Summer,Wrestling,"Light-Heavyweight, Freestyle, Men (Olympic)",Subhash Verma,58744,IND,,,False,,Subhash,Verma
+1992.0,Summer,Wrestling,"Heavyweight, Freestyle, Men (Olympic)",Subhash Verma,58744,IND,,6.0,False,,Subhash,Verma
+1972.0,Summer,Sailing,"Two Person Heavyweight Dinghy, Open (Olympic)",Ahmed Abdul Basith,61255,IND,Sohrab Janshed Contractor,29.0,False,,Ahmed,Abdul
+1984.0,Summer,Sailing,"Two Person Dinghy, Open (Olympic)",Dhruv Bhandari,61344,IND,Farokh Tarapore,17.0,False,,Dhruv,Bhandari
+1992.0,Summer,Sailing,"Two Person Dinghy, Men (Olympic)",Cyrus Cama,61531,IND,Farokh Tarapore,23.0,False,,Cyrus,Cama
+1972.0,Summer,Sailing,"Two Person Heavyweight Dinghy, Open (Olympic)",Sohrab Janshed Contractor,61654,IND,Ahmed Abdul Basith,29.0,False,,Sohrab,Janshed
+1972.0,Summer,Sailing,"One Person Dinghy, Open (Olympic)",Tehmasp Rustom Mogul,63035,IND,,34.0,False,,Tehmasp,Rustom
+1988.0,Summer,Sailing,"Two Person Dinghy, Men (Olympic)",Kelly Subbanand Rao,63401,IND,Farokh Tarapore,17.0,False,,Kelly,Subbanand
+1984.0,Summer,Sailing,"Two Person Dinghy, Open (Olympic)",Farokh Tarapore,63868,IND,Dhruv Bhandari,17.0,False,,Farokh,Tarapore
+1988.0,Summer,Sailing,"Two Person Dinghy, Men (Olympic)",Farokh Tarapore,63868,IND,Kelly Subbanand Rao,17.0,False,,Farokh,Tarapore
+1992.0,Summer,Sailing,"Two Person Dinghy, Men (Olympic)",Farokh Tarapore,63868,IND,Cyrus Cama,23.0,False,,Farokh,Tarapore
+2000.0,Summer,Tennis,"Doubles, Women (Olympic)",Manisha Malhotra,70130,IND,Nirupama Vaidyanathan,17.0,True,,Manisha,Malhotra
+2000.0,Summer,Tennis,"Doubles, Women (Olympic)",Nirupama Vaidyanathan,71045,IND,Manisha Malhotra,17.0,True,,Nirupama,Vaidyanathan
+1984.0,Summer,Athletics,"800 metres, Women (Olympic)",Shiny Abraham,71356,IND,,8.0,False,,Shiny,Abraham
+1984.0,Summer,Athletics,"4 × 400 metres Relay, Women (Olympic)",Shiny Abraham,71356,IND,India,7.0,False,,Shiny,Abraham
+1988.0,Summer,Athletics,"800 metres, Women (Olympic)",Shiny Abraham,71356,IND,,6.0,False,,Shiny,Abraham
+1988.0,Summer,Athletics,"4 × 400 metres Relay, Women (Olympic)",Shiny Abraham,71356,IND,India,7.0,False,,Shiny,Abraham
+1992.0,Summer,Athletics,"800 metres, Women (Olympic)",Shiny Wilson,71356,IND,,4.0,False,,Shiny,Wilson
+1996.0,Summer,Athletics,"4 × 400 metres Relay, Women (Olympic)",Shiny Wilson,71356,IND,India,1.0,False,,Shiny,Wilson
+1952.0,Summer,Athletics,"100 metres, Women (Olympic)",Mary D'Souza,71357,IND,,5.0,False,,Mary,D'Souza
+1952.0,Summer,Athletics,"200 metres, Women (Olympic)",Mary D'Souza,71357,IND,,7.0,False,,Mary,D'Souza
+1960.0,Summer,Athletics,"200 metres, Women (Olympic)",Stephie D'Souza,71358,IND,,,False,,Stephie,D'Souza
+1960.0,Summer,Athletics,"800 metres, Women (Olympic)",Stephie D'Souza,71358,IND,,,False,,Stephie,D'Souza
+1964.0,Summer,Athletics,"400 metres, Women (Olympic)",Stephie D'Souza,71358,IND,,6.0,False,,Stephie,D'Souza
+1952.0,Summer,Athletics,"100 metres, Women (Olympic)",Nilima Ghose,71359,IND,,5.0,False,,Nilima,Ghose
+1952.0,Summer,Athletics,"80 metres Hurdles, Women (Olympic)",Nilima Ghose,71359,IND,,5.0,False,,Nilima,Ghose
+1988.0,Summer,Athletics,"400 metres, Women (Olympic)",Mercy Kuttan-Mathews,71360,IND,,8.0,False,,Mercy,Kuttan-Mathews
+1988.0,Summer,Athletics,"4 × 400 metres Relay, Women (Olympic)",Mercy Kuttan-Mathews,71360,IND,India,7.0,False,,Mercy,Kuttan-Mathews
+1996.0,Summer,Athletics,"4 × 400 metres Relay, Women (Olympic)",Rosa Kutty,71361,IND,India,1.0,False,,Rosa,Kutty
+2000.0,Summer,Athletics,"4 × 400 metres Relay, Women (Olympic)",Rosa Kutty,71361,IND,India,5.0,False,,Rosa,Kutty
+1996.0,Summer,Athletics,"4 × 400 metres Relay, Women (Olympic)",K. M. Beenamol,71362,IND,India,1.0,False,,K.,M.
+2000.0,Summer,Athletics,"400 metres, Women (Olympic)",K. M. Beenamol,71362,IND,,8.0,False,,K.,M.
+2000.0,Summer,Athletics,"4 × 400 metres Relay, Women (Olympic)",K. M. Beenamol,71362,IND,India,5.0,False,,K.,M.
+2004.0,Summer,Athletics,"4 × 400 metres Relay, Women (Olympic)",K. M. Beenamol,71362,IND,India,7.0,False,,K.,M.
+1956.0,Summer,Athletics,"100 metres, Women (Olympic)",Mary Rao,71363,IND,,1.0,False,,Mary,Rao
+1956.0,Summer,Athletics,"80 metres Hurdles, Women (Olympic)",Mary Rao,71363,IND,,,False,,Mary,Rao
+1984.0,Summer,Athletics,"4 × 400 metres Relay, Women (Olympic)",Vandana Rao,71364,IND,India,7.0,False,,Vandana,Rao
+1988.0,Summer,Athletics,"4 × 400 metres Relay, Women (Olympic)",Vandana Rao,71364,IND,India,7.0,False,,Vandana,Rao
+1972.0,Summer,Athletics,"400 metres, Women (Olympic)",Kamaljit Sandhu,71365,IND,,8.0,False,,Kamaljit,Sandhu
+1988.0,Summer,Athletics,"4 × 400 metres Relay, Women (Olympic)",Vandana Shanbagh,71366,IND,India,7.0,False,,Vandana,Shanbagh
+1996.0,Summer,Athletics,"4 × 400 metres Relay, Women (Olympic)",Jyotirmoyee Sikdar,71367,IND,India,1.0,False,,Jyotirmoyee,Sikdar
+1980.0,Summer,Athletics,"100 metres, Women (Olympic)",P. T. Usha,71368,IND,,6.0,False,,P.,T.
+1980.0,Summer,Athletics,"200 metres, Women (Olympic)",P. T. Usha,71368,IND,,7.0,False,,P.,T.
+1984.0,Summer,Athletics,"400 metres Hurdles, Women (Olympic)",P. T. Usha,71368,IND,,4.0,False,,P.,T.
+1984.0,Summer,Athletics,"4 × 400 metres Relay, Women (Olympic)",P. T. Usha,71368,IND,India,7.0,False,,P.,T.
+1988.0,Summer,Athletics,"400 metres Hurdles, Women (Olympic)",P. T. Usha,71368,IND,,7.0,False,,P.,T.
+1988.0,Summer,Athletics,"4 × 400 metres Relay, Women (Olympic)",P. T. Usha,71368,IND,India,,False,,P.,T.
+1984.0,Summer,Athletics,"400 metres Hurdles, Women (Olympic)",M. D. Valsamma,71369,IND,,5.0,False,,M.,D.
+1984.0,Summer,Athletics,"4 × 400 metres Relay, Women (Olympic)",M. D. Valsamma,71369,IND,India,7.0,False,,M.,D.
+1980.0,Summer,Athletics,"800 metres, Women (Olympic)",Geeta Zutshi,71370,IND,,6.0,False,,Geeta,Zutshi
+1980.0,Summer,Athletics,"1,500 metres, Women (Olympic)",Geeta Zutshi,71370,IND,,,False,,Geeta,Zutshi
+1984.0,Summer,Athletics,"3,000 metres, Women (Olympic)",Geeta Zutshi,71370,IND,,8.0,False,,Geeta,Zutshi
+1964.0,Summer,Athletics,"Marathon, Men (Olympic)",Balkrishan Akotkar,71371,IND,,33.0,False,,Balkrishan,Akotkar
+1972.0,Summer,Athletics,"High Jump, Men (Olympic)",Suresh Babu,71372,IND,,40.0,False,,Suresh,Babu
+1920.0,Summer,Athletics,"100 metres, Men (Olympic)",Purma Bannerjee,71373,IND,,5.0,False,,Purma,Bannerjee
+1920.0,Summer,Athletics,"400 metres, Men (Olympic)",Purma Bannerjee,71373,IND,,4.0,False,,Purma,Bannerjee
+1936.0,Summer,Athletics,"400 metres, Men (Olympic)",Gyan Bhalla,71374,IND,,5.0,False,,Gyan,Bhalla
+1936.0,Summer,Athletics,"800 metres, Men (Olympic)",Gyan Bhalla,71374,IND,,8.0,False,,Gyan,Bhalla
+1960.0,Summer,Athletics,"5,000 metres, Men (Olympic)",Ranjit Bhatia,71375,IND,,11.0,False,,Ranjit,Bhatia
+1960.0,Summer,Athletics,"Marathon, Men (Olympic)",Ranjit Bhatia,71375,IND,,60.0,False,,Ranjit,Bhatia
+1984.0,Summer,Athletics,"800 metres, Men (Olympic)",Charles Borromeo,71376,IND,,5.0,False,,Charles,Borromeo
+1928.0,Summer,Athletics,"100 metres, Men (Olympic)",Ronald Burns,71377,IND,,6.0,False,,Ronald,Burns
+1928.0,Summer,Athletics,"200 metres, Men (Olympic)",Ronald Burns,71377,IND,,4.0,False,,Ronald,Burns
+1928.0,Summer,Athletics,"4 × 400 metres Relay, Men (Olympic)",Ronald Burns,71377,IND,British India,,False,,Ronald,Burns
+1976.0,Summer,Athletics,"10,000 metres, Men (Olympic)",Hari Chand,71378,IND,,8.0,False,,Hari,Chand
+1980.0,Summer,Athletics,"10,000 metres, Men (Olympic)",Hari Chand,71378,IND,,10.0,False,,Hari,Chand
+1980.0,Summer,Athletics,"Marathon, Men (Olympic)",Hari Chand,71378,IND,,31.0,False,,Hari,Chand
+1956.0,Summer,Athletics,"110 metres Hurdles, Men (Olympic)",Sri Chand Ram,71379,IND,,6.0,False,,Sri,Chand
+1920.0,Summer,Athletics,"10,000 metres, Men (Olympic)",Phadeppa Chaugule,71380,IND,,1.0,False,,Phadeppa,Chaugule
+1920.0,Summer,Athletics,"Marathon, Men (Olympic)",Phadeppa Chaugule,71380,IND,,19.0,False,,Phadeppa,Chaugule
+1920.0,Summer,Athletics,"Cross-Country, Individual, Men (Olympic)",Phadeppa Chaugule,71380,IND,,,False,,Phadeppa,Chaugule
+1928.0,Summer,Athletics,"5,000 metres, Men (Olympic)",D. B. Chavan,71381,IND,,,False,,D.,B.
+1928.0,Summer,Athletics,"10,000 metres, Men (Olympic)",D. B. Chavan,71381,IND,,,False,,D.,B.
+1964.0,Summer,Athletics,"4 × 100 metres Relay, Men (Olympic)",Anthony Coutinho,71382,IND,India,7.0,False,,Anthony,Coutinho
+1920.0,Summer,Athletics,"Marathon, Men (Olympic)",Sadashir Datar,71383,IND,,,False,,Sadashir,Datar
+1932.0,Summer,Athletics,"4 × 100 metres Relay, Men (Olympic)",Mehar Chand Dhawan,71384,IND,British India,5.0,False,,Mehar,Chand
+1932.0,Summer,Athletics,"Triple Jump, Men (Olympic)",Mehar Chand Dhawan,71384,IND,,14.0,False,,Mehar,Chand
+1924.0,Summer,Athletics,"100 metres, Men (Olympic)",James Hall,71385,IND,,3.0,False,,James,Hall
+1924.0,Summer,Athletics,"200 metres, Men (Olympic)",James Hall,71385,IND,,4.0,False,,James,Hall
+1924.0,Summer,Athletics,"400 metres, Men (Olympic)",James Hall,71385,IND,,,False,,James,Hall
+1924.0,Summer,Athletics,"4 × 100 metres Relay, Men (Olympic)",James Hall,71385,IND,British India,,False,,James,Hall
+1924.0,Summer,Athletics,"4 × 400 metres Relay, Men (Olympic)",James Hall,71385,IND,British India,,False,,James,Hall
+1928.0,Summer,Athletics,"200 metres, Men (Olympic)",James Hall,71385,IND,,4.0,False,,James,Hall
+1928.0,Summer,Athletics,"400 metres, Men (Olympic)",James Hall,71385,IND,,5.0,False,,James,Hall
+1928.0,Summer,Athletics,"4 × 400 metres Relay, Men (Olympic)",James Hall,71385,IND,British India,,False,,James,Hall
+1928.0,Summer,Athletics,"400 metres, Men (Olympic)",S. Abdul Hamid,71386,IND,,,False,,S.,Abdul
+1928.0,Summer,Athletics,"110 metres Hurdles, Men (Olympic)",S. Abdul Hamid,71386,IND,,4.0,False,,S.,Abdul
+1928.0,Summer,Athletics,"400 metres Hurdles, Men (Olympic)",S. Abdul Hamid,71386,IND,,6.0,False,,S.,Abdul
+1928.0,Summer,Athletics,"4 × 400 metres Relay, Men (Olympic)",S. Abdul Hamid,71386,IND,British India,,False,,S.,Abdul
+1924.0,Summer,Athletics,"100 metres, Men (Olympic)",Will Hildreth,71387,IND,,4.0,False,,Will,Hildreth
+1924.0,Summer,Athletics,"200 metres, Men (Olympic)",Will Hildreth,71387,IND,,8.0,False,,Will,Hildreth
+1924.0,Summer,Athletics,"400 metres, Men (Olympic)",Will Hildreth,71387,IND,,,False,,Will,Hildreth
+1924.0,Summer,Athletics,"400 metres Hurdles, Men (Olympic)",Will Hildreth,71387,IND,,,False,,Will,Hildreth
+1924.0,Summer,Athletics,"4 × 100 metres Relay, Men (Olympic)",Will Hildreth,71387,IND,British India,,False,,Will,Hildreth
+1924.0,Summer,Athletics,"4 × 400 metres Relay, Men (Olympic)",Will Hildreth,71387,IND,British India,,False,,Will,Hildreth
+1924.0,Summer,Athletics,"Marathon, Men (Olympic)",Mahadeo Singh,71388,IND,,29.0,False,,Mahadeo,Singh
+1952.0,Summer,Athletics,"400 metres, Men (Olympic)",Ivan Jacob,71389,IND,,6.0,False,,Ivan,Jacob
+1960.0,Summer,Athletics,"100 metres, Men (Olympic)",Raj Joshi Tilak,71390,IND,,7.0,False,,Raj,Joshi
+1960.0,Summer,Athletics,"4 × 100 metres Relay, Men (Olympic)",Raj Joshi Tilak,71390,IND,India,,False,,Raj,Joshi
+1968.0,Summer,Athletics,"Discus Throw, Men (Olympic)",Praveen Kumar,71391,IND,,,False,,Praveen,Kumar
+1968.0,Summer,Athletics,"Hammer Throw, Men (Olympic)",Praveen Kumar,71391,IND,,20.0,False,,Praveen,Kumar
+1972.0,Summer,Athletics,"Discus Throw, Men (Olympic)",Praveen Kumar,71391,IND,,26.0,False,,Praveen,Kumar
+1980.0,Summer,Athletics,"1,500 metres, Men (Olympic)",Sant Kumar,71392,IND,,8.0,False,,Sant,Kumar
+1924.0,Summer,Athletics,"110 metres Hurdles, Men (Olympic)",Cheruvari Lakshmanan,71393,IND,,5.0,False,,Cheruvari,Lakshmanan
+1924.0,Summer,Athletics,"400 metres Hurdles, Men (Olympic)",Cheruvari Lakshmanan,71393,IND,,,False,,Cheruvari,Lakshmanan
+1924.0,Summer,Athletics,"4 × 100 metres Relay, Men (Olympic)",Cheruvari Lakshmanan,71393,IND,British India,,False,,Cheruvari,Lakshmanan
+1924.0,Summer,Athletics,"4 × 400 metres Relay, Men (Olympic)",Cheruvari Lakshmanan,71393,IND,British India,,False,,Cheruvari,Lakshmanan
+1924.0,Summer,Athletics,"High Jump, Men (Olympic)",Cheruvari Lakshmanan,71393,IND,,,False,,Cheruvari,Lakshmanan
+1924.0,Summer,Athletics,"Long Jump, Men (Olympic)",Cheruvari Lakshmanan,71393,IND,,,False,,Cheruvari,Lakshmanan
+1960.0,Summer,Athletics,"Marathon, Men (Olympic)",Lal Chand,71394,IND,,40.0,False,,Lal,Chand
+1964.0,Summer,Athletics,"Marathon, Men (Olympic)",Harbans Lal,71395,IND,,43.0,False,,Harbans,Lal
+1928.0,Summer,Athletics,"800 metres, Men (Olympic)",Joseph Murphy,71396,IND,,7.0,False,,Joseph,Murphy
+1928.0,Summer,Athletics,"4 × 400 metres Relay, Men (Olympic)",Joseph Murphy,71396,IND,British India,,False,,Joseph,Murphy
+1964.0,Summer,Athletics,"400 metres Hurdles, Men (Olympic)",Amrit Pal,71397,IND,,7.0,False,,Amrit,Pal
+1964.0,Summer,Athletics,"4 × 400 metres Relay, Men (Olympic)",Amrit Pal,71397,IND,India,4.0,False,,Amrit,Pal
+1980.0,Summer,Athletics,"200 metres, Men (Olympic)",Perumal Subramanian,71398,IND,,5.0,False,,Perumal,Subramanian
+1948.0,Summer,Athletics,"100 metres, Men (Olympic)",Eric Prabhakar,71399,IND,,6.0,False,,Eric,Prabhakar
+1948.0,Summer,Athletics,"200 metres, Men (Olympic)",Eric Prabhakar,71399,IND,,,False,,Eric,Prabhakar
+1964.0,Summer,Athletics,"4 × 100 metres Relay, Men (Olympic)",Rajasekaran Pichaya,71400,IND,India,7.0,False,,Rajasekaran,Pichaya
+1952.0,Summer,Athletics,"100 metres, Men (Olympic)",Lavy Pinto,71401,IND,,4.0,False,,Lavy,Pinto
+1952.0,Summer,Athletics,"200 metres, Men (Olympic)",Lavy Pinto,71401,IND,,5.0,False,,Lavy,Pinto
+1924.0,Summer,Athletics,"100 metres, Men (Olympic)",Terence Pitt,71402,IND,,3.0,False,,Terence,Pitt
+1924.0,Summer,Athletics,"200 metres, Men (Olympic)",Terence Pitt,71402,IND,,3.0,False,,Terence,Pitt
+1924.0,Summer,Athletics,"400 metres, Men (Olympic)",Terence Pitt,71402,IND,,4.0,False,,Terence,Pitt
+1924.0,Summer,Athletics,"4 × 100 metres Relay, Men (Olympic)",Terence Pitt,71402,IND,British India,,False,,Terence,Pitt
+1924.0,Summer,Athletics,"4 × 400 metres Relay, Men (Olympic)",Terence Pitt,71402,IND,British India,,False,,Terence,Pitt
+1964.0,Summer,Athletics,"100 metres, Men (Olympic)",Ken Powell,71403,IND,,4.0,False,,Ken,Powell
+1964.0,Summer,Athletics,"200 metres, Men (Olympic)",Ken Powell,71403,IND,,7.0,False,,Ken,Powell
+1964.0,Summer,Athletics,"4 × 100 metres Relay, Men (Olympic)",Ken Powell,71403,IND,India,7.0,False,,Ken,Powell
+1964.0,Summer,Athletics,"4 × 400 metres Relay, Men (Olympic)",Ken Powell,71403,IND,India,,False,,Ken,Powell
+1992.0,Summer,Athletics,"5,000 metres, Men (Olympic)",Bahadur Prasad,71404,IND,,8.0,False,,Bahadur,Prasad
+1996.0,Summer,Athletics,"1,500 metres, Men (Olympic)",Bahadur Prasad,71404,IND,,8.0,False,,Bahadur,Prasad
+1900.0,Summer,Athletics,"60 metres, Men (Olympic)",Norman Pritchard,71405,IND,,3.0,False,,Norman,Pritchard
+1900.0,Summer,Athletics,"100 metres, Men (Olympic)",Norman Pritchard,71405,IND,,2.0,False,,Norman,Pritchard
+1900.0,Summer,Athletics,"200 metres, Men (Olympic)",Norman Pritchard,71405,IND,,2.0,False,Silver,Norman,Pritchard
+1900.0,Summer,Athletics,"400 metres, Men (Olympic)",Norman Pritchard,71405,IND,,,False,,Norman,Pritchard
+1900.0,Summer,Athletics,"110 metres Hurdles, Men (Olympic)",Norman Pritchard,71405,IND,,,False,,Norman,Pritchard
+1900.0,Summer,Athletics,"200 metres Hurdles, Men (Olympic)",Norman Pritchard,71405,IND,,2.0,False,Silver,Norman,Pritchard
+1900.0,Summer,Athletics,"400 metres Hurdles, Men (Olympic)",Norman Pritchard,71405,IND,,,False,,Norman,Pritchard
+1900.0,Summer,Athletics,"100 metres, Handicap, Men (Olympic (non-medal))",Norman Pritchard,71405,IND,,3.0,False,,Norman,Pritchard
+1900.0,Summer,Athletics,"110 metres Hurdles, Handicap, Men (Olympic (non-medal))",Norman Pritchard,71405,IND,,2.0,False,,Norman,Pritchard
+1900.0,Summer,Athletics,"400 metres Hurdles, Handicap, Men (Olympic (non-medal))",Norman Pritchard,71405,IND,,1.0,False,,Norman,Pritchard
+1984.0,Summer,Athletics,"20 kilometres Race Walk, Men (Olympic)",Siri Chand Ram,71406,IND,,22.0,False,,Siri,Chand
+1956.0,Summer,Athletics,"Long Jump, Men (Olympic)",Ram Mehar,71407,IND,,22.0,False,,Ram,Mehar
+1948.0,Summer,Athletics,"Triple Jump, Men (Olympic)",Henry Rebello,71409,IND,,2.0,False,,Henry,Rebello
+1960.0,Summer,Athletics,"Long Jump, Men (Olympic)",B. V. Satyanarayan,71410,IND,,30.0,False,,B.,V.
+1964.0,Summer,Athletics,"4 × 100 metres Relay, Men (Olympic)",B. V. Satyanarayan,71410,IND,India,,False,,B.,V.
+1964.0,Summer,Athletics,"Long Jump, Men (Olympic)",B. V. Satyanarayan,71410,IND,,29.0,False,,B.,V.
+1972.0,Summer,Athletics,"5,000 metres, Men (Olympic)",Eddie Sequeira,71411,IND,,11.0,False,,Eddie,Sequeira
+1964.0,Summer,Athletics,"4 × 400 metres Relay, Men (Olympic)",Ajmer Singh,71412,IND,India,4.0,False,,Ajmer,Singh
+1948.0,Summer,Athletics,"Long Jump, Men (Olympic)",Baldev Singh,71413,IND,,11.0,False,,Baldev,Singh
+1948.0,Summer,Athletics,"Decathlon, Men (Olympic)",Baldev Singh,71413,IND,,,False,,Baldev,Singh
+1968.0,Summer,Athletics,"High Jump, Men (Olympic)",Bhim Singh,71414,IND,,17.0,False,,Bhim,Singh
+1948.0,Summer,Athletics,"Marathon, Men (Olympic)",Chhota Singh,71415,IND,,,False,,Chhota,Singh
+1924.0,Summer,Athletics,"4 × 400 metres Relay, Men (Olympic)",Dalip Singh,71416,IND,British India,,False,,Dalip,Singh
+1924.0,Summer,Athletics,"Long Jump, Men (Olympic)",Dalip Singh,71416,IND,,14.0,True,,Dalip,Singh
+1928.0,Summer,Athletics,"Long Jump, Men (Olympic)",Dalip Singh,71416,IND,,37.0,False,,Dalip,Singh
+1928.0,Summer,Athletics,"Triple Jump, Men (Olympic)",Dalip Singh,71416,IND,,,False,,Dalip,Singh
+1928.0,Summer,Athletics,"1,500 metres, Men (Olympic)",Gurbachan Singh,71417,IND,,,False,,Gurbachan,Singh
+1928.0,Summer,Athletics,"5,000 metres, Men (Olympic)",Gurbachan Singh,71417,IND,,3.0,False,,Gurbachan,Singh
+1928.0,Summer,Athletics,"3,000 metres Steeplechase, Men (Olympic)",Gurbachan Singh,71417,IND,,,False,,Gurbachan,Singh
+1984.0,Summer,Athletics,"Javelin Throw, Men (Olympic)",Gurtej Singh,71418,IND,,25.0,False,,Gurtej,Singh
+1956.0,Summer,Athletics,"400 metres Hurdles, Men (Olympic)",Jagdev Singh,71419,IND,,5.0,False,,Jagdev,Singh
+1948.0,Summer,Athletics,"High Jump, Men (Olympic)",Gurnam Singh,71420,IND,,18.0,False,,Gurnam,Singh
+1960.0,Summer,Athletics,"110 metres Hurdles, Men (Olympic)",Jagmohan Singh,71421,IND,,5.0,False,,Jagmohan,Singh
+1960.0,Summer,Athletics,"4 × 100 metres Relay, Men (Olympic)",Jagmohan Singh,71421,IND,India,,False,,Jagmohan,Singh
+1964.0,Summer,Athletics,"Triple Jump, Men (Olympic)",Labh Singh,71422,IND,,26.0,False,,Labh,Singh
+1968.0,Summer,Athletics,"Long Jump, Men (Olympic)",Labh Singh,71422,IND,,,False,,Labh,Singh
+1968.0,Summer,Athletics,"Triple Jump, Men (Olympic)",Labh Singh,71422,IND,,,False,,Labh,Singh
+1964.0,Summer,Athletics,"4 × 100 metres Relay, Men (Olympic)",Makhan Singh,71423,IND,India,7.0,False,,Makhan,Singh
+1964.0,Summer,Athletics,"4 × 400 metres Relay, Men (Olympic)",Makhan Singh,71423,IND,India,4.0,False,,Makhan,Singh
+1956.0,Summer,Athletics,"200 metres, Men (Olympic)",Milkha Singh,71424,IND,,4.0,False,,Milkha,Singh
+1956.0,Summer,Athletics,"400 metres, Men (Olympic)",Milkha Singh,71424,IND,,4.0,False,,Milkha,Singh
+1960.0,Summer,Athletics,"400 metres, Men (Olympic)",Milkha Singh,71424,IND,,4.0,False,,Milkha,Singh
+1960.0,Summer,Athletics,"4 × 100 metres Relay, Men (Olympic)",Milkha Singh,71424,IND,India,,False,,Milkha,Singh
+1964.0,Summer,Athletics,"4 × 100 metres Relay, Men (Olympic)",Milkha Singh,71424,IND,India,,False,,Milkha,Singh
+1964.0,Summer,Athletics,"4 × 400 metres Relay, Men (Olympic)",Milkha Singh,71424,IND,India,4.0,False,,Milkha,Singh
+1956.0,Summer,Athletics,"Long Jump, Men (Olympic)",Mohinder Singh,71425,IND,,,False,,Mohinder,Singh
+1956.0,Summer,Athletics,"Triple Jump, Men (Olympic)",Mohinder Singh,71425,IND,,15.0,False,,Mohinder,Singh
+1924.0,Summer,Athletics,"1,500 metres, Men (Olympic)",Pala Singh,71426,IND,,5.0,False,,Pala,Singh
+1924.0,Summer,Athletics,"5,000 metres, Men (Olympic)",Pala Singh,71426,IND,,10.0,False,,Pala,Singh
+1924.0,Summer,Athletics,"10,000 metres, Men (Olympic)",Pala Singh,71426,IND,,,False,,Pala,Singh
+1924.0,Summer,Athletics,"4 × 400 metres Relay, Men (Olympic)",Pala Singh,71426,IND,British India,,False,,Pala,Singh
+1996.0,Summer,Athletics,"Discus Throw, Men (Olympic)",Shakti Singh,71427,IND,,30.0,False,,Shakti,Singh
+2000.0,Summer,Athletics,"Shot Put, Men (Olympic)",Shakti Singh,71427,IND,,32.0,False,,Shakti,Singh
+1976.0,Summer,Athletics,"Marathon, Men (Olympic)",Shivnath Singh,71428,IND,,11.0,False,,Shivnath,Singh
+1980.0,Summer,Athletics,"Marathon, Men (Olympic)",Shivnath Singh,71428,IND,,,False,,Shivnath,Singh
+1972.0,Summer,Athletics,"800 metres, Men (Olympic)",Sri Ram Singh,71429,IND,,4.0,False,,Sri,Ram
+1976.0,Summer,Athletics,"800 metres, Men (Olympic)",Sri Ram Singh,71429,IND,,7.0,False,,Sri,Ram
+1980.0,Summer,Athletics,"800 metres, Men (Olympic)",Sri Ram Singh,71429,IND,,8.0,False,,Sri,Ram
+1960.0,Summer,Athletics,"4 × 100 metres Relay, Men (Olympic)",Virsa Singh,71430,IND,India,,False,,Virsa,Singh
+1960.0,Summer,Athletics,"Long Jump, Men (Olympic)",Virsa Singh,71430,IND,,44.0,False,,Virsa,Singh
+1960.0,Summer,Athletics,"20 kilometres Race Walk, Men (Olympic)",Ajit Singh,71431,IND,,,False,,Ajit,Singh
+1960.0,Summer,Athletics,"50 kilometres Race Walk, Men (Olympic)",Ajit Singh,71431,IND,,15.0,False,,Ajit,Singh
+1980.0,Summer,Athletics,"20 kilometres Race Walk, Men (Olympic)",Ranjit Singh,71432,IND,,18.0,False,,Ranjit,Singh
+1948.0,Summer,Athletics,"10 kilometres Race Walk, Men (Olympic)",Sadhu Singh,71433,IND,,2.0,False,,Sadhu,Singh
+1948.0,Summer,Athletics,"50 kilometres Race Walk, Men (Olympic)",Sadhu Singh,71433,IND,,,False,,Sadhu,Singh
+1960.0,Summer,Athletics,"20 kilometres Race Walk, Men (Olympic)",Zora Singh,71434,IND,,20.0,False,,Zora,Singh
+1960.0,Summer,Athletics,"50 kilometres Race Walk, Men (Olympic)",Zora Singh,71434,IND,,8.0,False,,Zora,Singh
+1956.0,Summer,Athletics,"High Jump, Men (Olympic)",Ajit Singh,71435,IND,,14.0,False,,Ajit,Singh
+1980.0,Summer,Athletics,"Shot Put, Men (Olympic)",Bahadur Singh,71436,IND,,15.0,False,,Bahadur,Singh
+1972.0,Summer,Athletics,"Decathlon, Men (Olympic)",Vijay Singh Chauhan,71437,IND,,17.0,False,,Vijay,Singh
+1952.0,Summer,Athletics,"800 metres, Men (Olympic)",Sohan Singh,71438,IND,,6.0,False,,Sohan,Singh
+1956.0,Summer,Athletics,"800 metres, Men (Olympic)",Sohan Singh,71438,IND,,4.0,False,,Sohan,Singh
+1972.0,Summer,Athletics,"Long Jump, Men (Olympic)",Mohinder Singh Gill,71439,IND,,30.0,False,,Mohinder,Singh
+1972.0,Summer,Athletics,"Triple Jump, Men (Olympic)",Mohinder Singh Gill,71439,IND,,1.0,False,,Mohinder,Singh
+1936.0,Summer,Athletics,"1,500 metres, Men (Olympic)",Raunaq Singh Gill,71440,IND,,,False,,Raunaq,Singh
+1936.0,Summer,Athletics,"5,000 metres, Men (Olympic)",Raunaq Singh Gill,71440,IND,,15.0,False,,Raunaq,Singh
+1936.0,Summer,Athletics,"10,000 metres, Men (Olympic)",Raunaq Singh Gill,71440,IND,,,False,,Raunaq,Singh
+1936.0,Summer,Athletics,"3,000 metres Steeplechase, Men (Olympic)",Raunaq Singh Gill,71440,IND,,,False,,Raunaq,Singh
+1952.0,Summer,Athletics,"3,000 metres Steeplechase, Men (Olympic)",Gulzara Singh Mann,71441,IND,,12.0,False,,Gulzara,Singh
+1972.0,Summer,Athletics,"Shot Put, Men (Olympic)",Jugraj Singh,71442,IND,,26.0,False,,Jugraj,Singh
+1952.0,Summer,Athletics,"Marathon, Men (Olympic)",Surat Singh,71443,IND,,52.0,False,,Surat,Singh
+1952.0,Summer,Athletics,"High Jump, Men (Olympic)",Mehnga Singh,71444,IND,,34.0,False,,Mehnga,Singh
+1948.0,Summer,Athletics,"Hammer Throw, Men (Olympic)",Somnath,71445,IND,,23.0,False,,Somnath,
+1960.0,Summer,Athletics,"Marathon, Men (Olympic)",Jagmal Singh,71446,IND,,45.0,False,,Jagmal,Singh
+1960.0,Summer,Athletics,"4 × 100 metres Relay, Men (Olympic)",Gurbachan Singh Randhawa,71447,IND,India,,False,,Gurbachan,Singh
+1960.0,Summer,Athletics,"High Jump, Men (Olympic)",Gurbachan Singh Randhawa,71447,IND,,29.0,False,,Gurbachan,Singh
+1960.0,Summer,Athletics,"Decathlon, Men (Olympic)",Gurbachan Singh Randhawa,71447,IND,,,False,,Gurbachan,Singh
+1964.0,Summer,Athletics,"110 metres Hurdles, Men (Olympic)",Gurbachan Singh Randhawa,71447,IND,,5.0,False,,Gurbachan,Singh
+1964.0,Summer,Athletics,"4 × 400 metres Relay, Men (Olympic)",Gurbachan Singh Randhawa,71447,IND,India,,False,,Gurbachan,Singh
+1980.0,Summer,Athletics,"5,000 metres, Men (Olympic)",Gopal Saini,71448,IND,,9.0,False,,Gopal,Saini
+1980.0,Summer,Athletics,"100 metres, Men (Olympic)",Adille Sumariwalla,71449,IND,,7.0,False,,Adille,Sumariwalla
+1932.0,Summer,Athletics,"100 metres, Men (Olympic)",Bunoo Sutton,71450,IND,,4.0,False,,Bunoo,Sutton
+1932.0,Summer,Athletics,"110 metres Hurdles, Men (Olympic)",Bunoo Sutton,71450,IND,,4.0,False,,Bunoo,Sutton
+1932.0,Summer,Athletics,"4 × 100 metres Relay, Men (Olympic)",Bunoo Sutton,71450,IND,British India,5.0,False,,Bunoo,Sutton
+1936.0,Summer,Athletics,"Marathon, Men (Olympic)",Arul Swami,71451,IND,,37.0,False,,Arul,Swami
+1932.0,Summer,Athletics,"100 metres, Men (Olympic)",Ronald Vernieux,71452,IND,,4.0,False,,Ronald,Vernieux
+1932.0,Summer,Athletics,"200 metres, Men (Olympic)",Ronald Vernieux,71452,IND,,4.0,False,,Ronald,Vernieux
+1932.0,Summer,Athletics,"4 × 100 metres Relay, Men (Olympic)",Ronald Vernieux,71452,IND,British India,5.0,False,,Ronald,Vernieux
+1948.0,Summer,Athletics,"110 metres Hurdles, Men (Olympic)",Jim Vickers,71453,IND,,4.0,False,,Jim,Vickers
+1936.0,Summer,Athletics,"100 metres, Men (Olympic)",Eric Whiteside,71454,IND,,5.0,False,,Eric,Whiteside
+1936.0,Summer,Athletics,"200 metres, Men (Olympic)",Eric Whiteside,71454,IND,,4.0,False,,Eric,Whiteside
+1976.0,Summer,Athletics,"Long Jump, Men (Olympic)",T. C. Yohannan,71455,IND,,16.0,False,,T.,C.
+1988.0,Winter,Alpine Skiing (Skiing),"Slalom, Women (Olympic)",Shailaja Kumar,81590,IND,,28.0,False,,Shailaja,Kumar
+2000.0,Summer,Badminton,"Singles, Men (Olympic)",Pulella Gopichand,82741,IND,,9.0,True,,Pulella,Gopichand
+2000.0,Summer,Badminton,"Singles, Women (Olympic)",Aparna Popat,82742,IND,,33.0,True,,Aparna,Popat
+2004.0,Summer,Badminton,"Singles, Women (Olympic)",Aparna Popat,82742,IND,,9.0,True,,Aparna,Popat
+1964.0,Winter,Alpine Skiing (Skiing),"Downhill, Men (Olympic)",Jeremy Bujakowski,84457,IND,,,False,,Jeremy,Bujakowski
+1964.0,Winter,Alpine Skiing (Skiing),"Giant Slalom, Men (Olympic)",Jeremy Bujakowski,84457,IND,,,False,,Jeremy,Bujakowski
+1968.0,Winter,Alpine Skiing (Skiing),"Downhill, Men (Olympic)",Jeremy Bujakowski,84457,IND,,53.0,False,,Jeremy,Bujakowski
+1968.0,Winter,Alpine Skiing (Skiing),"Giant Slalom, Men (Olympic)",Jeremy Bujakowski,84457,IND,,65.0,False,,Jeremy,Bujakowski
+1968.0,Winter,Alpine Skiing (Skiing),"Slalom, Men (Olympic)",Jeremy Bujakowski,84457,IND,,2.0,False,,Jeremy,Bujakowski
+1992.0,Winter,Alpine Skiing (Skiing),"Giant Slalom, Men (Olympic)",Nanak Chand Thakur,84690,IND,,82.0,False,,Nanak,Chand
+1992.0,Winter,Alpine Skiing (Skiing),"Slalom, Men (Olympic)",Nanak Chand Thakur,84690,IND,,58.0,False,,Nanak,Chand
+1992.0,Winter,Alpine Skiing (Skiing),"Giant Slalom, Men (Olympic)",Lal Chuni,84770,IND,,,False,,Lal,Chuni
+1992.0,Winter,Alpine Skiing (Skiing),"Slalom, Men (Olympic)",Lal Chuni,84770,IND,,61.0,False,,Lal,Chuni
+1988.0,Winter,Alpine Skiing (Skiing),"Slalom, Men (Olympic)",Gul Dev,85181,IND,,,False,,Gul,Dev
+2000.0,Summer,Athletics,"4 × 100 metres Relay, Men (Olympic)",Rajeev Bala Krishnan,87023,IND,India,7.0,False,,Rajeev,Bala
+2000.0,Summer,Athletics,"Heptathlon, Women (Olympic)",Soma Biswas,87025,IND,,25.0,False,,Soma,Biswas
+2004.0,Summer,Athletics,"Heptathlon, Women (Olympic)",Soma Biswas,87025,IND,,24.0,False,,Soma,Biswas
+2000.0,Summer,Athletics,"4 × 400 metres Relay, Men (Olympic)",Lijo David Thottan,87026,IND,India,4.0,False,,Lijo,David
+2000.0,Summer,Athletics,"4 × 100 metres Relay, Women (Olympic)",Saraswati Dey,87027,IND,India,6.0,False,,Saraswati,Dey
+2004.0,Summer,Athletics,"200 metres, Women (Olympic)",Saraswati Saha,87027,IND,,5.0,False,,Saraswati,Saha
+2000.0,Summer,Athletics,"4 × 100 metres Relay, Men (Olympic)",Chinnain Thiruganadurai,87028,IND,India,7.0,False,,Chinnain,Thiruganadurai
+2000.0,Summer,Athletics,"Heptathlon, Women (Olympic)",Pramila Ganapathy,87029,IND,,24.0,False,,Pramila,Ganapathy
+2008.0,Summer,Athletics,"Heptathlon, Women (Olympic)",Pramila Ganapathy,87029,IND,,26.0,False,,Pramila,Ganapathy
+2000.0,Summer,Athletics,"4 × 100 metres Relay, Women (Olympic)",Valdivel Jayalakshmi,87030,IND,India,6.0,False,,Valdivel,Jayalakshmi
+2000.0,Summer,Athletics,"Javelin Throw, Women (Olympic)",Gurmeet Kaur,87031,IND,,32.0,False,,Gurmeet,Kaur
+2000.0,Summer,Athletics,"4 × 400 metres Relay, Women (Olympic)",Paramjit Kaur,87032,IND,India,5.0,False,,Paramjit,Kaur
+2000.0,Summer,Athletics,"Long Jump, Men (Olympic)",Sanjay Kumar Rai,87033,IND,,1.0,False,,Sanjay,Kumar
+2000.0,Summer,Athletics,"4 × 100 metres Relay, Women (Olympic)",Rachita Mistry,87034,IND,India,6.0,False,,Rachita,Mistry
+2000.0,Summer,Athletics,"4 × 400 metres Relay, Women (Olympic)",Jincy Phillip,87035,IND,India,5.0,False,,Jincy,Phillip
+2000.0,Summer,Athletics,"4 × 400 metres Relay, Men (Olympic)",Purukottam Ramachandran,87036,IND,India,4.0,False,,Purukottam,Ramachandran
+2000.0,Summer,Athletics,"4 × 400 metres Relay, Men (Olympic)",Jata Shankar,87037,IND,India,4.0,False,,Jata,Shankar
+2000.0,Summer,Athletics,"Javelin Throw, Men (Olympic)",Jagdish Bishnoi,87038,IND,,30.0,False,,Jagdish,Bishnoi
+2000.0,Summer,Athletics,"Shot Put, Men (Olympic)",Bahadur Singh,87039,IND,,27.0,False,,Bahadur,Singh
+2004.0,Summer,Athletics,"Shot Put, Men (Olympic)",Bahadur Singh,87039,IND,,1.0,False,,Bahadur,Singh
+2000.0,Summer,Athletics,"4 × 100 metres Relay, Men (Olympic)",Ajay Raj Singh,87040,IND,India,7.0,False,,Ajay,Raj
+2000.0,Summer,Athletics,"Discus Throw, Women (Olympic)",Neelam Jaswant Singh Dogra,87041,IND,,26.0,False,,Neelam,Jaswant
+2004.0,Summer,Athletics,"Discus Throw, Women (Olympic)",Neelam Jaswant Singh Dogra,87041,IND,,16.0,False,,Neelam,Jaswant
+2000.0,Summer,Athletics,"400 metres, Men (Olympic)",Paramjit Singh,87042,IND,,6.0,False,,Paramjit,Singh
+2000.0,Summer,Athletics,"4 × 400 metres Relay, Men (Olympic)",Paramjit Singh,87042,IND,India,4.0,False,,Paramjit,Singh
+2000.0,Summer,Athletics,"4 × 100 metres Relay, Women (Olympic)",Vinita Tripathi,87043,IND,India,6.0,False,,Vinita,Tripathi
+2000.0,Summer,Boxing,"Middleweight, Men (Olympic)",Jitender Kumar,89918,IND,,9.0,True,,Jitender,Kumar
+2004.0,Summer,Boxing,"Light-Heavyweight, Men (Olympic)",Jitender Kumar,89918,IND,,17.0,True,,Jitender,Kumar
+2000.0,Summer,Boxing,"Bantamweight, Men (Olympic)",Dingko Singh,89919,IND,,9.0,True,,Dingko,Singh
+2000.0,Summer,Boxing,"Light-Flyweight, Men (Olympic)",Soubam Suresh Singh,89920,IND,,17.0,True,,Soubam,Suresh
+2000.0,Summer,Equestrian Eventing (Equestrian),"Individual, Open (Olympic)",Imtiaz Anees,90705,IND,Spring Invader,23.0,False,,Imtiaz,Anees
+2000.0,Summer,Hockey,"Hockey, Men (Olympic)",Lajarus Barla,91700,IND,India,7.0,False,,Lajarus,Barla
+2000.0,Summer,Hockey,"Hockey, Men (Olympic)",Samir Dad,91702,IND,India,7.0,False,,Samir,Dad
+2000.0,Summer,Hockey,"Hockey, Men (Olympic)",Sukhbir Singh Gill,91703,IND,India,7.0,False,,Sukhbir,Singh
+2000.0,Summer,Hockey,"Hockey, Men (Olympic)",Jude Menezes,91704,IND,India,7.0,False,,Jude,Menezes
+2000.0,Summer,Hockey,"Hockey, Men (Olympic)",Dinesh Nayak,91705,IND,India,7.0,False,,Dinesh,Nayak
+2000.0,Summer,Hockey,"Hockey, Men (Olympic)",Thirumal Valavan Selvaraj,91706,IND,India,7.0,False,,Thirumal,Valavan
+2000.0,Summer,Hockey,"Hockey, Men (Olympic)",Gagan Ajit Singh,91707,IND,India,7.0,False,,Gagan,Ajit
+2004.0,Summer,Hockey,"Hockey, Men (Olympic)",Gagan Ajit Singh,91707,IND,India,7.0,False,,Gagan,Ajit
+2000.0,Summer,Hockey,"Hockey, Men (Olympic)",Deepak Thakur Sonkhla,91708,IND,India,7.0,False,,Deepak,Thakur
+2004.0,Summer,Hockey,"Hockey, Men (Olympic)",Deepak Thakur Sonkhla,91708,IND,India,7.0,False,,Deepak,Thakur
+2000.0,Summer,Judo,"Half-Lightweight, Women (Olympic)",Lourembam Brojeshori Devi,92329,IND,,9.0,True,,Lourembam,Brojeshori
+2000.0,Summer,Rowing,"Coxless Pairs, Men (Olympic)",Kasam Khan,92599,IND,Inderpal Singh,6.0,False,,Kasam,Khan
+2000.0,Summer,Rowing,"Coxless Pairs, Men (Olympic)",Inderpal Singh,92600,IND,Kasam Khan,6.0,False,,Inderpal,Singh
+2000.0,Summer,Shooting,"Air Rifle, 10 metres, Men (Olympic)",Abhinav Bindra,93075,IND,,11.0,True,,Abhinav,Bindra
+2004.0,Summer,Shooting,"Air Rifle, 10 metres, Men (Olympic)",Abhinav Bindra,93075,IND,,7.0,False,,Abhinav,Bindra
+2008.0,Summer,Shooting,"Air Rifle, 10 metres, Men (Olympic)",Abhinav Bindra,93075,IND,,1.0,False,Gold,Abhinav,Bindra
+2012.0,Summer,Shooting,"Air Rifle, 10 metres, Men (Olympic)",Abhinav Bindra,93075,IND,,16.0,False,,Abhinav,Bindra
+2016.0,Summer,Shooting,"Air Rifle, 10 metres, Men (Olympic)",Abhinav Bindra,93075,IND,,4.0,False,,Abhinav,Bindra
+2000.0,Summer,Shooting,"Trap, Men (Olympic)",Anwer Sultan,93076,IND,,26.0,True,,Anwer,Sultan
+2000.0,Summer,Shooting,"Air Rifle, 10 metres, Women (Olympic)",Anjali Ramakanta Vedpathak,93077,IND,,8.0,False,,Anjali,Ramakanta
+2000.0,Summer,Shooting,"Small-Bore Rifle, Three Positions, 50 metres, Women (Olympic)",Anjali Ramakanta Vedpathak,93077,IND,,33.0,False,,Anjali,Ramakanta
+2004.0,Summer,Shooting,"Air Rifle, 10 metres, Women (Olympic)",Anjali Ramakanta Bhagwat,93077,IND,,20.0,True,,Anjali,Ramakanta
+2004.0,Summer,Shooting,"Small-Bore Rifle, Three Positions, 50 metres, Women (Olympic)",Anjali Ramakanta Bhagwat,93077,IND,,13.0,True,,Anjali,Ramakanta
+2008.0,Summer,Shooting,"Air Rifle, 10 metres, Women (Olympic)",Anjali Ramakanta Bhagwat,93077,IND,,28.0,True,,Anjali,Ramakanta
+2008.0,Summer,Shooting,"Small-Bore Rifle, Three Positions, 50 metres, Women (Olympic)",Anjali Ramakanta Bhagwat,93077,IND,,32.0,False,,Anjali,Ramakanta
+2000.0,Summer,Swimming (Aquatics),"200 metres Freestyle, Men (Olympic)",Hakimuddin Shabbir Habibulla,93527,IND,,50.0,False,,Hakimuddin,Shabbir
+2000.0,Summer,Swimming (Aquatics),"200 metres Freestyle, Women (Olympic)",Nisha Millet,93528,IND,,37.0,False,,Nisha,Millet
+2000.0,Summer,Table Tennis,"Singles, Women (Olympic)",Poulomi Ghatak,93983,IND,,49.0,True,,Poulomi,Ghatak
+2000.0,Summer,Table Tennis,"Doubles, Men (Olympic)",Raman Subramanyan,93984,IND,Chetan Baboor,25.0,True,,Raman,Subramanyan
+2000.0,Summer,Weightlifting,"Featherweight, Women (Olympic)",Sanamacha Chanu,94933,IND,,6.0,False,,Sanamacha,Chanu
+2004.0,Summer,Weightlifting,"Featherweight, Women (Olympic)",Sanamacha Chanu,94933,IND,,,False,,Sanamacha,Chanu
+2000.0,Summer,Weightlifting,"Light-Heavyweight, Women (Olympic)",Karnam Malleswari,94934,IND,,3.0,False,Bronze,Karnam,Malleswari
+2004.0,Summer,Weightlifting,"Middleweight, Women (Olympic)",Karnam Malleswari,94934,IND,,,False,,Karnam,Malleswari
+2000.0,Summer,Weightlifting,"Bantamweight, Men (Olympic)",Thandava Murthy Muthu,94935,IND,,16.0,False,,Thandava,Murthy
+2000.0,Summer,Wrestling,"Lightweight, Greco-Roman, Men (Olympic)",Gurbinder Singh,95070,IND,,13.0,False,,Gurbinder,Singh
+1952.0,Summer,Water Polo (Aquatics),"Water Polo, Men (Olympic)",Jehangir Naigamwalla,95205,IND,India,17.0,True,,Jehangir,Naigamwalla
+1952.0,Summer,Water Polo (Aquatics),Swimming (Aquatics),Jehangir Naigamwalla,95205,IND,IND,,True,,Jehangir,Naigamwalla
+1952.0,Summer,Water Polo (Aquatics),"200 metres Breaststroke, Men (Olympic)",Jehangir Naigamwalla,95205,IND,,,False,,Jehangir,Naigamwalla
+1952.0,Summer,Water Polo (Aquatics),"Water Polo, Men (Olympic)",Ran Chandnani,95206,IND,India,17.0,True,,Ran,Chandnani
+1952.0,Summer,Water Polo (Aquatics),Swimming (Aquatics),Ran Chandnani,95206,IND,IND,,True,,Ran,Chandnani
+1952.0,Summer,Water Polo (Aquatics),"100 metres Backstroke, Men (Olympic)",Ran Chandnani,95206,IND,,,False,,Ran,Chandnani
+1988.0,Winter,Alpine Skiing (Skiing),"Slalom, Men (Olympic)",Kishor Rahtna Rai,96703,IND,,49.0,False,,Kishor,Rahtna
+1998.0,Winter,Luge,"Singles, Men (Olympic)",Shiva Keshavan,100506,IND,,28.0,False,,Shiva,Keshavan
+2002.0,Winter,Luge,"Singles, Men (Olympic)",Shiva Keshavan,100506,IND,,33.0,False,,Shiva,Keshavan
+2006.0,Winter,Luge,"Singles, Men (Olympic)",Shiva Keshavan,100506,IND,,25.0,False,,Shiva,Keshavan
+2010.0,Winter,Luge,"Singles, Men (Olympic)",Shiva Keshavan,100506,IND,,29.0,False,,Shiva,Keshavan
+2018.0,Winter,Luge,"Singles, Men (Olympic)",Shiva Keshavan,100506,IND,,34.0,False,,Shiva,Keshavan
+1948.0,Summer,Water Polo (Aquatics),"Water Polo, Men (Olympic)",Gora Seal,100829,IND,India,9.0,True,,Gora,Seal
+1948.0,Summer,Water Polo (Aquatics),"Water Polo, Men (Olympic)",Dwarkadas Murarji,100830,IND,India,9.0,True,,Dwarkadas,Murarji
+1948.0,Summer,Water Polo (Aquatics),"Water Polo, Men (Olympic)",Durga Das,100831,IND,India,9.0,True,,Durga,Das
+1948.0,Summer,Water Polo (Aquatics),"Water Polo, Men (Olympic)",Suhas Chatterjee,100832,IND,India,9.0,True,,Suhas,Chatterjee
+1948.0,Summer,Water Polo (Aquatics),"Water Polo, Men (Olympic)",Jahar Ahir,100833,IND,India,9.0,True,,Jahar,Ahir
+1948.0,Summer,Water Polo (Aquatics),"Water Polo, Men (Olympic)",Jamini Das,100846,IND,India,9.0,True,,Jamini,Das
+1932.0,Summer,Hockey,"Hockey, Men (Olympic)",Pat Sullivan,102603,IND,British India,1.0,False,Gold,Pat,Sullivan
+2004.0,Summer,Archery,"Individual, Women (Olympic)",Sumangala Sharma,102811,IND,,24.0,False,,Sumangala,Sharma
+2004.0,Summer,Archery,"Team, Women (Olympic)",Sumangala Sharma,102811,IND,India,8.0,False,,Sumangala,Sharma
+2004.0,Summer,Archery,"Individual, Women (Olympic)",Reena Kumari,102813,IND,,15.0,False,,Reena,Kumari
+2004.0,Summer,Archery,"Team, Women (Olympic)",Reena Kumari,102813,IND,India,8.0,False,,Reena,Kumari
+2004.0,Summer,Archery,"Individual, Women (Olympic)",Dola Banerjee,102816,IND,,52.0,False,,Dola,Banerjee
+2004.0,Summer,Archery,"Team, Women (Olympic)",Dola Banerjee,102816,IND,India,8.0,False,,Dola,Banerjee
+2008.0,Summer,Archery,"Individual, Women (Olympic)",Dola Banerjee,102816,IND,,33.0,False,,Dola,Banerjee
+2008.0,Summer,Archery,"Team, Women (Olympic)",Dola Banerjee,102816,IND,India,7.0,False,,Dola,Banerjee
+2004.0,Summer,Archery,"Individual, Men (Olympic)",Satyadev Prasad,102874,IND,,10.0,False,,Satyadev,Prasad
+2004.0,Summer,Archery,"Team, Men (Olympic)",Satyadev Prasad,102874,IND,India,11.0,False,,Satyadev,Prasad
+2004.0,Summer,Archery,"Individual, Men (Olympic)",Tarundeep Rai,102875,IND,,43.0,False,,Tarundeep,Rai
+2004.0,Summer,Archery,"Team, Men (Olympic)",Tarundeep Rai,102875,IND,India,11.0,False,,Tarundeep,Rai
+2012.0,Summer,Archery,"Individual, Men (Olympic)",Tarundeep Rai,102875,IND,,17.0,True,,Tarundeep,Rai
+2012.0,Summer,Archery,"Team, Men (Olympic)",Tarundeep Rai,102875,IND,India,9.0,True,,Tarundeep,Rai
+2020.0,Summer,Archery,"Individual, Men (Olympic)",Tarundeep Rai,102875,IND,,17.0,True,,Tarundeep,Rai
+2020.0,Summer,Archery,"Team, Men (Olympic)",Tarundeep Rai,102875,IND,India,8.0,False,,Tarundeep,Rai
+2004.0,Summer,Archery,"Individual, Men (Olympic)",Majhi Sawaiyan,102876,IND,,59.0,False,,Majhi,Sawaiyan
+2004.0,Summer,Archery,"Team, Men (Olympic)",Majhi Sawaiyan,102876,IND,India,11.0,False,,Majhi,Sawaiyan
+2004.0,Summer,Weightlifting,"Flyweight, Women (Olympic)",Nameirakpam Kunjarani Devi,103520,IND,,4.0,False,,Nameirakpam,Kunjarani
+2004.0,Summer,Swimming (Aquatics),"50 metres Freestyle, Women (Olympic)",Shikha Tandon,103769,IND,,40.0,False,,Shikha,Tandon
+2004.0,Summer,Swimming (Aquatics),"100 metres Freestyle, Women (Olympic)",Shikha Tandon,103769,IND,,46.0,False,,Shikha,Tandon
+2004.0,Summer,Sailing,"Skiff, Open (Olympic)",Malav Shroff,104088,IND,Sumeet Patel,19.0,False,,Malav,Shroff
+2004.0,Summer,Sailing,"Skiff, Open (Olympic)",Sumeet Patel,104089,IND,Malav Shroff,19.0,False,,Sumeet,Patel
+2004.0,Summer,Rowing,"Single Sculls, Men (Olympic)",Paulose Pandari Kunnel,104295,IND,,29.0,False,,Paulose,Pandari
+2004.0,Summer,Shooting,"Air Rifle, 10 metres, Women (Olympic)",Suma Shirur,104667,IND,,8.0,False,,Suma,Shirur
+2004.0,Summer,Shooting,"Small-Bore Rifle, Three Positions, 50 metres, Women (Olympic)",Deepali Deshpande,104738,IND,,19.0,False,,Deepali,Deshpande
+2004.0,Summer,Shooting,"Air Rifle, 10 metres, Men (Olympic)",Gagan Narang,104771,IND,,12.0,True,,Gagan,Narang
+2008.0,Summer,Shooting,"Air Rifle, 10 metres, Men (Olympic)",Gagan Narang,104771,IND,,9.0,False,,Gagan,Narang
+2008.0,Summer,Shooting,"Small-Bore Rifle, Three Positions, 50 metres, Men (Olympic)",Gagan Narang,104771,IND,,13.0,False,,Gagan,Narang
+2008.0,Summer,Shooting,"Small-Bore Rifle, Prone, 50 metres, Men (Olympic)",Gagan Narang,104771,IND,,35.0,False,,Gagan,Narang
+2012.0,Summer,Shooting,"Air Rifle, 10 metres, Men (Olympic)",Gagan Narang,104771,IND,,3.0,False,Bronze,Gagan,Narang
+2012.0,Summer,Shooting,"Small-Bore Rifle, Three Positions, 50 metres, Men (Olympic)",Gagan Narang,104771,IND,,20.0,False,,Gagan,Narang
+2012.0,Summer,Shooting,"Small-Bore Rifle, Prone, 50 metres, Men (Olympic)",Gagan Narang,104771,IND,,18.0,False,,Gagan,Narang
+2016.0,Summer,Shooting,"Air Rifle, 10 metres, Men (Olympic)",Gagan Narang,104771,IND,,23.0,False,,Gagan,Narang
+2016.0,Summer,Shooting,"Small-Bore Rifle, Three Positions, 50 metres, Men (Olympic)",Gagan Narang,104771,IND,,33.0,False,,Gagan,Narang
+2016.0,Summer,Shooting,"Small-Bore Rifle, Prone, 50 metres, Men (Olympic)",Gagan Narang,104771,IND,,13.0,False,,Gagan,Narang
+2004.0,Summer,Shooting,"Double Trap, Men (Olympic)",Rajyavardhan Rathore,104792,IND,,2.0,False,Silver,Rajyavardhan,Rathore
+2008.0,Summer,Shooting,"Double Trap, Men (Olympic)",Rajyavardhan Rathore,104792,IND,,15.0,False,,Rajyavardhan,Rathore
+2004.0,Summer,Shooting,"Trap, Men (Olympic)",Manavjit Singh Sandhu,104809,IND,,19.0,True,,Manavjit,Singh
+2008.0,Summer,Shooting,"Trap, Men (Olympic)",Manavjit Singh Sandhu,104809,IND,,12.0,False,,Manavjit,Singh
+2012.0,Summer,Shooting,"Trap, Men (Olympic)",Manavjit Singh Sandhu,104809,IND,,16.0,False,,Manavjit,Singh
+2016.0,Summer,Shooting,"Trap, Men (Olympic)",Manavjit Singh Sandhu,104809,IND,,16.0,False,,Manavjit,Singh
+2004.0,Summer,Athletics,"Heptathlon, Women (Olympic)",J. J. Shobha,104877,IND,,11.0,False,,J.,J.
+2008.0,Summer,Athletics,"Heptathlon, Women (Olympic)",J. J. Shobha,104877,IND,,28.0,False,,J.,J.
+2004.0,Summer,Athletics,"Discus Throw, Women (Olympic)",Harwant Kaur,104928,IND,,12.0,False,,Harwant,Kaur
+2008.0,Summer,Athletics,"Discus Throw, Women (Olympic)",Harwant Kaur,104928,IND,,29.0,False,,Harwant,Kaur
+2004.0,Summer,Athletics,"Discus Throw, Women (Olympic)",Seema Antil,104937,IND,,13.0,False,,Seema,Antil
+2012.0,Summer,Athletics,"Discus Throw, Women (Olympic)",Seema Antil,104937,IND,,12.0,False,,Seema,Antil
+2016.0,Summer,Athletics,"Discus Throw, Women (Olympic)",Seema Antil,104937,IND,,20.0,False,,Seema,Antil
+2020.0,Summer,Athletics,"Discus Throw, Women (Olympic)",Seema Punia,104937,IND,,16.0,False,,Seema,Punia
+2004.0,Summer,Athletics,"400 metres, Men (Olympic)",Mathews Binu,105667,IND,,6.0,False,,Mathews,Binu
+2004.0,Summer,Athletics,"Discus Throw, Men (Olympic)",Anil Kumar Sangwan,105713,IND,,1.0,False,,Anil,Kumar
+2004.0,Summer,Athletics,"Discus Throw, Men (Olympic)",Vikas Gowda,105716,IND,,14.0,False,,Vikas,Gowda
+2008.0,Summer,Athletics,"Discus Throw, Men (Olympic)",Vikas Gowda,105716,IND,,22.0,False,,Vikas,Gowda
+2012.0,Summer,Athletics,"Discus Throw, Men (Olympic)",Vikas Gowda,105716,IND,,8.0,False,,Vikas,Gowda
+2016.0,Summer,Athletics,"Discus Throw, Men (Olympic)",Vikas Gowda,105716,IND,,28.0,False,,Vikas,Gowda
+2004.0,Summer,Badminton,"Singles, Men (Olympic)",Nikhil Kanetkar,105845,IND,,9.0,True,,Nikhil,Kanetkar
+2004.0,Summer,Badminton,"Singles, Men (Olympic)",Abhinn Shyam Gupta,105851,IND,,17.0,True,,Abhinn,Shyam
+2004.0,Summer,Boxing,"Flyweight, Men (Olympic)",Akhil Kumar,106168,IND,,17.0,True,,Akhil,Kumar
+2008.0,Summer,Boxing,"Bantamweight, Men (Olympic)",Akhil Kumar,106168,IND,,5.0,True,,Akhil,Kumar
+2004.0,Summer,Boxing,"Bantamweight, Men (Olympic)",Diwakar Prasad,106190,IND,,9.0,True,,Diwakar,Prasad
+2004.0,Summer,Boxing,"Light-Welterweight, Men (Olympic)",Vijender Singh,106269,IND,,17.0,True,,Vijender,Singh
+2008.0,Summer,Boxing,"Middleweight, Men (Olympic)",Vijender Singh,106269,IND,,3.0,True,Bronze,Vijender,Singh
+2012.0,Summer,Boxing,"Middleweight, Men (Olympic)",Vijender Singh,106269,IND,,5.0,True,,Vijender,Singh
+2004.0,Summer,Athletics,"Long Jump, Women (Olympic)",Anju Bobby George,106534,IND,,5.0,False,,Anju,Bobby
+2008.0,Summer,Athletics,"Long Jump, Women (Olympic)",Anju Bobby George,106534,IND,,1.0,False,,Anju,Bobby
+2004.0,Summer,Judo,"Extra-Lightweight, Men (Olympic)",Akram Shah,106655,IND,,,False,,Akram,Shah
+2004.0,Summer,Athletics,"High Jump, Women (Olympic)",Bobby Aloysius,107099,IND,,28.0,True,,Bobby,Aloysius
+2004.0,Summer,Table Tennis,"Singles, Women (Olympic)",Mouma Das,107447,IND,,49.0,True,,Mouma,Das
+2016.0,Summer,Table Tennis,"Singles, Women (Olympic)",Mouma Das,107447,IND,,49.0,True,,Mouma,Das
+2004.0,Summer,Table Tennis,"Singles, Men (Olympic)",Sharath Kamal Achanta,107497,IND,,33.0,True,,Sharath,Kamal
+2008.0,Summer,Table Tennis,"Singles, Men (Olympic)",Sharath Kamal Achanta,107497,IND,,33.0,True,,Sharath,Kamal
+2016.0,Summer,Table Tennis,"Singles, Men (Olympic)",Sharath Kamal Achanta,107497,IND,,49.0,True,,Sharath,Kamal
+2020.0,Summer,Table Tennis,"Singles, Men (Olympic)",Sharath Kamal Achanta,107497,IND,,17.0,True,,Sharath,Kamal
+2020.0,Summer,Table Tennis,"Doubles, Mixed (Olympic)",Sharath Kamal Achanta,107497,IND,Manika Batra,9.0,True,,Sharath,Kamal
+2004.0,Summer,Wrestling,"Featherweight, Greco-Roman, Men (Olympic)",Mukesh Khatri,107620,IND,,21.0,False,,Mukesh,Khatri
+2004.0,Summer,Athletics,"4 × 400 metres Relay, Women (Olympic)",Rajwinder Kaur,107783,IND,India,7.0,False,,Rajwinder,Kaur
+2004.0,Summer,Athletics,"4 × 400 metres Relay, Women (Olympic)",Chitra Soman,107784,IND,India,7.0,False,,Chitra,Soman
+2008.0,Summer,Athletics,"4 × 400 metres Relay, Women (Olympic)",Chitra Soman,107784,IND,India,6.0,False,,Chitra,Soman
+2004.0,Summer,Athletics,"4 × 400 metres Relay, Women (Olympic)",Manjit Kaur,107785,IND,India,2.0,False,,Manjit,Kaur
+2008.0,Summer,Athletics,"4 × 400 metres Relay, Women (Olympic)",Manjit Kaur,107785,IND,India,6.0,False,,Manjit,Kaur
+2004.0,Summer,Wrestling,"Middleweight, Freestyle, Men (Olympic)",Sujeet Maan,108030,IND,,18.0,False,,Sujeet,Maan
+2004.0,Summer,Wrestling,"Lightweight, Freestyle, Men (Olympic)",Sushil Kumar,108052,IND,,14.0,False,,Sushil,Kumar
+2008.0,Summer,Wrestling,"Welterweight, Freestyle, Men (Olympic)",Sushil Kumar,108052,IND,,3.0,True,Bronze,Sushil,Kumar
+2012.0,Summer,Wrestling,"Welterweight, Freestyle, Men (Olympic)",Sushil Kumar,108052,IND,,2.0,False,Silver,Sushil,Kumar
+2004.0,Summer,Wrestling,"Super-Heavyweight, Freestyle, Men (Olympic)",Palwinder Singh Cheema,108073,IND,,15.0,False,,Palwinder,Singh
+2004.0,Summer,Wrestling,"Welterweight, Freestyle, Men (Olympic)",Ramesh Kumar,108093,IND,,10.0,False,,Ramesh,Kumar
+2004.0,Summer,Wrestling,"Featherweight, Freestyle, Men (Olympic)",Yogeshwar Dutt,108111,IND,,18.0,False,,Yogeshwar,Dutt
+2008.0,Summer,Wrestling,"Lightweight, Freestyle, Men (Olympic)",Yogeshwar Dutt,108111,IND,,8.0,False,,Yogeshwar,Dutt
+2012.0,Summer,Wrestling,"Lightweight, Freestyle, Men (Olympic)",Yogeshwar Dutt,108111,IND,,3.0,True,Bronze,Yogeshwar,Dutt
+2016.0,Summer,Wrestling,"Welterweight, Freestyle, Men (Olympic)",Yogeshwar Dutt,108111,IND,,21.0,False,,Yogeshwar,Dutt
+2004.0,Summer,Wrestling,"Light-Heavyweight, Freestyle, Men (Olympic)",Anuj Kumar,108119,IND,,16.0,False,,Anuj,Kumar
+2004.0,Summer,Athletics,"4 × 400 metres Relay, Women (Olympic)",Sathi Geetha,108301,IND,India,7.0,False,,Sathi,Geetha
+2008.0,Summer,Athletics,"4 × 400 metres Relay, Women (Olympic)",Sathi Geetha,108301,IND,India,6.0,False,,Sathi,Geetha
+2000.0,Summer,Hockey,"Hockey, Men (Olympic)",Devesh Chauhan,108998,IND,India,,False,,Devesh,Chauhan
+2004.0,Summer,Hockey,"Hockey, Men (Olympic)",Devesh Chauhan,108998,IND,India,7.0,False,,Devesh,Chauhan
+2004.0,Summer,Hockey,"Hockey, Men (Olympic)",Adrian D'Souza,108999,IND,India,7.0,False,,Adrian,D'Souza
+2004.0,Summer,Hockey,"Hockey, Men (Olympic)",Arjun Halappa,109000,IND,India,7.0,False,,Arjun,Halappa
+2004.0,Summer,Hockey,"Hockey, Men (Olympic)",Vikram Pillay,109001,IND,India,7.0,False,,Vikram,Pillay
+2004.0,Summer,Hockey,"Hockey, Men (Olympic)",Viren Rasquinha,109002,IND,India,7.0,False,,Viren,Rasquinha
+2004.0,Summer,Hockey,"Hockey, Men (Olympic)",Adam Sinclair,109003,IND,India,7.0,False,,Adam,Sinclair
+2004.0,Summer,Hockey,"Hockey, Men (Olympic)",Harpal Singh,109004,IND,India,7.0,False,,Harpal,Singh
+2004.0,Summer,Hockey,"Hockey, Men (Olympic)",Prabhjot Singh,109005,IND,India,7.0,False,,Prabhjot,Singh
+2004.0,Summer,Hockey,"Hockey, Men (Olympic)",Sandeep Singh,109006,IND,India,7.0,False,,Sandeep,Singh
+2012.0,Summer,Hockey,"Hockey, Men (Olympic)",Sandeep Singh,109006,IND,India,12.0,False,,Sandeep,Singh
+2004.0,Summer,Hockey,"Hockey, Men (Olympic)",Ignace Tirkey,109008,IND,India,7.0,False,,Ignace,Tirkey
+2012.0,Summer,Hockey,"Hockey, Men (Olympic)",Ignace Tirkey,109008,IND,India,12.0,False,,Ignace,Tirkey
+2004.0,Summer,Hockey,"Hockey, Men (Olympic)",William Xalco,109009,IND,India,7.0,False,,William,Xalco
+2006.0,Winter,Alpine Skiing (Skiing),"Giant Slalom, Men (Olympic)",Hira Lal,110832,IND,,,False,,Hira,Lal
+2006.0,Winter,Alpine Skiing (Skiing),"Giant Slalom, Women (Olympic)",Neha Ahuja,110918,IND,,42.0,False,,Neha,Ahuja
+2006.0,Winter,Alpine Skiing (Skiing),"Slalom, Women (Olympic)",Neha Ahuja,110918,IND,,51.0,False,,Neha,Ahuja
+2006.0,Winter,Cross Country Skiing (Skiing),"Sprint, Men (Olympic)",Bahadur Gurung Gupta,110945,IND,,78.0,False,,Bahadur,Gurung
+2008.0,Summer,Archery,"Individual, Women (Olympic)",Bombayla Devi,111510,IND,,48.0,True,,Bombayla,Devi
+2008.0,Summer,Archery,"Team, Women (Olympic)",Bombayla Devi,111510,IND,India,7.0,False,,Bombayla,Devi
+2012.0,Summer,Archery,"Individual, Women (Olympic)",Bombayla Devi,111510,IND,,17.0,True,,Bombayla,Devi
+2012.0,Summer,Archery,"Team, Women (Olympic)",Bombayla Devi,111510,IND,India,9.0,True,,Bombayla,Devi
+2016.0,Summer,Archery,"Individual, Women (Olympic)",Bombayla Devi,111510,IND,,9.0,True,,Bombayla,Devi
+2016.0,Summer,Archery,"Team, Women (Olympic)",Bombayla Devi,111510,IND,India,6.0,False,,Bombayla,Devi
+2008.0,Summer,Archery,"Individual, Women (Olympic)",Pranitha Vardhineni,111512,IND,,30.0,False,,Pranitha,Vardhineni
+2008.0,Summer,Archery,"Team, Women (Olympic)",Pranitha Vardhineni,111512,IND,India,7.0,False,,Pranitha,Vardhineni
+2008.0,Summer,Archery,"Individual, Men (Olympic)",Mangal Singh,111557,IND,,25.0,True,,Mangal,Singh
+2008.0,Summer,Sailing,"One Person Dinghy, Open (Olympic)",Nachhatar Johal,111671,IND,,23.0,False,,Nachhatar,Johal
+2008.0,Summer,Shooting,"Air Rifle, 10 metres, Women (Olympic)",Avneet Sidhu,111726,IND,,39.0,False,,Avneet,Sidhu
+2008.0,Summer,Shooting,"Small-Bore Rifle, Three Positions, 50 metres, Women (Olympic)",Avneet Sidhu,111726,IND,,42.0,False,,Avneet,Sidhu
+2008.0,Summer,Shooting,"Air Pistol, 10 metres, Men (Olympic)",Samresh Jung,111746,IND,,41.0,False,,Samresh,Jung
+2008.0,Summer,Shooting,"Free Pistol, 50 metres, Men (Olympic)",Samresh Jung,111746,IND,,41.0,False,,Samresh,Jung
+2008.0,Summer,Boxing,"Light-Heavyweight, Men (Olympic)",Dinesh Kumar,112184,IND,,17.0,True,,Dinesh,Kumar
+2008.0,Summer,Swimming (Aquatics),"100 metres Breaststroke, Men (Olympic)",Sandeep Sejwal,112242,IND,,38.0,False,,Sandeep,Sejwal
+2008.0,Summer,Swimming (Aquatics),"200 metres Breaststroke, Men (Olympic)",Sandeep Sejwal,112242,IND,,36.0,False,,Sandeep,Sejwal
+2008.0,Summer,Rowing,"Single Sculls, Men (Olympic)",Bajrang Takhar,112350,IND,,21.0,False,,Bajrang,Takhar
+2008.0,Summer,Badminton,"Singles, Women (Olympic)",Saina Nehwal,112486,IND,,5.0,True,,Saina,Nehwal
+2012.0,Summer,Badminton,"Singles, Women (Olympic)",Saina Nehwal,112486,IND,,3.0,False,Bronze,Saina,Nehwal
+2016.0,Summer,Badminton,"Singles, Women (Olympic)",Saina Nehwal,112486,IND,,14.0,True,,Saina,Nehwal
+2008.0,Summer,Judo,"Extra-Lightweight, Women (Olympic)",Khumujam Devi,112623,IND,,19.0,True,,Khumujam,Devi
+2008.0,Summer,Judo,"Half-Heavyweight, Women (Olympic)",Divya Tewar,112624,IND,,13.0,True,,Divya,Tewar
+2008.0,Summer,Badminton,"Singles, Men (Olympic)",Anup Sridhar,112832,IND,,17.0,True,,Anup,Sridhar
+2008.0,Summer,Boxing,"Featherweight, Men (Olympic)",Anthresh Lakra,112944,IND,,17.0,True,,Anthresh,Lakra
+2008.0,Summer,Boxing,"Flyweight, Men (Olympic)",Jitender Kumar,112986,IND,,5.0,True,,Jitender,Kumar
+2008.0,Summer,Athletics,"Heptathlon, Women (Olympic)",Sushmitha Singha Roy,114364,IND,,31.0,False,,Sushmitha,Singha
+2008.0,Summer,Athletics,"Discus Throw, Women (Olympic)",Krishna Poonia,114424,IND,,23.0,False,,Krishna,Poonia
+2012.0,Summer,Athletics,"Discus Throw, Women (Olympic)",Krishna Poonia,114424,IND,,6.0,False,,Krishna,Poonia
+2008.0,Summer,Athletics,"10,000 metres, Women (Olympic)",Preeja Sreedharan,114506,IND,,23.0,False,,Preeja,Sreedharan
+2008.0,Summer,Athletics,"400 metres, Women (Olympic)",Mandeep Kaur,114813,IND,,6.0,False,,Mandeep,Kaur
+2008.0,Summer,Athletics,"4 × 400 metres Relay, Women (Olympic)",Mandeep Kaur,114813,IND,India,6.0,False,,Mandeep,Kaur
+2008.0,Summer,Athletics,"10,000 metres, Men (Olympic)",Surendra Singh,114978,IND,,26.0,False,,Surendra,Singh
+2008.0,Summer,Athletics,"Triple Jump, Men (Olympic)",Renjith Maheshwary,115037,IND,,35.0,False,,Renjith,Maheshwary
+2012.0,Summer,Athletics,"Triple Jump, Men (Olympic)",Renjith Maheshwary,115037,IND,,,False,,Renjith,Maheshwary
+2016.0,Summer,Athletics,"Triple Jump, Men (Olympic)",Renjith Maheshwary,115037,IND,,30.0,False,,Renjith,Maheshwary
+1984.0,Summer,Hockey,"Hockey, Men (Olympic)",Rajinder Singh,115127,IND,India,5.0,False,,Rajinder,Singh
+2008.0,Summer,Swimming (Aquatics),"50 metres Freestyle, Men (Olympic)",Virdhawal Khade,115587,IND,,40.0,False,,Virdhawal,Khade
+2008.0,Summer,Swimming (Aquatics),"100 metres Freestyle, Men (Olympic)",Virdhawal Khade,115587,IND,,42.0,False,,Virdhawal,Khade
+2008.0,Summer,Swimming (Aquatics),"200 metres Freestyle, Men (Olympic)",Virdhawal Khade,115587,IND,,48.0,False,,Virdhawal,Khade
+2008.0,Summer,Swimming (Aquatics),"200 metres Butterfly, Men (Olympic)",Rehan Poncha,115778,IND,,40.0,False,,Rehan,Poncha
+2008.0,Summer,Swimming (Aquatics),"100 metres Butterfly, Men (Olympic)",Ankur Poseria,115907,IND,,57.0,False,,Ankur,Poseria
+2008.0,Summer,Wrestling,"Super-Heavyweight, Freestyle, Men (Olympic)",Rajiv Tomar,117131,IND,,16.0,False,,Rajiv,Tomar
+2008.0,Summer,Shooting,"Small-Bore Rifle, Three Positions, 50 metres, Men (Olympic)",Sanjeev Rajput,117322,IND,,26.0,False,,Sanjeev,Rajput
+2008.0,Summer,Shooting,"Small-Bore Rifle, Prone, 50 metres, Men (Olympic)",Sanjeev Rajput,117322,IND,,26.0,False,,Sanjeev,Rajput
+2012.0,Summer,Shooting,"Small-Bore Rifle, Three Positions, 50 metres, Men (Olympic)",Sanjeev Rajput,117322,IND,,26.0,False,,Sanjeev,Rajput
+2020.0,Summer,Shooting,"Small-Bore Rifle, Three Positions, 50 metres, Men (Olympic)",Sanjeev Rajput,117322,IND,,32.0,False,,Sanjeev,Rajput
+2008.0,Summer,Table Tennis,"Singles, Women (Olympic)",Neha Aggarwal,117500,IND,,64.0,True,,Neha,Aggarwal
+2008.0,Summer,Tennis,"Singles, Women (Olympic)",Sania Mirza,117613,IND,,33.0,True,,Sania,Mirza
+2008.0,Summer,Tennis,"Doubles, Women (Olympic)",Sania Mirza,117613,IND,Sunitha Rao,9.0,True,,Sania,Mirza
+2012.0,Summer,Tennis,"Doubles, Mixed (Olympic)",Sania Mirza,117613,IND,Leander Paes,5.0,True,,Sania,Mirza
+2012.0,Summer,Tennis,"Doubles, Women (Olympic)",Sania Mirza,117613,IND,Rushmi Chakravarthi,17.0,True,,Sania,Mirza
+2016.0,Summer,Tennis,"Doubles, Mixed (Olympic)",Sania Mirza,117613,IND,Rohan Bopanna,4.0,False,,Sania,Mirza
+2016.0,Summer,Tennis,"Doubles, Women (Olympic)",Sania Mirza,117613,IND,Prarthana Thombare,17.0,True,,Sania,Mirza
+2020.0,Summer,Tennis,"Doubles, Women (Olympic)",Sania Mirza,117613,IND,Ankita Raina,17.0,True,,Sania,Mirza
+2008.0,Summer,Tennis,"Doubles, Women (Olympic)",Sunitha Rao,117631,IND,Sania Mirza,9.0,True,,Sunitha,Rao
+2008.0,Summer,Rowing,"Lightweight Double Sculls, Men (Olympic)",Devender Khandwal,118015,IND,Manjit Singh,18.0,False,,Devender,Khandwal
+2008.0,Summer,Rowing,"Lightweight Double Sculls, Men (Olympic)",Manjit Singh,118016,IND,Devender Khandwal,18.0,False,,Manjit,Singh
+2012.0,Summer,Rowing,"Lightweight Double Sculls, Men (Olympic)",Manjit Singh,118016,IND,Sandeep Kumar,19.0,False,,Manjit,Singh
+2010.0,Winter,Alpine Skiing (Skiing),"Giant Slalom, Men (Olympic)",Jamyang Namgial,118381,IND,,81.0,False,,Jamyang,Namgial
+2010.0,Winter,Cross Country Skiing (Skiing),"15 kilometres, Men (Olympic)",Tashi Lundup,118849,IND,,83.0,False,,Tashi,Lundup
+1932.0,Summer,Hockey,"Hockey, Men (Olympic)",Muhammad Aslam,119991,IND,British India,1.0,False,Gold,Muhammad,Aslam
+1932.0,Summer,Hockey,"Hockey, Men (Olympic)",Frank Brewin,119992,IND,British India,1.0,False,Gold,Frank,Brewin
+2012.0,Summer,Wrestling,"Featherweight, Freestyle, Men (Olympic)",Amit Kumar,120067,IND,,10.0,False,,Amit,Kumar
+2012.0,Summer,Athletics,"50 kilometres Race Walk, Men (Olympic)",Basant Bahadur Rana,120169,IND,,33.0,False,,Basant,Bahadur
+2012.0,Summer,Athletics,"20 kilometres Race Walk, Men (Olympic)",Irfan Kolothum Thodi,120170,IND,,10.0,False,,Irfan,Kolothum
+2020.0,Summer,Athletics,"20 kilometres Race Walk, Men (Olympic)",Irfan Kolothum Thodi,120170,IND,,51.0,False,,Irfan,Kolothum
+2012.0,Summer,Tennis,"Doubles, Women (Olympic)",Rushmi Chakravarthi,120264,IND,Sania Mirza,17.0,True,,Rushmi,Chakravarthi
+2012.0,Summer,Archery,"Individual, Men (Olympic)",Jayanta Talukdar,120666,IND,,33.0,True,,Jayanta,Talukdar
+2012.0,Summer,Archery,"Team, Men (Olympic)",Jayanta Talukdar,120666,IND,India,9.0,True,,Jayanta,Talukdar
+2012.0,Summer,Archery,"Individual, Women (Olympic)",Deepika Kumari,120667,IND,,33.0,True,,Deepika,Kumari
+2012.0,Summer,Archery,"Team, Women (Olympic)",Deepika Kumari,120667,IND,India,9.0,True,,Deepika,Kumari
+2016.0,Summer,Archery,"Individual, Women (Olympic)",Deepika Kumari,120667,IND,,9.0,True,,Deepika,Kumari
+2016.0,Summer,Archery,"Team, Women (Olympic)",Deepika Kumari,120667,IND,India,6.0,False,,Deepika,Kumari
+2020.0,Summer,Archery,"Team, Mixed (Olympic)",Deepika Kumari,120667,IND,Pravin Jadhav,6.0,False,,Deepika,Kumari
+2020.0,Summer,Archery,"Individual, Women (Olympic)",Deepika Kumari,120667,IND,,8.0,False,,Deepika,Kumari
+2012.0,Summer,Archery,"Individual, Women (Olympic)",Chekrovolu Swuro,120668,IND,,33.0,True,,Chekrovolu,Swuro
+2012.0,Summer,Archery,"Team, Women (Olympic)",Chekrovolu Swuro,120668,IND,India,9.0,True,,Chekrovolu,Swuro
+2012.0,Summer,Archery,"Individual, Men (Olympic)",Rahul Banerjee,120669,IND,,17.0,True,,Rahul,Banerjee
+2012.0,Summer,Archery,"Team, Men (Olympic)",Rahul Banerjee,120669,IND,India,9.0,True,,Rahul,Banerjee
+2012.0,Summer,Boxing,"Light-Flyweight, Men (Olympic)",Devendro Singh Laishram,120751,IND,,5.0,True,,Devendro,Singh
+2012.0,Summer,Boxing,"Lightweight, Men (Olympic)",Jai Bhagwan,120752,IND,,9.0,True,,Jai,Bhagwan
+2012.0,Summer,Boxing,"Light-Welterweight, Men (Olympic)",Manoj Kumar,120753,IND,,9.0,True,,Manoj,Kumar
+2016.0,Summer,Boxing,"Light-Welterweight, Men (Olympic)",Manoj Kumar,120753,IND,,9.0,True,,Manoj,Kumar
+2010.0,Summer,Boxing,"Lightweight, Boys (YOG)",Vikas Krishan Yadav,120754,IND,,3.0,False,Bronze,Vikas,Krishan
+2012.0,Summer,Boxing,"Welterweight, Men (Olympic)",Vikas Krishan Yadav,120754,IND,,9.0,True,,Vikas,Krishan
+2016.0,Summer,Boxing,"Middleweight, Men (Olympic)",Vikas Krishan Yadav,120754,IND,,5.0,True,,Vikas,Krishan
+2020.0,Summer,Boxing,"Welterweight, Men (Olympic)",Vikas Krishan Yadav,120754,IND,,17.0,True,,Vikas,Krishan
+2012.0,Summer,Swimming (Aquatics),"1,500 metres Freestyle, Men (Olympic)",Gagan Ullalmath,120764,IND,,31.0,False,,Gagan,Ullalmath
+2012.0,Summer,Hockey,"Hockey, Men (Olympic)",Shivendra Singh,120766,IND,India,12.0,False,,Shivendra,Singh
+2012.0,Summer,Hockey,"Hockey, Men (Olympic)",Gurbaj Singh,120767,IND,India,12.0,False,,Gurbaj,Singh
+2012.0,Summer,Hockey,"Hockey, Men (Olympic)",Danish Mujtaba,120768,IND,India,12.0,False,,Danish,Mujtaba
+2016.0,Summer,Hockey,"Hockey, Men (Olympic)",Danish Mujtaba,120768,IND,India,8.0,False,,Danish,Mujtaba
+2012.0,Summer,Hockey,"Hockey, Men (Olympic)",Manpreet Singh,120770,IND,India,12.0,False,,Manpreet,Singh
+2016.0,Summer,Hockey,"Hockey, Men (Olympic)",Manpreet Singh,120770,IND,India,8.0,False,,Manpreet,Singh
+2020.0,Summer,Hockey,"Hockey, Men (Olympic)",Manpreet Singh,120770,IND,India,3.0,False,Bronze,Manpreet,Singh
+2012.0,Summer,Hockey,"Hockey, Men (Olympic)",Dharamvir Singh,120771,IND,India,12.0,False,,Dharamvir,Singh
+2012.0,Summer,Hockey,"Hockey, Men (Olympic)",Sreejesh Parattu Raveendran,120849,IND,India,12.0,False,,Sreejesh,Parattu
+2016.0,Summer,Hockey,"Hockey, Men (Olympic)",Sreejesh Parattu Raveendran,120849,IND,India,8.0,False,,Sreejesh,Parattu
+2020.0,Summer,Hockey,"Hockey, Men (Olympic)",Sreejesh Parattu Raveendran,120849,IND,India,3.0,False,Bronze,Sreejesh,Parattu
+2012.0,Summer,Hockey,"Hockey, Men (Olympic)",S. K. Uthappa,120850,IND,India,12.0,False,,S.,K.
+2016.0,Summer,Hockey,"Hockey, Men (Olympic)",S. K. Uthappa,120850,IND,India,8.0,False,,S.,K.
+2012.0,Summer,Hockey,"Hockey, Men (Olympic)",Bharat Kumar Chetri,120851,IND,India,12.0,False,,Bharat,Kumar
+2012.0,Summer,Hockey,"Hockey, Men (Olympic)",Raghunath Vokkaliga Ramachandra,120852,IND,India,12.0,False,,Raghunath,Vokkaliga
+2016.0,Summer,Hockey,"Hockey, Men (Olympic)",Raghunath Vokkaliga Ramachandra,120852,IND,India,8.0,False,,Raghunath,Vokkaliga
+2012.0,Summer,Hockey,"Hockey, Men (Olympic)",Sunil Sowmarpet Vitalacharya,120853,IND,India,12.0,False,,Sunil,Sowmarpet
+2016.0,Summer,Hockey,"Hockey, Men (Olympic)",Sunil Sowmarpet Vitalacharya,120853,IND,India,8.0,False,,Sunil,Sowmarpet
+2012.0,Summer,Hockey,"Hockey, Men (Olympic)",Birendra Lakra,120854,IND,India,12.0,False,,Birendra,Lakra
+2020.0,Summer,Hockey,"Hockey, Men (Olympic)",Birendra Lakra,120854,IND,India,3.0,False,Bronze,Birendra,Lakra
+2012.0,Summer,Hockey,"Hockey, Men (Olympic)",Tushar Khandker,120855,IND,India,12.0,False,,Tushar,Khandker
+2012.0,Summer,Hockey,"Hockey, Men (Olympic)",Gurvinder Singh Chandi,120856,IND,India,12.0,False,,Gurvinder,Singh
+2012.0,Summer,Hockey,"Hockey, Men (Olympic)",Sardar Singh,120857,IND,India,12.0,False,,Sardar,Singh
+2016.0,Summer,Hockey,"Hockey, Men (Olympic)",Sardar Singh,120857,IND,India,8.0,False,,Sardar,Singh
+2012.0,Summer,Rowing,"Single Sculls, Men (Olympic)",Sawarn Singh,120935,IND,,16.0,False,,Sawarn,Singh
+2012.0,Summer,Rowing,"Lightweight Double Sculls, Men (Olympic)",Sandeep Kumar,120936,IND,Manjit Singh,19.0,False,,Sandeep,Kumar
+2012.0,Summer,Shooting,"Sporting Pistol, 25 metres, Women (Olympic)",Rahi Sarnobat,121001,IND,,19.0,False,,Rahi,Sarnobat
+2020.0,Summer,Shooting,"Sporting Pistol, 25 metres, Women (Olympic)",Rahi Sarnobat,121001,IND,,32.0,False,,Rahi,Sarnobat
+2012.0,Summer,Shooting,"Air Pistol, 10 metres, Women (Olympic)",Heena Sidhu,121002,IND,,12.0,False,,Heena,Sidhu
+2016.0,Summer,Shooting,"Air Pistol, 10 metres, Women (Olympic)",Heena Sidhu,121002,IND,,14.0,False,,Heena,Sidhu
+2016.0,Summer,Shooting,"Sporting Pistol, 25 metres, Women (Olympic)",Heena Sidhu,121002,IND,,20.0,False,,Heena,Sidhu
+2012.0,Summer,Shooting,"Air Pistol, 10 metres, Women (Olympic)",Annu Raj Singh,121003,IND,,23.0,False,,Annu,Raj
+2012.0,Summer,Shooting,"Sporting Pistol, 25 metres, Women (Olympic)",Annu Raj Singh,121003,IND,,30.0,False,,Annu,Raj
+2012.0,Summer,Athletics,"Triple Jump, Women (Olympic)",Mayookha Johny,121462,IND,,22.0,False,,Mayookha,Johny
+2012.0,Summer,Athletics,"Marathon, Men (Olympic)",Ram Singh Yadav,121463,IND,,78.0,False,,Ram,Singh
+2012.0,Summer,Athletics,"3,000 metres Steeplechase, Women (Olympic)",Sudha Singh,121464,IND,,13.0,False,,Sudha,Singh
+2016.0,Summer,Athletics,"3,000 metres Steeplechase, Women (Olympic)",Sudha Singh,121464,IND,,9.0,False,,Sudha,Singh
+2012.0,Summer,Athletics,"800 metres, Women (Olympic)",Tintu Luka,121465,IND,,5.0,False,,Tintu,Luka
+2016.0,Summer,Athletics,"800 metres, Women (Olympic)",Tintu Luka,121465,IND,,6.0,False,,Tintu,Luka
+2016.0,Summer,Athletics,"4 × 400 metres Relay, Women (Olympic)",Tintu Luka,121465,IND,India,,False,,Tintu,Luka
+2012.0,Summer,Athletics,"Shot Put, Men (Olympic)",Om Prakash Singh Karhana,121467,IND,,16.0,False,,Om,Prakash
+2012.0,Summer,Athletics,"20 kilometres Race Walk, Men (Olympic)",Gurmeet Singh,121468,IND,,32.0,False,,Gurmeet,Singh
+2016.0,Summer,Athletics,"20 kilometres Race Walk, Men (Olympic)",Gurmeet Singh,121468,IND,,,False,,Gurmeet,Singh
+2012.0,Summer,Weightlifting,"Flyweight, Women (Olympic)",Soniya Chanu Ngangbam,121547,IND,,7.0,False,,Soniya,Chanu
+2012.0,Summer,Weightlifting,"Lightweight, Men (Olympic)",Ravi Kumar Katulu,121549,IND,,12.0,False,,Ravi,Kumar
+2012.0,Summer,Table Tennis,"Singles, Men (Olympic)",Soumyajit Ghosh,122479,IND,,33.0,True,,Soumyajit,Ghosh
+2016.0,Summer,Table Tennis,"Singles, Men (Olympic)",Soumyajit Ghosh,122479,IND,,49.0,True,,Soumyajit,Ghosh
+2012.0,Summer,Table Tennis,"Singles, Women (Olympic)",Ankita Das,122481,IND,,49.0,True,,Ankita,Das
+2010.0,Summer,Boxing,"Bantamweight, Boys (YOG)",Shiva Thapa,122482,IND,,2.0,False,Silver,Shiva,Thapa
+2012.0,Summer,Boxing,"Bantamweight, Men (Olympic)",Shiva Thapa,122482,IND,,17.0,True,,Shiva,Thapa
+2016.0,Summer,Boxing,"Bantamweight, Men (Olympic)",Shiva Thapa,122482,IND,,17.0,True,,Shiva,Thapa
+2012.0,Summer,Boxing,"Light-Heavyweight, Men (Olympic)",Sumit Sangwan,122483,IND,,17.0,True,,Sumit,Sangwan
+2012.0,Summer,Boxing,"Flyweight, Women (Olympic)",Mary Kom,122492,IND,,3.0,True,Bronze,Mary,Kom
+2020.0,Summer,Boxing,"Flyweight, Women (Olympic)",Mary Kom,122492,IND,,9.0,True,,Mary,Kom
+2012.0,Summer,Athletics,"20 kilometres Race Walk, Men (Olympic)",Baljinder Singh,123306,IND,,41.0,False,,Baljinder,Singh
+2012.0,Summer,Athletics,"High Jump, Women (Olympic)",Sahana Kumari,123308,IND,,28.0,True,,Sahana,Kumari
+2012.0,Summer,Wrestling,"Middleweight, Freestyle, Men (Olympic)",Narsingh Yadav,123352,IND,,13.0,False,,Narsingh,Yadav
+2016.0,Summer,Wrestling,"Middleweight, Freestyle, Men (Olympic)",Narsingh Yadav,123352,IND,,,False,,Narsingh,Yadav
+2012.0,Summer,Wrestling,"Lightweight, Freestyle, Women (Olympic)",Geeta Phogat,123354,IND,,13.0,False,,Geeta,Phogat
+2012.0,Summer,Judo,"Half-Middleweight, Women (Olympic)",Garima Chaudhary,123367,IND,,17.0,True,,Garima,Chaudhary
+2012.0,Summer,Tennis,"Doubles, Men (Olympic)",Rohan Bopanna,123874,IND,Mahesh Bhupathi,9.0,True,,Rohan,Bopanna
+2016.0,Summer,Tennis,"Doubles, Mixed (Olympic)",Rohan Bopanna,123874,IND,Sania Mirza,4.0,False,,Rohan,Bopanna
+2016.0,Summer,Tennis,"Doubles, Men (Olympic)",Rohan Bopanna,123874,IND,Leander Paes,17.0,True,,Rohan,Bopanna
+2012.0,Summer,Tennis,"Singles, Men (Olympic)",Somdev Devvarman,123875,IND,,33.0,True,,Somdev,Devvarman
+2012.0,Summer,Tennis,"Singles, Men (Olympic)",Jagadeesan Vishnuvardhan,123878,IND,,33.0,True,,Jagadeesan,Vishnuvardhan
+2012.0,Summer,Tennis,"Doubles, Men (Olympic)",Jagadeesan Vishnuvardhan,123878,IND,Leander Paes,9.0,True,,Jagadeesan,Vishnuvardhan
+2012.0,Summer,Shooting,"Small-Bore Rifle, Prone, 50 metres, Men (Olympic)",Joydeep Karmakar,124805,IND,,4.0,False,,Joydeep,Karmakar
+2012.0,Summer,Shooting,"Double Trap, Men (Olympic)",Ronjan Sodhi,124809,IND,,11.0,False,,Ronjan,Sodhi
+2012.0,Summer,Shooting,"Air Pistol, 10 metres, Men (Olympic)",Vijay Kumar,124813,IND,,31.0,False,,Vijay,Kumar
+2012.0,Summer,Shooting,"Rapid-Fire Pistol, 25 metres, Men (Olympic)",Vijay Kumar,124813,IND,,2.0,False,Silver,Vijay,Kumar
+2012.0,Summer,Shooting,"Trap, Women (Olympic)",Shagun Chowdhary,124856,IND,,20.0,False,,Shagun,Chowdhary
+2012.0,Summer,Badminton,"Doubles, Mixed (Olympic)",Jwala Gutta,125116,IND,V. Diju,13.0,True,,Jwala,Gutta
+2012.0,Summer,Badminton,"Doubles, Women (Olympic)",Jwala Gutta,125116,IND,Ashwini Ponnappa,8.0,True,,Jwala,Gutta
+2016.0,Summer,Badminton,"Doubles, Women (Olympic)",Jwala Gutta,125116,IND,Ashwini Ponnappa,9.0,True,,Jwala,Gutta
+2012.0,Summer,Badminton,"Doubles, Women (Olympic)",Ashwini Ponnappa,125117,IND,Jwala Gutta,8.0,True,,Ashwini,Ponnappa
+2016.0,Summer,Badminton,"Doubles, Women (Olympic)",Ashwini Ponnappa,125117,IND,Jwala Gutta,9.0,True,,Ashwini,Ponnappa
+2012.0,Summer,Badminton,"Singles, Men (Olympic)",Parupalli Kashyap,125680,IND,,5.0,True,,Parupalli,Kashyap
+2012.0,Summer,Badminton,"Doubles, Mixed (Olympic)",V. Diju,125686,IND,Jwala Gutta,13.0,True,,V.,Diju
+2014.0,Winter,Alpine Skiing (Skiing),"Giant Slalom, Men (Olympic)",Himanshu Thakur,127893,IND,,72.0,False,,Himanshu,Thakur
+2014.0,Winter,Cross Country Skiing (Skiing),"15 kilometres, Men (Olympic)",Nadeem Iqbal,127894,IND,,85.0,False,,Nadeem,Iqbal
+2016.0,Summer,Archery,"Individual, Women (Olympic)",Laxmirani Majhi,130536,IND,,33.0,True,,Laxmirani,Majhi
+2016.0,Summer,Archery,"Team, Women (Olympic)",Laxmirani Majhi,130536,IND,India,6.0,False,,Laxmirani,Majhi
+2016.0,Summer,Athletics,"4 × 400 metres Relay, Women (Olympic)",Anilda Thomas,130537,IND,India,,False,,Anilda,Thomas
+2016.0,Summer,Athletics,"100 metres, Women (Olympic)",Dutee Chand,130540,IND,,6.0,False,,Dutee,Chand
+2020.0,Summer,Athletics,"100 metres, Women (Olympic)",Dutee Chand,130540,IND,,7.0,False,,Dutee,Chand
+2020.0,Summer,Athletics,"200 metres, Women (Olympic)",Dutee Chand,130540,IND,,7.0,False,,Dutee,Chand
+2016.0,Summer,Athletics,"Marathon, Women (Olympic)",O. P. Jaisha,130541,IND,,89.0,False,,O.,P.
+2016.0,Summer,Athletics,"Marathon, Women (Olympic)",Kavita Tungar,130543,IND,,120.0,False,,Kavita,Tungar
+2010.0,Summer,Athletics,"5,000 metres Race Walk, Girls (YOG)",Khushbir Kaur,130544,IND,,13.0,False,,Khushbir,Kaur
+2016.0,Summer,Athletics,"20 kilometres Race Walk, Women (Olympic)",Khushbir Kaur,130544,IND,,54.0,False,,Khushbir,Kaur
+2016.0,Summer,Athletics,"3,000 metres Steeplechase, Women (Olympic)",Lalita Babar,130545,IND,,10.0,False,,Lalita,Babar
+2016.0,Summer,Athletics,"400 metres, Women (Olympic)",Nirmala Sheoran,130546,IND,,,False,,Nirmala,Sheoran
+2016.0,Summer,Athletics,"4 × 400 metres Relay, Women (Olympic)",Nirmala Sheoran,130546,IND,India,,False,,Nirmala,Sheoran
+2016.0,Summer,Athletics,"4 × 400 metres Relay, Women (Olympic)",M. R. Povamma,130547,IND,India,,False,,M.,R.
+2016.0,Summer,Athletics,"20 kilometres Race Walk, Women (Olympic)",Sapna Punia,130548,IND,,,False,,Sapna,Punia
+2016.0,Summer,Athletics,"200 metres, Women (Olympic)",Srabani Nanda,130549,IND,,6.0,False,,Srabani,Nanda
+2016.0,Summer,Badminton,"Singles, Women (Olympic)",P. V. Sindhu,130550,IND,,2.0,False,Silver,P.,V.
+2020.0,Summer,Badminton,"Singles, Women (Olympic)",P. V. Sindhu,130550,IND,,3.0,False,Bronze,P.,V.
+2014.0,Summer,Golf,"Individual, Girls (YOG)",Aditi Ashok,130551,IND,,11.0,False,,Aditi,Ashok
+2014.0,Summer,Golf,"Team, Mixed Youth (YOG)",Aditi Ashok,130551,IND,Feroz Garewal,21.0,False,,Aditi,Ashok
+2016.0,Summer,Golf,"Individual, Women (Olympic)",Aditi Ashok,130551,IND,,41.0,False,,Aditi,Ashok
+2020.0,Summer,Golf,"Individual, Women (Olympic)",Aditi Ashok,130551,IND,,4.0,False,,Aditi,Ashok
+2016.0,Summer,Artistic Gymnastics (Gymnastics),"Individual All-Around, Women (Olympic)",Dipa Karmakar,130552,IND,,51.0,False,,Dipa,Karmakar
+2016.0,Summer,Artistic Gymnastics (Gymnastics),"Floor Exercise, Women (Olympic)",Dipa Karmakar,130552,IND,,75.0,False,,Dipa,Karmakar
+2016.0,Summer,Artistic Gymnastics (Gymnastics),"Horse Vault, Women (Olympic)",Dipa Karmakar,130552,IND,,4.0,False,,Dipa,Karmakar
+2016.0,Summer,Artistic Gymnastics (Gymnastics),"Uneven Bars, Women (Olympic)",Dipa Karmakar,130552,IND,,77.0,False,,Dipa,Karmakar
+2016.0,Summer,Artistic Gymnastics (Gymnastics),"Balance Beam, Women (Olympic)",Dipa Karmakar,130552,IND,,65.0,False,,Dipa,Karmakar
+2016.0,Summer,Hockey,"Hockey, Women (Olympic)",Anuradha Thokchom,130553,IND,India,12.0,False,,Anuradha,Thokchom
+2016.0,Summer,Hockey,"Hockey, Women (Olympic)",Deepika,130554,IND,India,12.0,False,,Deepika,
+2016.0,Summer,Hockey,"Hockey, Women (Olympic)",Grace Ekka,130555,IND,India,12.0,False,,Grace,Ekka
+2020.0,Summer,Hockey,"Hockey, Women (Olympic)",Grace Ekka,130555,IND,India,4.0,False,,Grace,Ekka
+2016.0,Summer,Hockey,"Hockey, Women (Olympic)",Lilima Minz,130557,IND,India,12.0,False,,Lilima,Minz
+2016.0,Summer,Hockey,"Hockey, Women (Olympic)",Monika,130558,IND,India,12.0,False,,Monika,
+2020.0,Summer,Hockey,"Hockey, Women (Olympic)",Monika,130558,IND,India,4.0,False,,Monika,
+2016.0,Summer,Hockey,"Hockey, Women (Olympic)",Namita Toppo,130559,IND,India,12.0,False,,Namita,Toppo
+2020.0,Summer,Hockey,"Hockey, Women (Olympic)",Namita Toppo,130559,IND,India,,False,,Namita,Toppo
+2016.0,Summer,Hockey,"Hockey, Women (Olympic)",Navjot Kaur,130560,IND,India,12.0,False,,Navjot,Kaur
+2020.0,Summer,Hockey,"Hockey, Women (Olympic)",Navjot Kaur,130560,IND,India,4.0,False,,Navjot,Kaur
+2016.0,Summer,Hockey,"Hockey, Women (Olympic)",Nikki Pradhan,130561,IND,India,12.0,False,,Nikki,Pradhan
+2020.0,Summer,Hockey,"Hockey, Women (Olympic)",Nikki Pradhan,130561,IND,India,4.0,False,,Nikki,Pradhan
+2016.0,Summer,Hockey,"Hockey, Women (Olympic)",Poonam Rani,130562,IND,India,12.0,False,,Poonam,Rani
+2016.0,Summer,Hockey,"Hockey, Women (Olympic)",Preeti Dubey,130563,IND,India,12.0,False,,Preeti,Dubey
+2016.0,Summer,Hockey,"Hockey, Women (Olympic)",Rani,130565,IND,India,12.0,False,,Rani,
+2020.0,Summer,Hockey,"Hockey, Women (Olympic)",Rani,130565,IND,India,4.0,False,,Rani,
+2016.0,Summer,Hockey,"Hockey, Women (Olympic)",Renuka Yadav,130566,IND,India,12.0,False,,Renuka,Yadav
+2016.0,Summer,Hockey,"Hockey, Women (Olympic)",Savita,130567,IND,India,12.0,False,,Savita,
+2020.0,Summer,Hockey,"Hockey, Women (Olympic)",Savita,130567,IND,India,4.0,False,,Savita,
+2016.0,Summer,Hockey,"Hockey, Women (Olympic)",Sunita Lakra,130568,IND,India,12.0,False,,Sunita,Lakra
+2016.0,Summer,Hockey,"Hockey, Women (Olympic)",Sushila Pukhrambam,130569,IND,India,12.0,False,,Sushila,Pukhrambam
+2020.0,Summer,Hockey,"Hockey, Women (Olympic)",Sushila Pukhrambam,130569,IND,India,4.0,False,,Sushila,Pukhrambam
+2016.0,Summer,Hockey,"Hockey, Women (Olympic)",Vandana Katariya,130570,IND,India,12.0,False,,Vandana,Katariya
+2020.0,Summer,Hockey,"Hockey, Women (Olympic)",Vandana Katariya,130570,IND,India,4.0,False,,Vandana,Katariya
+2016.0,Summer,Shooting,"Air Rifle, 10 metres, Women (Olympic)",Apurvi Chandela,130571,IND,,34.0,False,,Apurvi,Chandela
+2020.0,Summer,Shooting,"Air Rifle, 10 metres, Women (Olympic)",Apurvi Chandela,130571,IND,,36.0,False,,Apurvi,Chandela
+2016.0,Summer,Shooting,"Air Rifle, 10 metres, Women (Olympic)",Ayonika Paul,130572,IND,,47.0,False,,Ayonika,Paul
+2014.0,Summer,Swimming (Aquatics),"100 metres Freestyle, Girls (YOG)",Shivani Kataria,130573,IND,,30.0,False,,Shivani,Kataria
+2014.0,Summer,Swimming (Aquatics),"200 metres Freestyle, Girls (YOG)",Shivani Kataria,130573,IND,,25.0,False,,Shivani,Kataria
+2016.0,Summer,Swimming (Aquatics),"200 metres Freestyle, Women (Olympic)",Shivani Kataria,130573,IND,,41.0,False,,Shivani,Kataria
+2016.0,Summer,Tennis,"Doubles, Women (Olympic)",Prarthana Thombare,130574,IND,Sania Mirza,17.0,True,,Prarthana,Thombare
+2016.0,Summer,Table Tennis,"Singles, Women (Olympic)",Manika Batra,130575,IND,,49.0,True,,Manika,Batra
+2020.0,Summer,Table Tennis,"Singles, Women (Olympic)",Manika Batra,130575,IND,,17.0,True,,Manika,Batra
+2020.0,Summer,Table Tennis,"Doubles, Mixed (Olympic)",Manika Batra,130575,IND,Sharath Kamal Achanta,9.0,True,,Manika,Batra
+2016.0,Summer,Weightlifting,"Flyweight, Women (Olympic)",Mirabai Chanu,130576,IND,,,False,,Mirabai,Chanu
+2020.0,Summer,Weightlifting,"Flyweight, Women (Olympic)",Mirabai Chanu,130576,IND,,2.0,False,Silver,Mirabai,Chanu
+2016.0,Summer,Wrestling,"Featherweight, Freestyle, Women (Olympic)",Babita Phogat,130577,IND,,13.0,False,,Babita,Phogat
+2016.0,Summer,Wrestling,"Lightweight, Freestyle, Women (Olympic)",Sakshi Malik,130579,IND,,3.0,True,Bronze,Sakshi,Malik
+2016.0,Summer,Wrestling,"Flyweight, Freestyle, Women (Olympic)",Vinesh,130580,IND,,10.0,False,,Vinesh,
+2020.0,Summer,Wrestling,"Featherweight, Freestyle, Women (Olympic)",Vinesh,130580,IND,,9.0,False,,Vinesh,
+2010.0,Summer,Archery,"Individual, Boys (YOG)",Atanu Das,134416,IND,,17.0,True,,Atanu,Das
+2010.0,Summer,Archery,"Team, Mixed Youth (YOG)",Atanu Das,134416,IND,Miranda Leek,17.0,True,,Atanu,Das
+2016.0,Summer,Archery,"Individual, Men (Olympic)",Atanu Das,134416,IND,,9.0,True,,Atanu,Das
+2020.0,Summer,Archery,"Individual, Men (Olympic)",Atanu Das,134416,IND,,9.0,True,,Atanu,Das
+2020.0,Summer,Archery,"Team, Men (Olympic)",Atanu Das,134416,IND,India,8.0,False,,Atanu,Das
+2016.0,Summer,Athletics,"Long Jump, Men (Olympic)",Ankit Sharma,134417,IND,,24.0,False,,Ankit,Sharma
+2016.0,Summer,Athletics,"4 × 400 metres Relay, Men (Olympic)",Arokia Rajiv,134418,IND,India,2.0,False,,Arokia,Rajiv
+2020.0,Summer,Athletics,"4 × 400 metres Relay, Men (Olympic)",Arokia Rajiv,134418,IND,India,4.0,False,,Arokia,Rajiv
+2020.0,Summer,Athletics,"4 × 400 metres Relay, Mixed (Olympic)",Arokia Rajiv,134418,IND,India,15.0,False,,Arokia,Rajiv
+2016.0,Summer,Athletics,"4 × 400 metres Relay, Men (Olympic)",Ayyasamy Dharun,134419,IND,India,2.0,False,,Ayyasamy,Dharun
+2016.0,Summer,Athletics,"20 kilometres Race Walk, Men (Olympic)",Ganapathi Krishnan,134421,IND,,,False,,Ganapathi,Krishnan
+2016.0,Summer,Athletics,"Marathon, Men (Olympic)",Thonakal Gopi,134422,IND,,25.0,False,,Thonakal,Gopi
+2016.0,Summer,Athletics,"800 metres, Men (Olympic)",Jinson Johnson,134424,IND,,5.0,False,,Jinson,Johnson
+2016.0,Summer,Athletics,"Marathon, Men (Olympic)",Kheta Ram,134425,IND,,26.0,False,,Kheta,Ram
+2016.0,Summer,Athletics,"4 × 400 metres Relay, Men (Olympic)",Kunhu Muhammed Puthanpurakkal,134426,IND,India,2.0,False,,Kunhu,Muhammed
+2016.0,Summer,Athletics,"20 kilometres Race Walk, Men (Olympic)",Manish Singh,134428,IND,,13.0,False,,Manish,Singh
+2016.0,Summer,Athletics,"400 metres, Men (Olympic)",Mohammad Anas Yahiya,134430,IND,,6.0,False,,Mohammad,Anas
+2016.0,Summer,Athletics,"4 × 400 metres Relay, Men (Olympic)",Mohammad Anas Yahiya,134430,IND,India,2.0,False,,Mohammad,Anas
+2020.0,Summer,Athletics,"4 × 400 metres Relay, Men (Olympic)",Mohammad Anas Yahiya,134430,IND,India,4.0,False,,Mohammad,Anas
+2020.0,Summer,Athletics,"4 × 400 metres Relay, Mixed (Olympic)",Mohammad Anas Yahiya,134430,IND,India,15.0,False,,Mohammad,Anas
+2016.0,Summer,Athletics,"Marathon, Men (Olympic)",Nitendra Singh Rawat,134431,IND,,83.0,False,,Nitendra,Singh
+2016.0,Summer,Athletics,"50 kilometres Race Walk, Men (Olympic)",Sandeep Kumar,134432,IND,,35.0,False,,Sandeep,Kumar
+2020.0,Summer,Athletics,"20 kilometres Race Walk, Men (Olympic)",Sandeep Kumar,134432,IND,,23.0,False,,Sandeep,Kumar
+2016.0,Summer,Badminton,"Doubles, Men (Olympic)",Manu Attri,134433,IND,B. Sumeeth Reddy,9.0,True,,Manu,Attri
+2016.0,Summer,Badminton,"Doubles, Men (Olympic)",B. Sumeeth Reddy,134434,IND,Manu Attri,9.0,True,,B.,Sumeeth
+2016.0,Summer,Badminton,"Singles, Men (Olympic)",Srikanth Kidambi,134435,IND,,5.0,True,,Srikanth,Kidambi
+2016.0,Summer,Golf,"Individual, Men (Olympic)",Anirban Lahiri,134436,IND,,57.0,False,,Anirban,Lahiri
+2020.0,Summer,Golf,"Individual, Men (Olympic)",Anirban Lahiri,134436,IND,,42.0,True,,Anirban,Lahiri
+2016.0,Summer,Golf,"Individual, Men (Olympic)",Shiv Chawrasia,134437,IND,,50.0,True,,Shiv,Chawrasia
+2016.0,Summer,Hockey,"Hockey, Men (Olympic)",Akashdeep Singh,134438,IND,India,8.0,False,,Akashdeep,Singh
+2016.0,Summer,Hockey,"Hockey, Men (Olympic)",Nikkin Thimmaiah,134439,IND,India,8.0,False,,Nikkin,Thimmaiah
+2016.0,Summer,Hockey,"Hockey, Men (Olympic)",Chinglensana Kangujam,134440,IND,India,8.0,False,,Chinglensana,Kangujam
+2016.0,Summer,Hockey,"Hockey, Men (Olympic)",Devindar Walmiki,134441,IND,India,8.0,False,,Devindar,Walmiki
+2012.0,Summer,Hockey,"Hockey, Men (Olympic)",Kothajit Singh,134442,IND,India,,False,,Kothajit,Singh
+2016.0,Summer,Hockey,"Hockey, Men (Olympic)",Kothajit Singh,134442,IND,India,8.0,False,,Kothajit,Singh
+2016.0,Summer,Hockey,"Hockey, Men (Olympic)",Rupinder Pal Singh,134444,IND,India,8.0,False,,Rupinder,Pal
+2020.0,Summer,Hockey,"Hockey, Men (Olympic)",Rupinder Pal Singh,134444,IND,India,3.0,False,Bronze,Rupinder,Pal
+2016.0,Summer,Hockey,"Hockey, Men (Olympic)",Surender Kumar,134445,IND,India,8.0,False,,Surender,Kumar
+2020.0,Summer,Hockey,"Hockey, Men (Olympic)",Surender Kumar,134445,IND,India,3.0,False,Bronze,Surender,Kumar
+2016.0,Summer,Judo,"Middleweight, Men (Olympic)",Avtar Singh,134447,IND,,17.0,True,,Avtar,Singh
+2016.0,Summer,Rowing,"Single Sculls, Men (Olympic)",Dattu Baban Bhokanal,134448,IND,,13.0,False,,Dattu,Baban
+2016.0,Summer,Shooting,"Small-Bore Rifle, Three Positions, 50 metres, Men (Olympic)",Chain Singh,134449,IND,,23.0,False,,Chain,Singh
+2016.0,Summer,Shooting,"Small-Bore Rifle, Prone, 50 metres, Men (Olympic)",Chain Singh,134449,IND,,36.0,False,,Chain,Singh
+2016.0,Summer,Shooting,"Air Pistol, 10 metres, Men (Olympic)",Gurpreet Singh,134450,IND,,20.0,False,,Gurpreet,Singh
+2016.0,Summer,Shooting,"Rapid-Fire Pistol, 25 metres, Men (Olympic)",Gurpreet Singh,134450,IND,,7.0,False,,Gurpreet,Singh
+2016.0,Summer,Shooting,"Air Pistol, 10 metres, Men (Olympic)",Jitu Rai,134451,IND,,8.0,False,,Jitu,Rai
+2016.0,Summer,Shooting,"Free Pistol, 50 metres, Men (Olympic)",Jitu Rai,134451,IND,,12.0,False,,Jitu,Rai
+2016.0,Summer,Shooting,"Trap, Men (Olympic)",Kynan Chenai,134452,IND,,19.0,False,,Kynan,Chenai
+2016.0,Summer,Shooting,"Skeet, Men (Olympic)",Mairaj Ahmad Khan,134453,IND,,9.0,False,,Mairaj,Ahmad
+2020.0,Summer,Shooting,"Skeet, Men (Olympic)",Mairaj Ahmad Khan,134453,IND,,25.0,False,,Mairaj,Ahmad
+2016.0,Summer,Shooting,"Free Pistol, 50 metres, Men (Olympic)",Prakash Nanjappa,134454,IND,,25.0,False,,Prakash,Nanjappa
+2016.0,Summer,Swimming (Aquatics),"200 metres Butterfly, Men (Olympic)",Sajan Prakash,134455,IND,,28.0,False,,Sajan,Prakash
+2020.0,Summer,Swimming (Aquatics),"100 metres Butterfly, Men (Olympic)",Sajan Prakash,134455,IND,,46.0,False,,Sajan,Prakash
+2020.0,Summer,Swimming (Aquatics),"200 metres Butterfly, Men (Olympic)",Sajan Prakash,134455,IND,,24.0,False,,Sajan,Prakash
+2016.0,Summer,Weightlifting,"Middleweight, Men (Olympic)",Sathish Kumar Sivalingam,134457,IND,,10.0,False,,Sathish,Kumar
+2016.0,Summer,Wrestling,"Heavyweight, Greco-Roman, Men (Olympic)",Hardeep Singh,134458,IND,,13.0,False,,Hardeep,Singh
+2016.0,Summer,Wrestling,"Light-Heavyweight, Greco-Roman, Men (Olympic)",Ravinder Khatri,134459,IND,,20.0,False,,Ravinder,Khatri
+2016.0,Summer,Wrestling,"Featherweight, Freestyle, Men (Olympic)",Sandeep Tomar,134460,IND,,15.0,False,,Sandeep,Tomar
+2016.0,Summer,Hockey,"Hockey, Men (Olympic)",Ramandeep Singh,136644,IND,India,8.0,False,,Ramandeep,Singh
+2016.0,Summer,Hockey,"Hockey, Men (Olympic)",Harmanpreet Singh,136645,IND,India,8.0,False,,Harmanpreet,Singh
+2020.0,Summer,Hockey,"Hockey, Men (Olympic)",Harmanpreet Singh,136645,IND,India,3.0,False,Bronze,Harmanpreet,Singh
+2016.0,Summer,Athletics,"Shot Put, Women (Olympic)",Manpreet Kaur,136659,IND,,23.0,False,,Manpreet,Kaur
+2018.0,Winter,Cross Country Skiing (Skiing),"15 kilometres, Men (Olympic)",Jagdish Singh,137354,IND,,99.0,False,,Jagdish,Singh
+2020.0,Summer,Athletics,"Javelin Throw, Women (Olympic)",Annu Rani,143718,IND,,29.0,False,,Annu,Rani
+2020.0,Summer,Athletics,"20 kilometres Race Walk, Women (Olympic)",Bhawna Jat,143719,IND,,32.0,False,,Bhawna,Jat
+2020.0,Summer,Athletics,"50 kilometres Race Walk, Men (Olympic)",Gurpreet Singh,143721,IND,,,False,,Gurpreet,Singh
+2020.0,Summer,Athletics,"Discus Throw, Women (Olympic)",Kamalpreet Kaur,143722,IND,,6.0,False,,Kamalpreet,Kaur
+2020.0,Summer,Athletics,"20 kilometres Race Walk, Women (Olympic)",Priyanka,143723,IND,,17.0,False,,Priyanka,
+2020.0,Summer,Athletics,"4 × 400 metres Relay, Mixed (Olympic)",Revathi Veeramani,143724,IND,India,15.0,False,,Revathi,Veeramani
+2020.0,Summer,Athletics,"4 × 400 metres Relay, Mixed (Olympic)",Subha Venkatesan,143725,IND,India,15.0,False,,Subha,Venkatesan
+2020.0,Summer,Boxing,"Welterweight, Women (Olympic)",Lovlina Borgohain,143726,IND,,3.0,True,Bronze,Lovlina,Borgohain
+2020.0,Summer,Boxing,"Middleweight, Women (Olympic)",Pooja Rani,143727,IND,,5.0,True,,Pooja,Rani
+2020.0,Summer,Boxing,"Lightweight, Women (Olympic)",Simranjit Kaur Baatth,143728,IND,,9.0,True,,Simranjit,Kaur
+2020.0,Summer,Fencing,"Sabre, Individual, Women (Olympic)",C. A. Bhavani Devi,143729,IND,,31.0,False,,C.,A.
+2020.0,Summer,Artistic Gymnastics (Gymnastics),"Individual All-Around, Women (Olympic)",Pranati Nayak,143730,IND,,79.0,False,,Pranati,Nayak
+2020.0,Summer,Artistic Gymnastics (Gymnastics),"Floor Exercise, Women (Olympic)",Pranati Nayak,143730,IND,,83.0,False,,Pranati,Nayak
+2020.0,Summer,Artistic Gymnastics (Gymnastics),"Uneven Bars, Women (Olympic)",Pranati Nayak,143730,IND,,86.0,False,,Pranati,Nayak
+2020.0,Summer,Artistic Gymnastics (Gymnastics),"Balance Beam, Women (Olympic)",Pranati Nayak,143730,IND,,89.0,False,,Pranati,Nayak
+2020.0,Summer,Hockey,"Hockey, Women (Olympic)",Gurjit Kaur,143731,IND,India,4.0,False,,Gurjit,Kaur
+2020.0,Summer,Hockey,"Hockey, Women (Olympic)",Navneet Kaur,143733,IND,India,4.0,False,,Navneet,Kaur
+2020.0,Summer,Hockey,"Hockey, Women (Olympic)",Neha Goyal,143734,IND,India,4.0,False,,Neha,Goyal
+2020.0,Summer,Hockey,"Hockey, Women (Olympic)",Warsi,143735,IND,India,4.0,False,,Warsi,
+2020.0,Summer,Hockey,"Hockey, Women (Olympic)",Sharmila Devi,143736,IND,India,4.0,False,,Sharmila,Devi
+2020.0,Summer,Hockey,"Hockey, Women (Olympic)",Duhan,143737,IND,India,4.0,False,,Duhan,
+2020.0,Summer,Judo,"Extra-Lightweight, Women (Olympic)",Shushila Devi Likmabam,143738,IND,,17.0,True,,Shushila,Devi
+2020.0,Summer,Sailing,"One Person Dinghy, Women (Olympic)",Nethra Kumanan,143739,IND,,35.0,False,,Nethra,Kumanan
+2020.0,Summer,Shooting,"Air Rifle, 10 metres, Team, Mixed (Olympic)",Anjum Moudgil,143740,IND,Deepak Kumar,18.0,False,,Anjum,Moudgil
+2020.0,Summer,Shooting,"Small-Bore Rifle, Three Positions, 50 metres, Women (Olympic)",Anjum Moudgil,143740,IND,,15.0,False,,Anjum,Moudgil
+2020.0,Summer,Shooting,"Air Rifle, 10 metres, Team, Mixed (Olympic)",Elavenil Valarivan,143741,IND,Divyansh Singh Panwar,12.0,False,,Elavenil,Valarivan
+2020.0,Summer,Shooting,"Air Rifle, 10 metres, Women (Olympic)",Elavenil Valarivan,143741,IND,,16.0,False,,Elavenil,Valarivan
+2020.0,Summer,Shooting,"Small-Bore Rifle, Three Positions, 50 metres, Women (Olympic)",Tejaswini Sawant,143742,IND,,33.0,False,,Tejaswini,Sawant
+2020.0,Summer,Swimming (Aquatics),"100 metres Backstroke, Women (Olympic)",Maana Patel,143743,IND,,39.0,False,,Maana,Patel
+2020.0,Summer,Tennis,"Doubles, Women (Olympic)",Ankita Raina,143744,IND,Sania Mirza,17.0,True,,Ankita,Raina
+2020.0,Summer,Wrestling,"Lightweight, Freestyle, Women (Olympic)",Anshu Malik,143745,IND,,9.0,False,,Anshu,Malik
+2020.0,Summer,Wrestling,"Flyweight, Freestyle, Women (Olympic)",Seema Bisla,143746,IND,,13.0,False,,Seema,Bisla
+2020.0,Summer,Wrestling,"Middleweight, Freestyle, Women (Olympic)",Sonam Malik,143747,IND,,11.0,False,,Sonam,Malik
+2020.0,Summer,Archery,"Team, Mixed (Olympic)",Pravin Jadhav,143748,IND,Deepika Kumari,6.0,False,,Pravin,Jadhav
+2020.0,Summer,Archery,"Individual, Men (Olympic)",Pravin Jadhav,143748,IND,,17.0,True,,Pravin,Jadhav
+2020.0,Summer,Archery,"Team, Men (Olympic)",Pravin Jadhav,143748,IND,India,8.0,False,,Pravin,Jadhav
+2020.0,Summer,Athletics,"4 × 400 metres Relay, Mixed (Olympic)",Alex Antony,143749,IND,India,,False,,Alex,Antony
+2020.0,Summer,Athletics,"4 × 400 metres Relay, Men (Olympic)",Amoj Jacob,143750,IND,India,4.0,False,,Amoj,Jacob
+2020.0,Summer,Athletics,"3,000 metres Steeplechase, Men (Olympic)",Avinash Mukund Sable,143751,IND,,7.0,False,,Avinash,Mukund
+2020.0,Summer,Athletics,"400 metres Hurdles, Men (Olympic)",Jabir Madari Palliyalil,143752,IND,,7.0,False,,Jabir,Madari
+2020.0,Summer,Athletics,"4 × 400 metres Relay, Men (Olympic)",Naganathan Pandi,143753,IND,India,,False,,Naganathan,Pandi
+2020.0,Summer,Athletics,"Javelin Throw, Men (Olympic)",Neeraj Chopra,143754,IND,,1.0,False,Gold,Neeraj,Chopra
+2020.0,Summer,Athletics,"4 × 400 metres Relay, Men (Olympic)",Noah Nirmal Tom,143755,IND,India,4.0,False,,Noah,Nirmal
+2020.0,Summer,Athletics,"20 kilometres Race Walk, Men (Olympic)",Rohilla,143756,IND,,47.0,False,,Rohilla,
+2020.0,Summer,Athletics,"4 × 400 metres Relay, Mixed (Olympic)",Sarthak Bhambri,143757,IND,India,,False,,Sarthak,Bhambri
+2020.0,Summer,Athletics,"Javelin Throw, Men (Olympic)",Shivpal Singh,143758,IND,,27.0,False,,Shivpal,Singh
+2020.0,Summer,Athletics,"Long Jump, Men (Olympic)",Murali Sreeshankar,143759,IND,,25.0,False,,Murali,Sreeshankar
+2020.0,Summer,Athletics,"Shot Put, Men (Olympic)",Tajinderpal Singh Toor,143760,IND,,24.0,False,,Tajinderpal,Singh
+2020.0,Summer,Badminton,"Doubles, Men (Olympic)",Chirag Shetty,143761,IND,Satwiksairaj Rankireddy,9.0,True,,Chirag,Shetty
+2020.0,Summer,Badminton,"Doubles, Men (Olympic)",Satwiksairaj Rankireddy,143762,IND,Chirag Shetty,9.0,True,,Satwiksairaj,Rankireddy
+2020.0,Summer,Boxing,"Flyweight, Men (Olympic)",Amit,143763,IND,,9.0,True,,Amit,
+2020.0,Summer,Boxing,"Middleweight, Men (Olympic)",Ashish Kumar,143764,IND,,17.0,True,,Ashish,Kumar
+2020.0,Summer,Boxing,"Lightweight, Men (Olympic)",Manish Kaushik,143765,IND,,17.0,True,,Manish,Kaushik
+2020.0,Summer,Boxing,"Super-Heavyweight, Men (Olympic)",Satish Kumar,143766,IND,,5.0,True,,Satish,Kumar
+2020.0,Summer,Equestrian Eventing (Equestrian),"Individual, Open (Olympic)",Fouaad Mirza,143767,IND,Seigneur,23.0,False,,Fouaad,Mirza
+2020.0,Summer,Golf,"Individual, Men (Olympic)",Udayan Mane,143768,IND,,56.0,False,,Udayan,Mane
+2020.0,Summer,Hockey,"Hockey, Men (Olympic)",Amit Rohidas,143769,IND,India,3.0,False,Bronze,Amit,Rohidas
+2020.0,Summer,Hockey,"Hockey, Men (Olympic)",Dilpreet Singh,143770,IND,India,3.0,False,Bronze,Dilpreet,Singh
+2020.0,Summer,Hockey,"Hockey, Men (Olympic)",Gurjant Singh,143771,IND,India,3.0,False,Bronze,Gurjant,Singh
+2020.0,Summer,Hockey,"Hockey, Men (Olympic)",Hardik Singh,143772,IND,India,3.0,False,Bronze,Hardik,Singh
+2020.0,Summer,Hockey,"Hockey, Men (Olympic)",Lalit Upadhyay,143773,IND,India,3.0,False,Bronze,Lalit,Upadhyay
+2020.0,Summer,Hockey,"Hockey, Men (Olympic)",Mandeep Singh,143774,IND,India,3.0,False,Bronze,Mandeep,Singh
+2020.0,Summer,Hockey,"Hockey, Men (Olympic)",Nilakanta Sharma,143776,IND,India,3.0,False,Bronze,Nilakanta,Sharma
+2020.0,Summer,Hockey,"Hockey, Men (Olympic)",Shamsher Singh,143777,IND,India,3.0,False,Bronze,Shamsher,Singh
+2020.0,Summer,Hockey,"Hockey, Men (Olympic)",Sumit,143778,IND,India,3.0,False,Bronze,Sumit,
+2020.0,Summer,Rowing,"Lightweight Double Sculls, Men (Olympic)",Arjun Lal Jat,143779,IND,Arvind Singh,11.0,False,,Arjun,Lal
+2020.0,Summer,Rowing,"Lightweight Double Sculls, Men (Olympic)",Arvind Singh,143780,IND,Arjun Lal Jat,11.0,False,,Arvind,Singh
+2020.0,Summer,Sailing,"Skiff, Men (Olympic)",Ganapathy Kelapanda,143781,IND,Varun Thakkar,17.0,False,,Ganapathy,Kelapanda
+2020.0,Summer,Sailing,"Skiff, Men (Olympic)",Varun Thakkar,143782,IND,Ganapathy Kelapanda,17.0,False,,Varun,Thakkar
+2020.0,Summer,Sailing,"One Person Dinghy, Men (Olympic)",Vishnu Saravanan,143783,IND,,20.0,False,,Vishnu,Saravanan
+2020.0,Summer,Shooting,"Air Pistol, 10 metres, Men (Olympic)",Abhishek Verma,143784,IND,,17.0,False,,Abhishek,Verma
+2020.0,Summer,Shooting,"Air Pistol, 10 metres, Team, Mixed (Olympic)",Abhishek Verma,143784,IND,Yashaswini Singh Deswal,17.0,False,,Abhishek,Verma
+2020.0,Summer,Shooting,"Small-Bore Rifle, Three Positions, 50 metres, Men (Olympic)",Aishwary Pratap Singh Tomar,143785,IND,,21.0,False,,Aishwary,Pratap
+2020.0,Summer,Shooting,"Skeet, Men (Olympic)",Angad Vir Singh Bajwa,143786,IND,,18.0,False,,Angad,Vir
+2020.0,Summer,Shooting,"Air Rifle, 10 metres, Team, Mixed (Olympic)",Deepak Kumar,143787,IND,Anjum Moudgil,18.0,False,,Deepak,Kumar
+2020.0,Summer,Shooting,"Air Rifle, 10 metres, Men (Olympic)",Deepak Kumar,143787,IND,,26.0,False,,Deepak,Kumar
+2020.0,Summer,Shooting,"Air Rifle, 10 metres, Team, Mixed (Olympic)",Divyansh Singh Panwar,143788,IND,Elavenil Valarivan,12.0,False,,Divyansh,Singh
+2020.0,Summer,Shooting,"Air Rifle, 10 metres, Men (Olympic)",Divyansh Singh Panwar,143788,IND,,32.0,False,,Divyansh,Singh
+2020.0,Summer,Table Tennis,"Singles, Men (Olympic)",Sathiyan Gnanasekaran,143789,IND,,33.0,True,,Sathiyan,Gnanasekaran
+2020.0,Summer,Wrestling,"Welterweight, Freestyle, Men (Olympic)",Bajrang Punia,143790,IND,,3.0,True,Bronze,Bajrang,Punia
+2020.0,Summer,Wrestling,"Light-Heavyweight, Freestyle, Men (Olympic)",Deepak Punia,143791,IND,,5.0,True,,Deepak,Punia
+2020.0,Summer,Wrestling,"Featherweight, Freestyle, Men (Olympic)",Ravi Kumar,143792,IND,,2.0,False,Silver,Ravi,Kumar
+2020.0,Summer,Tennis,"Singles, Men (Olympic)",Sumit Nagal,147660,IND,,17.0,True,,Sumit,Nagal
+2020.0,Summer,Hockey,"Hockey, Women (Olympic)",Reena Khokhar,147731,IND,India,,False,,Reena,Khokhar
+2020.0,Summer,Hockey,"Hockey, Men (Olympic)",Simranjeet Singh,147765,IND,India,3.0,False,Bronze,Simranjeet,Singh
+2020.0,Summer,Hockey,"Hockey, Men (Olympic)",Varun Kumar,147766,IND,India,3.0,False,Bronze,Varun,Kumar
+2020.0,Summer,Golf,"Individual, Women (Olympic)",Diksha Dagar,147784,IND,,50.0,True,,Diksha,Dagar
+2022.0,Winter,Alpine Skiing (Skiing),"Giant Slalom, Men (Olympic)",Arif Khan,148458,IND,,45.0,False,,Arif,Khan
+2022.0,Winter,Alpine Skiing (Skiing),"Slalom, Men (Olympic)",Arif Khan,148458,IND,,,False,,Arif,Khan
